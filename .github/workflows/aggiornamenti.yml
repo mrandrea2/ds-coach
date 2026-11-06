@@ -1,0 +1,25 @@
+name: Aggiornamenti normativi
+on:
+  schedule:
+    - cron: '17 5 * * 1'   # ogni lunedì alle 5:17 UTC
+  workflow_dispatch: {}     # avvio manuale dal tab Actions
+permissions:
+  contents: write
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/aggiorna-normativa.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+      - name: Commit
+        run: |
+          git config user.name "ds-coach-bot"
+          git config user.email "ds-coach-bot@users.noreply.github.com"
+          git add content/aggiornamenti.json
+          git diff --cached --quiet || git commit -m "Aggiornamenti normativi $(date +%F)"
+          git push

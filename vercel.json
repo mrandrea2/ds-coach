@@ -1,0 +1,8 @@
+{
+  "framework": "vite",
+  "functions": {
+    "api/content.js": { "includeFiles": "content/**", "maxDuration": 15 },
+    "api/coach.js": { "maxDuration": 120 },
+    "api/novita.js": { "maxDuration": 300 }
+  }
+}

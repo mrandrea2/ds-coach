@@ -1,0 +1,599 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+MANUALE DI PREPARAZIONE
+
+Costruito sull'analisi dei 3.721 quesiti della banca dati ministeriale 2017
+
+Normativa aggiornata a luglio 2026 · D.M. 194/2022
+
+Andrea Bertelli — uso personale di studio
+
+  
+
+Indice
+
+  
+
+PARTE I — IL CONCORSO E IL METODO
+
+1\. Il concorso per dirigenti scolastici: il quadro normativo vigente
+
+Il reclutamento dei dirigenti scolastici è oggi disciplinato dal D.M. 13 ottobre 2022, n. 194 (Regolamento concernente il concorso per l'accesso ai ruoli della dirigenza scolastica), che ha sostituito il precedente regolamento D.M. 138/2017 in base al quale fu costruita la banca dati del 2017. Il D.M. 194/2022 prevede concorsi a cadenza triennale, subordinati alla disponibilità di posti vacanti nel triennio di riferimento; l'ultimo concorso ordinario è stato bandito nel dicembre 2023 (587 posti), affiancato da una procedura straordinaria (392 posti). Le graduatorie regionali hanno validità triennale: il loro progressivo esaurimento, unito all'organico dirigenziale fissato in 7.389 unità per il 2026/27 (D.I. 124/2025), rende attesa l'indizione della prossima procedura ordinaria nell'orizzonte 2027.
+
+1.1 Requisiti di partecipazione (art. 2, D.M. 194/2022)
+
+Personale docente ed educativo delle istituzioni scolastiche ed educative statali, confermato in ruolo (superamento dell'anno di prova).
+
+Almeno cinque anni di servizio effettivamente prestato nelle istituzioni scolastiche ed educative statali (per ogni anno: almeno 180 giorni, oppure servizio ininterrotto dal 1° febbraio agli scrutini finali).
+
+Laurea magistrale, specialistica, diploma di laurea del vecchio ordinamento, diploma accademico di II livello AFAM o diploma accademico di vecchio ordinamento congiunto a diploma di istituto secondario superiore.
+
+1.2 Le prove
+
+| Fase | Contenuto | Soglie |
+| :-: | :-: | :-: |
+| Prova preselettiva (eventuale) | Test a risposta multipla, computer-based, su tutte le aree del programma. Si svolge se le domande superano una determinata proporzione rispetto ai posti; nel 2023 fu attivata (circa 25.000 candidature per 587 posti). Al termine viene pubblicata la banca dati ufficiale (nel 2017: 4.000 quesiti; nel 2023: analoga logica). | Accede allo scritto un numero di candidati pari a 3 volte i posti (più ex aequo). Il punteggio non concorre al voto finale. |
+| Prova scritta | 5 quesiti a risposta aperta, di cui 2 in lingua inglese (livello B2), da svolgere in 180 minuti. Verte sulle aree tematiche del programma (art. 10). | Minimo 70/100 (i due quesiti in inglese pesano complessivamente fino a 20 punti). |
+| Prova orale | Colloquio sulle aree del programma; risoluzione di un caso concreto attinente alla funzione dirigenziale; verifica dell'uso delle TIC di più comune impiego a scuola; conversazione in inglese (B2 QCER). | Minimo 70/100. |
+| Titoli | Valutazione secondo la Tabella A allegata al regolamento. | Massimo 30 punti. |
+
+|  |
+| :-: |
+| ATTENZIONE Differenza chiave rispetto al 2017: il D.M. 138/2017 prevedeva un corso-concorso (con corso di formazione e tirocinio dopo le prove). Il D.M. 194/2022 prevede un concorso ordinario seguito da un periodo di formazione e prova in servizio. La banca dati che stai usando nacque per la preselettiva del corso-concorso 2017: la logica del test (quesiti a risposta multipla con 4 opzioni) resta identica, ma la banca dati del prossimo concorso sarà nuova e aggiornata. Questo manuale ti serve proprio a colmare lo scarto normativo. |
+
+1.3 Le aree tematiche del programma (art. 10, D.M. 194/2022)
+
+Le nove aree del programma d'esame ricalcano quasi letteralmente quelle del D.M. 138/2017, sulle quali è organizzata la banca dati. Le uniche variazioni sostanziali: nell'area dei processi di programmazione è stata aggiunta esplicitamente la Rendicontazione sociale; l'area giuridica include ora anche il diritto del lavoro; resta l'area sui sistemi educativi dei Paesi UE. Le nove aree sono:
+
+A) Normativa riferita al sistema educativo di istruzione e di formazione e agli ordinamenti degli studi in Italia, con attenzione ai processi di riforma in atto;
+
+B) Modalità di conduzione delle organizzazioni complesse, con riferimento alle istituzioni scolastiche ed educative statali;
+
+C) Processi di programmazione, gestione e valutazione delle istituzioni scolastiche: PTOF, RAV, Piano di Miglioramento, Rendicontazione sociale, nel quadro dell'autonomia;
+
+D) Organizzazione degli ambienti di apprendimento: inclusione scolastica, innovazione digitale, innovazione didattica;
+
+E) Organizzazione del lavoro e gestione del personale, con riferimento al personale scolastico;
+
+F) Valutazione e autovalutazione del personale, degli apprendimenti, dei sistemi e dei processi scolastici;
+
+G) Elementi di diritto civile e amministrativo (obbligazioni e responsabilità del DS), di diritto del lavoro e di diritto penale (delitti contro la PA e in danno di minorenni);
+
+H) Contabilità di Stato, con riferimento alla programmazione e gestione finanziaria delle istituzioni scolastiche;
+
+I) Sistemi educativi dei Paesi dell'Unione europea.
+
+2\. La banca dati 2017: struttura e uso corretto
+
+Il documento ministeriale contiene 3.721 quesiti effettivi (numerazione fino a circa 445 per area, con alcune lacune), distribuiti in modo pressoché uniforme sulle nove aree (circa 415-445 quesiti ciascuna). Nel file pubblicato la risposta corretta è sempre la \[a\]: in sede d'esame le opzioni vengono randomizzate. Ogni quesito è identificato da un codice AREA.NUMERO (es. DOMANDA 3.112 = area 3, quesito 112).
+
+2.1 Come usarla nel 2026-2027
+
+Usala come mappa dei contenuti, non come oracolo: la distribuzione dei quesiti rivela con precisione quali articoli, commi, date e soglie numeriche il Ministero considera 'da sapere'. Questa logica non cambierà.
+
+Verifica sempre la vigenza: una quota rilevante di quesiti cita norme superate (D.I. 44/2001, D.lgs. 50/2016, CCNL 2006/09, abuso d'ufficio, vecchio esame di Stato). La Parte III di questo manuale contiene la tavola di conversione completa.
+
+Allena il formato: quesiti brevi, molto letterali ('Ai sensi dell'art. X, comma Y...'), con distrattori costruiti su numeri vicini (25/24/27/30 ore) o enti simili (CdI/Collegio/Giunta). La preparazione vincente memorizza numeri, organi competenti e scadenze.
+
+Le aree 2 e 9 sono le meno normative: l'area 2 attinge a psicologia delle organizzazioni e leadership (per te terreno familiare), l'area 9 quasi interamente ai rapporti Eurydice sulla valutazione delle scuole in Europa.
+
+2.2 Anatomia dei quesiti per area (dalla banca dati)
+
+| Area | Nuclei più battuti nella banca dati |
+| :-: | :-: |
+| 1\. Ordinamenti | DPR 89/2009 (infanzia e primo ciclo: età, orari 40/25 ore), DPR 87-88-89/2010 (professionali, tecnici, licei: quadri orari, laboratori, prova d'accesso al musicale), D.lgs. 59/2004, L. 107/2015, decreti attuativi 60-66/2017, D.lgs. 61/2017 (nuovi professionali: biennio/triennio, alternanza dalla seconda classe... oggi PCTO), obbligo di istruzione. |
+| 2\. Organizzazioni complesse | Teorie della leadership e degli stili di direzione, motivazione, dinamiche di gruppo (test sociometrico di Moreno), gestione dei conflitti, comunicazione organizzativa, decision making, stress e burnout, cultura organizzativa, delega. |
+| 3\. PTOF e autonomia | DPR 275/1999 articolo per articolo, L. 107/2015 commi 12-14 (chi elabora e chi approva il PTOF), DPR 80/2013, RAV e PdM, organico dell'autonomia, reti di scuole, atto di indirizzo del DS. |
+| 4\. Ambienti e inclusione | L. 104/1992, L. 170/2010 e DM 5669/2011 (DSA), Direttiva BES 27/12/2012 e CM 8/2013, D.lgs. 66/2017, PNSD (azioni, animatore digitale), flessibilità organizzativa e didattica, alunni stranieri, pari opportunità. |
+| 5\. Personale | D.lgs. 297/1994 (organi collegiali, stato giuridico), D.lgs. 165/2001 (art. 25, sanzioni disciplinari), CCNL comparto scuola (permessi, assenze, ferie), anno di prova, comitato di valutazione, mobilità, funzioni strumentali, DSGA e ATA. |
+| 6\. Valutazione | DPR 80/2013 (SNV: INVALSI, INDIRE, ispettivi), prove INVALSI (classi coinvolte), D.lgs. 62/2017 (valutazione ed esami), indagini internazionali OCSE-PISA, TIMSS, PIRLS, TALIS, valutazione dei DS (allora DM sperimentali), certificazione delle competenze. |
+| 7\. Diritto | Codice civile: obbligazioni (artt. 1218-1229), responsabilità extracontrattuale (2043-2059, culpa in vigilando 2047-2048), art. 61 L. 312/1980; L. 241/1990; atto amministrativo e vizi; trasparenza e anticorruzione; reati contro la PA; giurisdizioni. |
+| 8\. Contabilità | D.I. 44/2001 (oggi D.I. 129/2018): programma annuale, conto consuntivo, residui, revisori, attività negoziale, minute spese; L. 196/2009 e bilancio dello Stato; PON 2014-20 (oggi 2021-27 e PNRR). |
+| 9\. Sistemi UE | Rapporti Eurydice (valutazione esterna/interna delle scuole nei Paesi UE: chi la fa, se i risultati sono pubblici, osservazione in classe), strutture dei sistemi, obbligo scolastico nei Paesi membri, processo di Bologna, benchmark europei, EQF, competenze chiave. |
+
+3\. Strategia di preparazione (12-18 mesi)
+
+La selettività reale del concorso sta nella preselettiva (rapporto candidati/posti \~40:1 nel 2023) e nello scritto (5 quesiti aperti in 180 minuti, 36 minuti a quesito, due in inglese). La strategia efficiente lavora su tre binari paralleli.
+
+Binario 1 — Conoscenza normativa (60% del tempo): studio sistematico per aree con questo manuale come indice ragionato, lettura diretta delle fonti primarie chiave (DPR 275/1999, D.lgs. 165/2001 art. 25, D.I. 129/2018, D.lgs. 62/2017 come modificato, L. 150/2024, D.M. 194/2022). Le fonti si leggono su Normattiva in versione vigente.
+
+Binario 2 — Allenamento quiz (25%): batterie quotidiane di 30-50 quesiti dalla banca dati, con correzione critica (per ogni errore: la norma è ancora vigente? cosa dice oggi?). Dal sesto mese, simulazioni complete a tempo (nel 2023: 50 quesiti in 75 minuti).
+
+Binario 3 — Scrittura e inglese (15%): dal quarto mese, un quesito aperto a settimana svolto in 35 minuti (struttura: inquadramento normativo, ruolo del DS, azioni concrete, monitoraggio); glossario inglese della scuola (school governance, curriculum, assessment, inclusion, accountability) e due quesiti in inglese al mese. Livello obiettivo B2.
+
+|  |
+| :-: |
+| ATTENZIONE Vantaggio competitivo personale: le aree 2 (organizzazioni, leadership, motivazione, gruppi) e parte della 6 (valutazione, misurazione) attingono alla psicologia — terreno in cui parti avvantaggiato come psicologo. Investi il tempo risparmiato su contabilità (area 8) e diritto (area 7), le aree statisticamente più ostiche per i docenti. |
+
+  
+
+PARTE II — LE NOVE AREE TEMATICHE
+
+AREA 1 — Ordinamenti del sistema educativo e processi di riforma
+
+1.1 L'impianto costituzionale e le fonti
+
+Artt. 33 e 34 Cost.: l'arte e la scienza sono libere e libero ne è l'insegnamento; la Repubblica detta le norme generali sull'istruzione e istituisce scuole statali per tutti gli ordini e gradi; enti e privati possono istituire scuole senza oneri per lo Stato; la scuola è aperta a tutti; l'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita; i capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi. L'art. 117 (riforma Tit. V, L. cost. 3/2001) riparte le competenze: allo Stato le norme generali sull'istruzione e i livelli essenziali delle prestazioni; alle Regioni la potestà concorrente sull'istruzione (salva l'autonomia delle istituzioni scolastiche) ed esclusiva su istruzione e formazione professionale (IeFP). La L. 62/2000 definisce il sistema nazionale di istruzione: scuole statali e scuole paritarie private e degli enti locali.
+
+1.2 L'architettura del sistema
+
+| Segmento | Norme cardine | Punti da quiz |
+| :-: | :-: | :-: |
+| Scuola dell'infanzia (3-6) | DPR 89/2009, D.lgs. 59/2004; Sistema integrato 0-6: D.lgs. 65/2017 | Accoglie bambini di 3-5 anni compiuti entro il 31/12; anticipatari: 3 anni entro il 30/4; orario 40 ore settimanali estensibile a 50; tempo ridotto antimeridiano 25 ore. D.lgs. 65/2017: Poli per l'infanzia, Piano di azione nazionale 0-6. |
+| Primo ciclo (primaria + secondaria I grado) | DPR 89/2009; Indicazioni nazionali 2012 (DM 254/2012) e 'Nuovi scenari' 2018 | Primaria: 24-27-30 ore o tempo pieno 40; secondaria I grado: 30 ore (tempo prolungato 36-40). Iscrizione primaria: 6 anni entro il 31/12 (anticipo: entro il 30/4). Nuove Indicazioni nazionali infanzia e primo ciclo: testo revisionato dal 2026/27 (adozione progressiva) — latino come opzionalità alle medie, centralità della scrittura, potenziamento STEM. |
+| Secondo ciclo | D.lgs. 226/2005; DPR 87 (professionali), 88 (tecnici), 89 (licei) del 2010; D.lgs. 61/2017 (riforma professionali) | Licei: 6 percorsi (artistico, classico, linguistico, musicale-coreutico, scientifico, scienze umane) + opzioni; iscrizione al musicale-coreutico subordinata a prova di verifica delle competenze; laboratori nei piani di studio di artistico e musicale-coreutico. Tecnici: 2 settori (economico, tecnologico), 11 indirizzi. Professionali (D.lgs. 61/2017): 11 indirizzi, biennio + triennio, PFI (progetto formativo individuale), passaggi con IeFP. |
+| Obbligo di istruzione | L. 296/2006, art. 1 c. 622; DM 139/2007 | 10 anni, da 6 a 16 anni; assolvibile anche nella IeFP; DM 139/2007: 4 assi culturali (linguaggi, matematico, scientifico-tecnologico, storico-sociale) e 8 competenze chiave di cittadinanza; certificazione delle competenze a 16 anni (DM 9/2010). Diritto-dovere fino a 18 anni (D.lgs. 76/2005). |
+
+1.3 La legge 107/2015 e i decreti attuativi
+
+La L. 13 luglio 2015, n. 107 ('Buona Scuola') resta la spina dorsale delle domande di quest'area. Contenuti chiave in un solo comma ciascuno: PTOF triennale rivedibile annualmente entro ottobre (c. 12); elaborato dal Collegio docenti sulla base dell'atto di indirizzo del DS, approvato dal Consiglio di istituto (c. 14); organico dell'autonomia (c. 5 e 63-69); piano nazionale scuola digitale (c. 56-59); alternanza scuola-lavoro obbligatoria (c. 33: 400 ore tecnici/professionali, 200 licei — oggi PCTO, vedi sotto); formazione in servizio obbligatoria, permanente e strutturale (c. 124); Carta del docente 500 euro (c. 121); comitato per la valutazione dei docenti riformato (c. 129); chiamata per competenze (superata); poteri del DS su individuazione docenti (c. 79-82, superati dal CCNL 2019/21).
+
+Gli otto decreti legislativi attuativi del 13 aprile 2017: D.lgs. 59 (formazione iniziale e reclutamento secondaria — più volte riscritto, da ultimo dal D.L. 36/2022 PNRR: 60 CFU/CFA), D.lgs. 60 (cultura umanistica e creatività), D.lgs. 61 (istruzione professionale), D.lgs. 62 (valutazione e esami di Stato), D.lgs. 63 (diritto allo studio), D.lgs. 64 (scuole italiane all'estero), D.lgs. 65 (sistema integrato 0-6), D.lgs. 66 (inclusione, modificato dal D.lgs. 96/2019).
+
+1.4 I processi di riforma in atto: ciò che nel 2017 non esisteva
+
+Questa sottosezione è la più preziosa per il 2027: 'i processi di riforma in atto' saranno riferiti al quadro PNRR e post-PNRR.
+
+| Riforma | Fonte | Contenuto essenziale |
+| :-: | :-: | :-: |
+| PCTO | L. 145/2018, c. 784-787 | L'alternanza scuola-lavoro diventa 'Percorsi per le competenze trasversali e per l'orientamento': minimo 210 ore professionali, 150 tecnici, 90 licei nel triennio. |
+| Educazione civica | L. 92/2019; Linee guida DM 35/2020 e nuove Linee guida DM 183/2024 | Insegnamento trasversale, almeno 33 ore/anno, voto in decimi, coordinatore per classe. Nuove linee guida 2024: centralità della persona, cultura d'impresa, educazione finanziaria, contrasto alle dipendenze, educazione stradale. |
+| ITS Academy | L. 99/2022 | Riforma degli istituti tecnologici superiori (terziario professionalizzante): percorsi biennali/triennali post-diploma, EQF 5-6, fondazioni ITS. |
+| Riforma orientamento | D.M. 328/2022 (Linee guida) | Dal 2023/24: 30 ore/anno di orientamento (curricolari alle superiori, anche extra al primo ciclo), docente tutor e docente orientatore nel triennio delle superiori, E-Portfolio dello studente sulla piattaforma Unica. |
+| Filiera tecnologico-professionale '4+2' | L. 121/2024; D.L. 127/2025 (ordinamentale) | Percorsi quadriennali sperimentali di istruzione tecnica/professionale raccordati con ITS Academy (4 anni di scuola + 2 di ITS). Dal 2026/27 la filiera entra a regime nell'ordinamento; il DS propone la candidatura della scuola nell'ambito di accordi di rete con IeFP e ITS. |
+| Riforma istituti tecnici | D.L. 144/2022 art. 26 (L. 175/2022); DM 269/2024 | Dal 2026/27, a partire dalle classi prime: nuovo assetto con area di istruzione generale nazionale comune e area di indirizzo flessibile; rafforzamento competenze di base e laboratorialità; docenti in periodi di osservazione nelle imprese; nuovo PECUP. |
+| Riforma esame di Stato → 'Esame di maturità' | D.L. 127/2025 (conv. ottobre 2025), modifica il D.lgs. 62/2017 | Dal 2025/26: denominazione 'Esame di maturità'; restano le due prove scritte; il colloquio verte su quattro discipline caratterizzanti individuate annualmente con decreto ministeriale, più valutazione del percorso complessivo (educazione civica e PCTO inclusi); l'esame è valido solo se il candidato svolge tutte le prove (il rifiuto del colloquio comporta la bocciatura); commissione: possibile integrazione fino a 3 punti se il punteggio raggiunge 97/100; formazione specifica dei commissari (titolo preferenziale dal 2026/27); elaborato critico di cittadinanza attiva per lo scrutinio con condotta ≥ 6. |
+| Valutazione condotta e primaria | L. 150/2024 | Secondaria II grado: voto di condotta in decimi che fa media; con 5 bocciatura; con 6 debito formativo in educazione civica (elaborato critico). Secondaria I grado: condotta in decimi. Primaria: ritorno ai giudizi sintetici (da ottimo a gravemente insufficiente) dal 2024/25. |
+| Dimensionamento rete scolastica | L. 197/2022 (c. 557); DM 127/2023 | Nuovi parametri di dimensionamento (coefficiente unico, media regionale 900-1000 alunni): riduzione progressiva delle autonomie; contenzioso Stato-Regioni e commissariamenti 2026 per i piani non adottati. Tema PNRR. |
+| Reclutamento docenti PNRR | D.L. 36/2022; DPCM 4/8/2023 | Nuovo percorso: laurea + 60 CFU/CFA di formazione iniziale, concorso, anno di prova con test finale. Fasi transitorie 30 CFU. |
+| Agenda Sud / Agenda Nord | DM 176/2023 e successivi | Piani di contrasto alla dispersione e ai divari territoriali; risorse su scuole con fragilità negli esiti INVALSI. |
+| Nuove Indicazioni nazionali primo ciclo | D.M. 2025 (iter 2025-26) | Revisione delle Indicazioni 2012, adozione progressiva dal 2026/27. |
+| Intelligenza artificiale a scuola | Linee guida MIM 2025 (nell'ambito della Strategia italiana IA 2024-26) | Indicazioni per l'uso dell'IA nelle istituzioni scolastiche: presidio del DS su privacy, trasparenza, formazione del personale. |
+| Divieto smartphone | Circolari MIM 2024 e 2025 | Divieto d'uso dello smartphone in classe esteso, dal 2025/26, anche alle scuole secondarie di II grado (salvo usi didattici disciplinati e inclusione). |
+
+|  |
+| :-: |
+| ATTENZIONE Trappola da banca dati: molti quesiti dell'area 1 citano l'alternanza scuola-lavoro con le ore della L. 107/2015 (400/200) e l'esame di Stato con la disciplina originaria del D.lgs. 62/2017 (colloquio con materiali, tesina abolita, ecc.). Oggi le risposte corrette sono: PCTO 210/150/90 e colloquio su 4 discipline caratterizzanti (D.L. 127/2025). Analogamente il D.lgs. 61/2017 sui professionali è confermato ma affiancato dalla filiera 4+2. |
+
+AREA 2 — Conduzione delle organizzazioni complesse
+
+2.1 La scuola come organizzazione
+
+Quest'area è la meno 'giuridica' della banca dati: attinge alla psicologia delle organizzazioni, alla sociologia e alle scienze manageriali. I quesiti citano spesso autori e modelli specifici. Nuclei essenziali:
+
+Sistemi a legame debole (loose coupling, Karl Weick): la scuola come organizzazione in cui le unità (classi, docenti) godono di ampia autonomia e i legami tra decisione e azione sono laschi; implicazione per il DS: governare per cultura e senso, non solo per gerarchia.
+
+Burocrazia professionale (Henry Mintzberg): il nucleo operativo (docenti) detiene la competenza; standardizzazione delle capacità più che dei processi; le cinque parti dell'organizzazione (vertice strategico, linea intermedia, tecnostruttura, staff di supporto, nucleo operativo).
+
+Learning organization (Peter Senge, 'La quinta disciplina'): padronanza personale, modelli mentali, visione condivisa, apprendimento di gruppo, pensiero sistemico.
+
+Cultura organizzativa (Edgar Schein): artefatti, valori dichiarati, assunti taciti di base; il leader come gestore della cultura.
+
+Razionalità limitata (Herbert Simon) e modelli decisionali: decisione ottimizzante vs soddisfacente (satisficing); modello a cestino dei rifiuti (garbage can, Cohen-March-Olsen) tipico delle 'anarchie organizzate' come scuola e università.
+
+2.2 Leadership e stili di direzione
+
+Leadership trasformazionale vs transazionale (Burns, Bass): la trasformazionale agisce su visione, motivazione intrinseca, considerazione individualizzata, stimolazione intellettuale.
+
+Leadership distribuita (Spillane): la leadership come pratica diffusa tra più attori (staff, figure di sistema, middle management scolastico); coerente con l'organico dell'autonomia e con il c. 83 della L. 107/2015 (fino al 10% di docenti collaboratori del DS).
+
+Leadership educativa / instructional leadership: focalizzata sui processi di insegnamento-apprendimento e sugli esiti degli studenti; è il riferimento del profilo del DS italiano insieme alla leadership per l'apprendimento (leadership for learning).
+
+Stili classici: autoritario, democratico, laissez-faire (Lewin, Lippitt e White); griglia manageriale di Blake e Mouton (orientamento al compito vs alle persone); leadership situazionale di Hersey e Blanchard (direttivo, vendere/persuasivo, partecipativo, delegante in funzione della maturità dei collaboratori).
+
+Motivazione: gerarchia dei bisogni di Maslow; fattori igienici e motivanti di Herzberg; Teoria X e Y di McGregor; aspettativa-valenza di Vroom; autodeterminazione (Deci e Ryan: competenza, autonomia, relazione).
+
+2.3 Gruppi, conflitti, comunicazione
+
+Dinamiche di gruppo: Kurt Lewin (campo di forze, ricerca-azione); fasi di Tuckman (forming, storming, norming, performing, adjourning); test sociometrico di Moreno per rilevare le relazioni di attrazione/rifiuto nel gruppo classe o nel team.
+
+Conflitto: livelli (intrapersonale, interpersonale, intergruppo), stili di gestione di Thomas-Kilmann (competizione, collaborazione, compromesso, evitamento, accomodamento); negoziazione di principi (Fisher-Ury: separare le persone dal problema, interessi non posizioni).
+
+Comunicazione: assiomi della pragmatica (Watzlawick: non si può non comunicare; contenuto e relazione; punteggiatura; moduli numerico e analogico; simmetria/complementarità); ascolto attivo (Rogers, Gordon); comunicazione assertiva.
+
+Stress e benessere organizzativo: burnout (Maslach: esaurimento emotivo, depersonalizzazione, ridotta realizzazione); obbligo di valutazione dello stress lavoro-correlato nel DVR (D.lgs. 81/2008, art. 28).
+
+2.4 Il DS come vertice dell'organizzazione (raccordo giuridico)
+
+Art. 25 D.lgs. 165/2001 — da sapere quasi a memoria: il DS assicura la gestione unitaria dell'istituzione, ne ha la legale rappresentanza, è responsabile della gestione delle risorse finanziarie e strumentali e dei risultati del servizio; ha autonomi poteri di direzione, coordinamento e valorizzazione delle risorse umane; organizza l'attività scolastica secondo criteri di efficienza ed efficacia formative; è titolare delle relazioni sindacali; promuove interventi per la qualità dei processi formativi, la collaborazione delle risorse culturali, professionali, sociali ed economiche del territorio, l'esercizio della libertà di insegnamento, della libertà di scelta educativa delle famiglie e il diritto all'apprendimento. Nello svolgimento delle funzioni può avvalersi di docenti da lui individuati ai quali delegare specifici compiti (oggi integrato dal c. 83 L. 107/2015). Il c. 78 della L. 107/2015 rafforza: il DS garantisce un'efficace ed efficiente gestione delle risorse e assicura il buon andamento, nel rispetto delle competenze degli organi collegiali.
+
+|  |
+| :-: |
+| ATTENZIONE Novità assoluta rispetto al 2017: il D.M. 47 del 12 marzo 2025 adotta il Sistema nazionale di valutazione dei risultati dei dirigenti scolastici (in applicazione dal 2024/25 con fase transitoria fino a novembre 2026): definizione annuale degli obiettivi (nazionali, regionali, di sede), misurazione, valutazione con contraddittorio, effetti sulla retribuzione di risultato. È un tema da attendersi sia ai quiz sia allo scritto. |
+
+AREA 3 — PTOF, RAV, Piano di Miglioramento e Rendicontazione sociale
+
+3.1 L'autonomia scolastica: DPR 275/1999
+
+Il regolamento dell'autonomia (attuativo dell'art. 21 L. 59/1997) è la norma più citata dell'intera banca dati insieme alla L. 107. Architettura: autonomia didattica (art. 4: articolazione flessibile del gruppo classe, percorsi didattici individualizzati, unità di insegnamento non coincidenti con l'unità oraria, recupero e sostegno...), autonomia organizzativa (art. 5: adattamenti del calendario, flessibilità dell'orario, articolazione modulare), autonomia di ricerca, sperimentazione e sviluppo (art. 6), reti di scuole (art. 7: accordi di rete per didattica, ricerca, formazione, amministrazione e contabilità, acquisti; L. 107 c. 70-72 aggiunge reti di ambito e di scopo), curricolo (art. 8: quota nazionale + quota riservata alle scuole, c.d. quota di autonomia del 20%), ampliamento dell'offerta formativa (art. 9), competenze escluse (art. 14). Gli artt. 16-17 salvaguardano le competenze degli organi collegiali e abrogano le norme incompatibili.
+
+3.2 Il PTOF
+
+Fonte: art. 3 DPR 275/1999 come sostituito dal c. 14 della L. 107/2015.
+
+Natura: documento fondamentale costitutivo dell'identità culturale e progettuale della scuola; triennale, rivedibile entro ottobre di ciascun anno (c. 12); dal 2018 predisposizione di norma entro ottobre per il triennio, con possibilità di aggiornamento annuale.
+
+Procedura (quesito più frequente in assoluto dell'area): il DS definisce gli indirizzi per le attività della scuola e le scelte di gestione e amministrazione (atto di indirizzo); il Collegio dei docenti elabora il piano; il Consiglio di istituto lo approva. Prima della L. 107 il POF era adottato dal CdI: attenzione ai distrattori.
+
+Contenuti obbligatori: offerta formativa e curricolo, organico dell'autonomia (posti comuni, sostegno, potenziamento), fabbisogno di infrastrutture e attrezzature, piano di formazione del personale docente e ATA, PCTO, azioni del PNSD, piano per l'inclusione, educazione civica; coerenza con RAV e PdM (il PTOF è pubblicato su Scuola in Chiaro; piattaforma PTOF su SIDI).
+
+L'usuale ciclo triennale allinea PTOF, RAV, PdM e Rendicontazione sociale (provvedimento triennale).
+
+3.3 Il ciclo del SNV: RAV, PdM, Rendicontazione (DPR 80/2013)
+
+Il DPR 80/2013 istituisce il Sistema nazionale di valutazione in materia di istruzione e formazione, con tre attori: INVALSI (predispone i quadri di riferimento, le rilevazioni e i protocolli di valutazione esterna), INDIRE (supporto ai piani di miglioramento), contingente ispettivo (dirigenti tecnici nei nuclei di valutazione esterna). Procedimento di valutazione (art. 6), quattro fasi da sapere in sequenza:
+
+a) Autovalutazione: analisi e verifica del proprio servizio sulla base dei dati del sistema informativo, delle rilevazioni INVALSI e di ulteriori elementi; elaborazione del RAV (formato elettronico, pubblicato su Scuola in Chiaro) con priorità, traguardi e obiettivi di processo su 4 sezioni (contesto, esiti, processi, il processo di autovalutazione) e scale 1-7.
+
+b) Valutazione esterna: individuazione delle scuole da parte dell'INVALSI secondo indicatori di efficienza ed efficacia; visite dei nuclei esterni di valutazione (NEV: un dirigente tecnico e due esperti) secondo il protocollo INVALSI; ridefinizione dei piani di miglioramento.
+
+c) Azioni di miglioramento: Piano di Miglioramento (PdM), con l'eventuale supporto di INDIRE o di università, enti, associazioni.
+
+d) Rendicontazione sociale: pubblicazione e diffusione dei risultati raggiunti, in una dimensione di trasparenza e di condivisione con la comunità. Prima Rendicontazione: 2019 (nota 10701/2019); dal D.M. 194/2022 è materia esplicita di concorso.
+
+|  |
+| :-: |
+| ATTENZIONE Sequenza-mantra per i quiz: RAV → (eventuale) valutazione esterna NEV → PdM → Rendicontazione sociale. Il RAV del DS non esiste: la valutazione del dirigente segue oggi il D.M. 47/2025 (prima: Direttiva 36/2016 e il Portfolio). Il RAV infanzia è stato introdotto in via sperimentale dal 2021/22. |
+
+3.4 Organico dell'autonomia e programmazione
+
+L. 107/2015: l'organico dell'autonomia (c. 5, 63-69) comprende posti comuni, di sostegno e di potenziamento ed è funzionale alle esigenze didattiche, organizzative e progettuali della scuola come emergenti dal PTOF; i docenti dell'organico concorrono alla realizzazione del piano con attività di insegnamento, potenziamento, sostegno, organizzazione, progettazione e coordinamento. Il fabbisogno è definito nel PTOF su base triennale. Raccordo con il territorio: il PTOF è elaborato tenendo conto delle proposte e dei pareri di enti locali, realtà istituzionali, culturali, sociali ed economiche, e delle associazioni dei genitori (e, nelle superiori, degli studenti).
+
+AREA 4 — Ambienti di apprendimento: inclusione, innovazione digitale, innovazione didattica
+
+4.1 L'inclusione scolastica: il quadro normativo stratificato
+
+| Fonte | Contenuto essenziale (in ottica quiz) |
+| :-: | :-: |
+| L. 118/1971 e L. 517/1977 | Abolizione delle classi differenziali e integrazione degli alunni con disabilità nella scuola comune; insegnante di sostegno; valutazione formativa e programmazione (la 517 introduce anche la scheda di valutazione). |
+| Sent. Corte cost. 215/1987 | Diritto pieno e incondizionato alla frequenza delle scuole superiori per gli alunni con disabilità. |
+| L. 104/1992 | Legge-quadro: definizione di persona handicappata (art. 3; il c. 3 definisce la connotazione di gravità), diritto all'educazione e all'istruzione (art. 12), integrazione scolastica (art. 13: dotazione di attrezzature e ausili, sostegno), gruppi di lavoro, permessi lavorativi (art. 33). |
+| DPR 24/2/1994 | Atto di indirizzo: Diagnosi funzionale, Profilo dinamico funzionale, PEI (oggi superati dal profilo di funzionamento, v. sotto). |
+| L. 170/2010 e DM 5669/2011 | DSA (dislessia, disgrafia, disortografia, discalculia): diagnosi, didattica individualizzata e personalizzata, strumenti compensativi e misure dispensative, PDP (da predisporre di norma entro il primo trimestre). |
+| Direttiva 27/12/2012 e CM 8/2013 | Bisogni educativi speciali (BES): tre sotto-categorie (disabilità; disturbi evolutivi specifici; svantaggio socio-economico, linguistico, culturale); estensione della personalizzazione; GLI e Piano annuale per l'inclusività (PAI, oggi Piano per l'inclusione). |
+| D.lgs. 66/2017 (mod. D.lgs. 96/2019) | Norme per la promozione dell'inclusione: valutazione diagnostico-funzionale su base ICF; profilo di funzionamento (che sostituisce DF e PDF); PEI redatto dal GLO (gruppo di lavoro operativo: docenti del team/consiglio di classe con famiglia, studente, UMV, figure professionali); gruppi: GLIR (regionale), GIT (territoriale), GLI (d'istituto); Piano per l'inclusione; continuità del sostegno. |
+| D.I. 182/2020 | Nuovo modello nazionale di PEI su base ICF; dopo la vicenda giurisdizionale (annullamento TAR 2021, ripristino Consiglio di Stato 2022) è pienamente vigente con il correttivo D.M. 153/2023. |
+| D.lgs. 62/2024 | Riforma della disabilità (attuazione L. 227/2021): accomodamento ragionevole, valutazione di base e progetto di vita individuale, personalizzato e partecipato, di cui il PEI diviene parte integrante; sperimentazione territoriale in ampliamento nel 2025-2026. |
+
+Da ricordare anche: conferma in ruolo e specializzazione sul sostegno (TFA sostegno; percorsi INDIRE transitori 2024-2026); continuità didattica del docente di sostegno su richiesta della famiglia (D.L. 71/2024); alunni stranieri: Linee guida 2014, C.M. sulle iscrizioni (criterio del tetto del 30% per classe come indicazione organizzativa, C.M. 2/2010), D.L. 71/2024 (docenti di italiano L2 per classi con oltre il 20% di studenti stranieri neoarrivati); istruzione domiciliare e scuola in ospedale; istruzione parentale (obbligo di esame di idoneità annuale, D.lgs. 62/2017 art. 23).
+
+4.2 Bullismo, cyberbullismo, disagio
+
+L. 71/2017: prima legge organica sul cyberbullismo; definizione; referente d'istituto; procedura di ammonimento del questore; istanza di oscuramento al gestore/Garante entro 48 ore.
+
+L. 70/2024: estende l'impianto al bullismo, prevede il codice interno e il tavolo di monitoraggio, rafforza i servizi di sostegno (potenziamento del numero 114), modifica anche il TU immigrazione? No — attenzione: modifica la L. 71/2017 e il codice civile (misure rieducative).
+
+Patto educativo di corresponsabilità (DPR 235/2007, che modifica lo Statuto delle studentesse e degli studenti DPR 249/1998); regolamento di istituto e organo di garanzia (ricorsi entro 15 giorni).
+
+Sanzioni disciplinari studenti: riforma L. 150/2024 — la sospensione fino a 2 giorni comporta attività di riflessione e approfondimento; oltre 2 giorni attività di cittadinanza solidale presso strutture convenzionate.
+
+4.3 L'innovazione digitale
+
+PNSD (L. 107/2015 c. 56-59, D.M. 851/2015): 35 azioni su strumenti, competenze, formazione, accompagnamento; animatore digitale in ogni scuola (azione \#28) e team per l'innovazione.
+
+PNRR Istruzione (M4C1): Piano Scuola 4.0 (D.M. 161/2022) — Next Generation Classrooms (trasformazione di almeno 100.000 aule) e Next Generation Labs; riduzione divari territoriali (D.M. 170/2022); nuove competenze e nuovi linguaggi STEM e multilinguismo (D.M. 65/2023); didattica digitale integrata e formazione (D.M. 66/2023); Scuola di Alta Formazione del sistema di istruzione.
+
+Quadri europei di riferimento: DigComp 2.2 (competenze digitali dei cittadini), DigCompEdu (dei docenti), DigCompOrg (delle organizzazioni educative); SELFIE come strumento di autovalutazione digitale della scuola.
+
+Linee guida MIM sull'intelligenza artificiale a scuola (2025): uso responsabile, protezione dati, supervisione umana, formazione; investimenti PNRR 2026 su snodi formativi per la transizione digitale e IA.
+
+Registro elettronico e dematerializzazione (D.L. 95/2012); identità digitale e piattaforma Unica (2023) che integra E-Portfolio, docente tutor, servizi alle famiglie.
+
+Uso dei dispositivi personali: da 'BYOD' (azione \#6 PNSD) al divieto degli smartphone in classe (circ. 2024 per il primo ciclo, estensione alle superiori dal 2025/26), con eccezioni per inclusione e specifiche attività.
+
+4.4 Innovazione didattica e ambienti di apprendimento
+
+Costruttivismo e ambienti di apprendimento: apprendimento situato (Lave e Wenger, comunità di pratica), scaffolding (Bruner) e zona di sviluppo prossimale (Vygotskij), apprendimento significativo (Ausubel), mastery learning (Bloom), tassonomie di Bloom (e revisione Anderson-Krathwohl).
+
+Metodologie attive citate nei quesiti: cooperative learning (interdipendenza positiva, responsabilità individuale — Johnson & Johnson), peer tutoring, flipped classroom, debate, didattica laboratoriale, project-based learning, service learning (D.lgs. 60/2017 e Avanguardie educative INDIRE).
+
+Personalizzazione vs individualizzazione (obiettivi comuni con percorsi diversi vs obiettivi diversificati sul singolo): distinzione classica da quiz, ripresa dalla L. 53/2003 e dalla letteratura (Baldacci).
+
+Universal Design for Learning (UDL): progettazione universale richiamata dal D.lgs. 66/2017 e dal nuovo PEI.
+
+Ambienti: aule flessibili e arredi 4.0 (Scuola 4.0), DADA (didattica per ambienti di apprendimento), spazi INDIRE '1+4'.
+
+AREA 5 — Organizzazione del lavoro e gestione del personale
+
+5.1 Fonti dello stato giuridico e contrattuali
+
+Base legislativa: D.lgs. 297/1994 (Testo Unico) per organi collegiali e disposizioni sul personale; D.lgs. 165/2001 per il lavoro pubblico (privatizzazione: rapporto regolato dal codice civile e dai CCNL, salve le materie riservate alla legge, art. 2); D.lgs. 150/2009 (riforma Brunetta: performance, fasce, sanzioni) come temperato dal D.lgs. 74 e 75/2017 (riforma Madia). Contrattazione: l'ARAN negozia i CCNL per i comparti; comparto Istruzione e Ricerca (CCNQ 2016). CCNL vigenti da conoscere: CCNL 29/11/2007 (ancora base per molti istituti: es. sanzioni disciplinari docenti fino a lì rinviate al TU), CCNL 19/4/2018, CCNL 18/1/2024 (triennio 2019-21) che ha ridefinito ordinamento professionale ATA (nuove aree: collaboratore, operatore, assistente, funzionario/EQ) e comunità educante (art. 3 CCNL 2018); trattativa 2022-24 in corso di perfezionamento. Dirigenza scolastica: CCNL Area Istruzione e Ricerca (8/7/2019 per il 2016-18; CCNL 2019-21 sottoscritto nel 2024).
+
+5.2 Gli organi collegiali (D.lgs. 297/1994) — bersaglio fisso dei quiz
+
+| Organo | Composizione e durata | Competenze chiave |
+| :-: | :-: | :-: |
+| Consiglio di intersezione / interclasse / classe | Docenti del plesso/classe + rappresentanti genitori (1 infanzia/primaria per classe; 4 alle medie... attenzione: 4 genitori alle medie, 2 genitori e 2 studenti alle superiori); presiede il DS o un delegato | Programmazione, valutazione periodica dell'andamento, rapporti scuola-famiglia; con la sola componente docenti: coordinamento didattico e valutazione degli alunni. |
+| Collegio dei docenti | Tutti i docenti in servizio; presiede il DS | Potere deliberante sul funzionamento didattico; elabora il PTOF; adegua i programmi; adotta i libri di testo (delibera) e sceglie i sussidi; valuta periodicamente l'efficacia dell'azione didattica; propone la formazione delle classi e l'orario (criteri al CdI); si articola in dipartimenti. |
+| Consiglio di istituto | Fino a 500 alunni: 14 componenti; oltre 500: 19 (8 docenti, 2 ATA, 8 genitori — di cui 4 genitori e 4 studenti alle superiori, DS membro di diritto); presiede un genitore; dura 3 anni; la rappresentanza studentesca si rinnova ogni anno | Approva il PTOF; delibera il programma annuale e il conto consuntivo; regolamento di istituto; criteri per formazione classi e orario; calendario (adattamenti); partecipazione ad attività e reti; elegge la Giunta esecutiva (DS, DSGA membri di diritto; presiede il DS). |
+| Comitato per la valutazione dei docenti | c. 129 L. 107/2015: DS (presiede), 3 docenti (2 Collegio, 1 CdI), 2 genitori (o 1 genitore + 1 studente alle superiori), 1 componente esterno USR; dura 3 anni | Individua i criteri di valorizzazione (il bonus merito è confluito nel FMOF dal 2020); esprime parere sul superamento dell'anno di prova (in composizione ristretta: docenti + DS, con il tutor); valuta il servizio su richiesta (art. 448 TU). |
+| Assemblee | Studenti (superiori): di classe (2 ore/mese) e di istituto (1 giorno/mese, no ultimo mese); genitori | Diritto di riunione (artt. 12-15 TU). |
+
+5.3 Il rapporto di lavoro del personale docente e ATA
+
+Funzione docente (art. 26 CCNL 2007; artt. 395 ss. TU): attività di insegnamento (25 ore infanzia, 24 primaria — di cui 2 di programmazione... attenzione: 22+2 primaria, 18 secondaria) e attività funzionali (art. 29 CCNL 2007: 40 ore collegio e informazione famiglie + 40 ore consigli di classe; scrutini ed esami senza limite).
+
+Reclutamento docenti: doppio canale (concorsi e GAE ormai residuali); GPS (D.M. 60/2022... attenzione: O.M. 88/2024 aggiornamento biennale) per le supplenze; percorso PNRR a regime: laurea magistrale + 60 CFU/CFA (DPCM 4/8/2023), concorso con prova scritta e orale con lezione simulata, anno di prova con test finale e valutazione.
+
+Anno di formazione e prova: D.M. 226/2022 (attuativo del D.lgs. 59/2017 come modificato): 180 giorni di servizio di cui 120 di attività didattiche, bilancio di competenze, 50 ore di formazione, peer to peer, tutor, test finale e colloquio davanti al comitato di valutazione; in caso di esito negativo, ripetizione per una sola volta.
+
+ATA: nuovo ordinamento CCNL 2024 (aree e famiglie professionali); DSGA: dal 2024/25 accesso da concorso per 'funzionari ed elevate qualificazioni'; il DSGA sovrintende ai servizi generali amministrativo-contabili con autonomia operativa, sulla base delle direttive di massima del DS (art. 25 c. 5 D.lgs. 165/2001).
+
+Assenze e permessi (CCNL): malattia (18 mesi nel triennio con vari trattamenti), permessi retribuiti 3 giorni per motivi personali/familiari (dal CCNL 2018 anche per i docenti), 6 giorni di ferie sostitutive fruibili, aspettative, congedi D.lgs. 151/2001, L. 104 (3 giorni), diritto allo studio (150 ore, DPR 395/1988).
+
+Mobilità: CCNI triennale; vincoli di permanenza più volte modificati (da ultimo triennale sulla sede per i neoassunti, con deroghe).
+
+5.4 Poteri datoriali, disciplina, relazioni sindacali
+
+Il DS adotta i provvedimenti di gestione delle risorse e del personale (art. 25 c. 4 D.lgs. 165/2001) con la capacità e i poteri del privato datore di lavoro (art. 5 c. 2).
+
+Procedimento disciplinare (art. 55-bis D.lgs. 165/2001, post-Madia): per infrazioni fino alla sospensione ≤ 10 giorni procede il responsabile della struttura (il DS: contestazione entro 30 giorni, conclusione entro 120); oltre, l'Ufficio per i procedimenti disciplinari (UPD, presso l'USR). Per i docenti restano le sanzioni del TU (artt. 492 ss.: avvertimento, censura, sospensione fino a 1 mese, da 1 a 6 mesi, destituzione) fino alla piena armonizzazione contrattuale; per gli ATA sanzioni dal CCNL 2019-21. Sospensione cautelare; rapporto tra procedimento penale e disciplinare (art. 55-ter).
+
+Licenziamento disciplinare (art. 55-quater): falsa attestazione della presenza, assenze ingiustificate, condanne penali specifiche.
+
+Relazioni sindacali (CCNL 2018 e 2024): informazione, confronto, contrattazione integrativa d'istituto su materie tassative (art. 22 CCNL 2018, ora art. 30 CCNL 2024: criteri di ripartizione del FMOF, diritti sindacali, sicurezza, criteri per compensi accessori...); RSU elette ogni 3 anni; assemblee sindacali fino a 10 ore annue in orario di servizio; sciopero: L. 146/1990 e Accordo ARAN 2/12/2020 (servizi minimi, comunicazione alle famiglie).
+
+Sicurezza (D.lgs. 81/2008): il DS è il datore di lavoro (individuato dal D.M. 292/1996); obblighi non delegabili: valutazione dei rischi con DVR e nomina RSPP; figure: RSPP, ASPP, RLS, medico competente, addetti emergenze; formazione lavoratori (Accordo Stato-Regioni 2011, aggiornato 2025); studenti equiparati a lavoratori nei laboratori; prove di evacuazione; edilizia: la manutenzione compete all'ente locale (L. 23/1996: Comuni per primo ciclo, Province/Città metropolitane per il secondo) — il DS segnala e adotta misure organizzative.
+
+Privacy: GDPR (Reg. UE 679/2016) e D.lgs. 196/2003 come modificato dal D.lgs. 101/2018; il titolare del trattamento è l'istituzione scolastica (rappresentata dal DS); obbligo del DPO/RPD per le PA; registro dei trattamenti; data breach al Garante entro 72 ore.
+
+|  |
+| :-: |
+| ATTENZIONE Trappole d'epoca: i quesiti 2017 citano il CCNL 2006/09 e la 'chiamata diretta' (c. 79-82 L. 107/2015): la chiamata per competenze è stata superata (CCNI 2018 e CCNL); il bonus merito individuale (c. 126-130) è confluito nel fondo per il miglioramento dell'offerta formativa (L. 160/2019). Le 'nuove' risposte esatte su ordinamento ATA seguono il CCNL 18/1/2024. |
+
+AREA 6 — Valutazione e autovalutazione: personale, apprendimenti, sistemi
+
+6.1 La valutazione degli apprendimenti (D.lgs. 62/2017, come modificato da L. 150/2024 e D.L. 127/2025)
+
+Principi (art. 1): la valutazione ha finalità formativa ed educativa, concorre al miglioramento degli apprendimenti e al successo formativo, documenta lo sviluppo dell'identità personale.
+
+Primaria: dal 2020 valutazione con giudizi descrittivi (O.M. 172/2020); dal 2024/25 (L. 150/2024 e O.M. 3/2025) giudizi sintetici su scala da 'ottimo' a 'gravemente insufficiente', integrati dalla descrizione dei livelli; ammissione alla classe successiva anche con livelli parzialmente raggiunti; non ammissione solo in casi eccezionali con delibera unanime.
+
+Secondaria I grado: voti in decimi; ammissione con eventuali insufficienze (delibera del consiglio); requisiti di ammissione all'esame: frequenza 3/4 del monte ore, prove INVALSI sostenute, no sanzioni gravi; esame: 3 prove scritte (italiano, matematica, lingue) + colloquio; voto finale media tra voto di ammissione e prove; lode all'unanimità; certificazione delle competenze (D.M. 742/2017, aggiornato D.M. 14/2024 con riferimento alle competenze chiave 2018).
+
+Secondaria II grado: ammissione con frequenza 3/4, partecipazione INVALSI e PCTO tra i requisiti per l'esame; crediti scolastici (max 40 punti); condotta (L. 150/2024): voto ≤ 5 comporta non ammissione; voto 6 comporta debito di educazione civica con elaborato critico; il voto di condotta fa media.
+
+Esame di maturità (D.L. 127/2025, dal 2025/26): due prove scritte nazionali + colloquio su quattro discipline caratterizzanti definite annualmente con D.M.; valutazione del percorso (curriculum dello studente, educazione civica, PCTO); obbligo di sostenere tutte le prove; commissione: presidente esterno + commissari (composizione mista ridefinita: 2 esterni e 2 interni + presidente secondo l'ultimo assetto); punteggio 100 (40 crediti + 60 prove... attenzione: 20+20+20 tra scritti e colloquio), integrazione fino a 3 punti da 97, lode.
+
+Prove INVALSI (art. 4, 7, 19 D.lgs. 62/2017): II e V primaria (italiano, matematica; inglese in V), III secondaria I grado (CBT: italiano, matematica, inglese), II e ultimo anno secondaria II grado (CBT); requisito di ammissione agli esami (partecipazione, non esito); esiti nel curriculum dello studente per l'ultimo anno.
+
+6.2 Il Sistema nazionale di valutazione e la valutazione delle scuole
+
+Ripasso mirato del DPR 80/2013 in chiave quiz: emanato ai sensi dell'art. 2 c. 4-undevicies del D.L. 225/2010; l'SNV valuta l'efficienza e l'efficacia del sistema educativo di istruzione e formazione; ne fanno parte INVALSI (che ne assume il coordinamento funzionale), INDIRE e il contingente ispettivo; il procedimento in 4 fasi (autovalutazione/RAV, valutazione esterna/NEV, azioni di miglioramento/PdM, rendicontazione sociale); la Conferenza per il coordinamento funzionale dell'SNV; l'INVALSI definisce gli indicatori di efficienza ed efficacia per individuare le scuole da sottoporre a valutazione esterna. Direttiva 11/2014 (priorità strategiche della valutazione per il triennio) — oggi il quadro operativo è aggiornato dai protocolli INVALSI e dal RAV rinnovato 2022 e 2025 (nuovi questionari, RAV infanzia).
+
+6.3 La valutazione del personale
+
+Dirigenti scolastici: art. 25 c. 1 D.lgs. 165/2001 e art. 21 (responsabilità dirigenziale); percorso storico: D.lgs. 150/2009, Direttiva 36/2016 con Portfolio (il quadro citato dalla banca dati), oggi D.M. 47/2025: obiettivi nazionali/regionali/di sede assegnati annualmente (avvio a luglio, chiusura entro novembre dell'anno successivo), valutatori di prima e seconda istanza presso gli USR, effetti sulla retribuzione di risultato, contraddittorio.
+
+Docenti: non esiste valutazione di performance individuale a regime; anno di prova (D.M. 226/2022) con parere del comitato di valutazione; valorizzazione professionale via formazione (Scuola di Alta Formazione, D.L. 36/2022) e figure del docente esperto/tutor-orientatore (compensi dedicati); comitato di valutazione: v. Area 5.
+
+DSGA e ATA: valutazione connessa agli istituti contrattuali (posizioni economiche, incarichi specifici).
+
+6.4 Le indagini internazionali (molto presenti nella banca dati)
+
+| Indagine | Ente | Oggetto e ciclo |
+| :-: | :-: | :-: |
+| OCSE-PISA | OCSE | Studenti quindicenni; lettura, matematica, scienze (+ ambiti innovativi); ogni 3 anni (2022, 2025); literacy come capacità d'uso della conoscenza in contesti reali. |
+| TIMSS | IEA | Matematica e scienze; IV primaria e III secondaria I grado (grade 4 e 8); ogni 4 anni (2019, 2023). |
+| PIRLS | IEA | Reading literacy in IV primaria; ogni 5 anni (2016, 2021, 2026). |
+| ICCS | IEA | Educazione civica e alla cittadinanza (grade 8; 2016, 2022). |
+| TALIS | OCSE | Insegnanti e dirigenti (pratiche, formazione, clima); ogni 5-6 anni (2018, 2024). |
+| ICILS | IEA | Computer and information literacy (grade 8). |
+| PIAAC | OCSE | Competenze degli adulti (16-65 anni). |
+
+|  |
+| :-: |
+| ATTENZIONE IEA = International Association for the Evaluation of Educational Achievement (acronimo chiesto testualmente nella banca dati). INVALSI è l'ente di ricerca che cura per l'Italia le rilevazioni nazionali e la partecipazione alle indagini internazionali; il suo quadro istitutivo: D.lgs. 286/2004 (riordino), poi DPR 80/2013 per il ruolo nel SNV. |
+
+AREA 7 — Diritto civile, amministrativo, del lavoro e penale
+
+7.1 Obbligazioni e responsabilità civile (il cuore dei quesiti)
+
+Fonti delle obbligazioni (art. 1173 c.c.): contratto, fatto illecito, ogni altro atto o fatto idoneo secondo l'ordinamento.
+
+Responsabilità contrattuale (art. 1218): il debitore che non esegue esattamente la prestazione risarcisce il danno, se non prova che l'inadempimento deriva da causa a lui non imputabile; diligenza del buon padre di famiglia (1176); danno risarcibile: perdita subita e mancato guadagno (1223); concorso del fatto colposo del creditore: risarcimento diminuito (1227); valutazione equitativa se il danno non può essere provato nell'ammontare (1226); clausole di esonero nulle per dolo o colpa grave (1229); solidarietà (1292 ss.); prescrizione ordinaria 10 anni (2946), illecito extracontrattuale 5 anni (2947).
+
+Responsabilità extracontrattuale (art. 2043): qualunque fatto doloso o colposo che cagiona ad altri un danno ingiusto obbliga al risarcimento; danno non patrimoniale nei casi previsti dalla legge (2059); responsabilità solidale (2055, con regresso secondo gravità delle colpe).
+
+Vigilanza sugli alunni: art. 2047 (danno cagionato dall'incapace: risponde il sorvegliante, salvo prova di non aver potuto impedire il fatto); art. 2048 c. 2 (precettori: responsabili del danno cagionato dal fatto illecito degli allievi nel tempo in cui sono sotto la vigilanza; prova liberatoria: non aver potuto impedire il fatto — inversione dell'onere della prova); autolesioni: la giurisprudenza (Cass. SS.UU. 9346/2002) inquadra la responsabilità della scuola come contrattuale da 'contatto sociale'; culpa in organizzando del DS (obblighi organizzativi: regolamento vigilanza, ingressi/uscite, ricreazione).
+
+Art. 61 L. 312/1980: la responsabilità patrimoniale del personale scolastico verso l'Amministrazione per danni ai terzi è limitata ai casi di dolo o colpa grave; l'Amministrazione si surroga nel giudizio civile.
+
+Responsabilità amministrativo-contabile: danno erariale, giurisdizione della Corte dei conti; elementi (condotta, danno, nesso, dolo o colpa grave); responsabilità dirigenziale del DS (art. 21 D.lgs. 165/2001: mancato raggiungimento degli obiettivi o inosservanza delle direttive).
+
+7.2 Procedimento e atto amministrativo (L. 241/1990)
+
+Principi (art. 1): economicità, efficacia, imparzialità, pubblicità, trasparenza + principi UE; divieto di aggravamento.
+
+Responsabile del procedimento (artt. 4-6); comunicazione di avvio (art. 7); partecipazione, preavviso di rigetto (10-bis); termine di conclusione: 30 giorni salvo diversa previsione (art. 2); silenzio-assenso tra PA (17-bis) e nei procedimenti a istanza di parte (art. 20); conferenza di servizi (14 ss.); accordi (art. 11).
+
+Efficacia e invalidità: nullità (art. 21-septies: difetto assoluto di attribuzione, violazione o elusione del giudicato, mancanza degli elementi essenziali); annullabilità (21-octies: violazione di legge, eccesso di potere, incompetenza); vizi formali non invalidanti (21-octies c. 2); autotutela: revoca (21-quinquies) e annullamento d'ufficio (21-nonies: entro 12 mesi per i provvedimenti autorizzatori/attributivi di vantaggi economici).
+
+Accesso documentale (artt. 22 ss.: interesse diretto, concreto, attuale; diniego impugnabile al TAR in 30 giorni o ricorso al difensore civico/CADA); accesso civico semplice e generalizzato (FOIA: D.lgs. 33/2013 come modificato dal D.lgs. 97/2016); differenze con l'accesso degli atti scolastici (elaborati, documenti di valutazione).
+
+Giustizia amministrativa: giurisdizione ordinaria (diritti soggettivi: rapporto di lavoro privatizzato → giudice del lavoro) vs amministrativa (interessi legittimi: procedure concorsuali, esclusioni); ricorso al TAR 60 giorni, straordinario al Capo dello Stato 120; c.p.a. D.lgs. 104/2010.
+
+7.3 Trasparenza, anticorruzione, codici di comportamento
+
+L. 190/2012: ANAC; Piano nazionale anticorruzione; per le scuole: il dirigente dell'USR come responsabile della prevenzione della corruzione; whistleblowing ora nel D.lgs. 24/2023 (canali interni, protezione del segnalante).
+
+D.lgs. 33/2013: obblighi di pubblicazione in Amministrazione trasparente; delibera ANAC 430/2016 per le scuole.
+
+Dal 2023 gli adempimenti confluiscono per le PA nel PIAO; per le scuole restano semplificazioni (il PTPCT è curato a livello di USR).
+
+Codice di comportamento: DPR 62/2013, aggiornato dal DPR 81/2023 (uso dei social media, doveri nell'uso delle dotazioni informatiche, formazione); codici di istituto; regime di incompatibilità (art. 53 D.lgs. 165/2001; artt. 508 TU per i docenti: libere professioni autorizzabili dal DS).
+
+Inconferibilità e incompatibilità degli incarichi: D.lgs. 39/2013.
+
+7.4 Diritto penale: PA e minori
+
+| Reato | Articolo c.p. | Nucleo |
+| :-: | :-: | :-: |
+| Peculato | 314 | Il pubblico ufficiale che si appropria di denaro o cosa mobile altrui di cui ha il possesso per ragione del suo ufficio; peculato d'uso (c. 2). Dal 2024 (L. 114/2024) il nuovo art. 314-bis punisce l'indebita destinazione di denaro o cose mobili. |
+| Concussione | 317 | Il p.u. (o incaricato) che, abusando della qualità o dei poteri, costringe taluno a dare o promettere indebitamente denaro o altra utilità. |
+| Corruzione | 318-319-319-ter | Per l'esercizio della funzione (318), per atto contrario ai doveri (319, propria), in atti giudiziari (319-ter); induzione indebita (319-quater); corruzione di incaricato di pubblico servizio (320); istigazione (322). |
+| Abuso d'ufficio | (ex 323) | ABROGATO dalla L. 114/2024: i quesiti della banca dati che lo danno come vigente sono superati. |
+| Rifiuto/omissione di atti d'ufficio | 328 | Rifiuto indebito di atti urgenti; omissione dopo diffida (30 giorni). |
+| Delitti contro i minori | 600-bis ss., 609 ss., 572, 612-bis | Prostituzione e pornografia minorile, adescamento (609-undecies), atti sessuali con minorenne, maltrattamenti, stalking; obbligo di denuncia del pubblico ufficiale (art. 331 c.p.p.) per i reati procedibili d'ufficio conosciuti nell'esercizio delle funzioni; certificazione antipedofilia per chi lavora a contatto con minori (D.lgs. 39/2014, verifica del casellario da parte del datore). |
+
+Qualifiche soggettive: pubblico ufficiale (art. 357: funzione legislativa, giudiziaria o amministrativa con poteri autoritativi o certificativi — il docente e il DS lo sono, es. negli scrutini) vs incaricato di pubblico servizio (art. 358). Il diritto del lavoro, aggiunto dal D.M. 194/2022, si prepara con l'Area 5 (fonti, poteri datoriali, disciplina, sindacato).
+
+AREA 8 — Contabilità di Stato e gestione finanziaria della scuola
+
+8.1 AVVERTENZA CAPITALE: dal D.I. 44/2001 al D.I. 129/2018
+
+Tutti i quesiti dell'area 8 della banca dati citano il D.I. 44/2001, sostituito dal D.I. 28 agosto 2018, n. 129 (Regolamento sulla gestione amministrativo-contabile delle istituzioni scolastiche). L'impianto concettuale resta simile (le definizioni di residui attivi e passivi, ad esempio, sono immutate), ma cambiano scadenze, organi e soglie. Studia direttamente il 129/2018 e usa i vecchi quesiti solo come allenamento concettuale.
+
+8.2 Il ciclo di bilancio della scuola (D.I. 129/2018)
+
+| Adempimento | Disciplina vigente (D.I. 129/2018) |
+| :-: | :-: |
+| Programma annuale (PA) | Esercizio finanziario = anno solare (1/1-31/12). Il PA è predisposto dal DS con la collaborazione del DSGA; la Giunta esecutiva lo propone al Consiglio di istituto entro il 30 novembre (con la relazione illustrativa); parere dei revisori dei conti entro il 31 dicembre; approvazione del CdI entro il 31 dicembre (anche in assenza del parere) e comunque non oltre; principi: unità, annualità, universalità, integrità, veridicità, chiarezza, pareggio, armonizzazione, trasparenza. |
+| Esercizio provvisorio | Se il PA non è approvato entro il 31/12: esercizio provvisorio nel limite di un dodicesimo mensile degli stanziamenti definitivi dell'anno precedente (art. 6). |
+| Fondo economale minute spese | Costituito con delibera del CdI che ne fissa consistenza massima e importo massimo per singola spesa (non più i vecchi limiti fissi del 44/2001); gestito dal DSGA. |
+| Variazioni e verifiche | Verifica dello stato di attuazione del programma entro il 30 giugno (delibera di assestamento); variazioni del CdI su proposta della Giunta o del DS; radiazione dei residui con decreto del DS. |
+| Conto consuntivo | Predisposto dal DSGA entro il 15 marzo, con relazione del DS; parere dei revisori entro il 15 aprile; approvazione del CdI entro il 30 aprile; trasmissione all'USR in caso di mancata approvazione (procedura sostitutiva con commissario ad acta). |
+| Revisori dei conti | Uno designato dal MIM e uno dal MEF; durata triennale; ambiti territoriali; verificano regolarità amministrativa e contabile (riscontro di legittimità e regolarità delle scritture, non di merito); verbali su Athena. |
+| Scritture e strumenti | Giornale di cassa, partitari, registro inventario (rinnovo ricognizione ogni 5 anni, rivalutazione ogni 10); OIL (ordinativo informatico locale); fatturazione elettronica; PagoPA; piattaforma dei crediti commerciali; dal 2026 Piano annuale dei flussi di cassa (D.L. 155/2024, prima applicazione entro il 31/3/2026). |
+
+8.3 Attività negoziale
+
+Il DS svolge l'attività negoziale necessaria all'attuazione del PTOF e del PA (art. 44 D.I. 129/2018), nel rispetto delle deliberazioni del CdI (art. 45: il Consiglio delibera in ordine ad accettazione di eredità e donazioni, adesione a reti, alienazioni, contratti pluriennali, utilizzo economie...; e determina i criteri e i limiti per lo svolgimento da parte del DS di specifiche attività negoziali, tra cui affidamenti di lavori, servizi e forniture oltre 10.000 euro, contratti di sponsorizzazione, utilizzo locali, contratti di prestazione d'opera).
+
+Codice dei contratti pubblici: il D.lgs. 50/2016 citato dalla banca dati è stato sostituito dal D.lgs. 36/2023 (in vigore dal 1/7/2023): principi del risultato, della fiducia e dell'accesso al mercato; affidamento diretto per lavori fino a 150.000 euro e per servizi e forniture fino a 140.000; RUP = responsabile unico del progetto; digitalizzazione (piattaforme certificate, dal 2024); CIG e tracciabilità (L. 136/2010); DURC; obbligo ricorso a Consip/MEPA secondo la normativa di finanza pubblica (soglia 5.000 euro per l'obbligo di MEPA).
+
+Incarichi a esperti esterni: verifica preliminare dell'impossibilità di far fronte con personale interno (art. 7 c. 6 D.lgs. 165/2001); contratti di prestazione d'opera per l'ampliamento dell'offerta formativa.
+
+8.4 Finanza pubblica e fondi europei
+
+L. 196/2009 (legge di contabilità e finanza pubblica): ciclo di bilancio dello Stato; Legge di bilancio (unificata dalla L. 163/2016: sezione I normativa, sezione II stati di previsione) approvata entro il 31/12; DEF/NADEF → dal 2024 sostituiti nel semestre europeo dal Piano strutturale di bilancio (nuova governance economica UE 2024) e dal DPFP: per i quiz resta essenziale la L. 196/2009; esercizio provvisorio dello Stato max 4 mesi (art. 81 Cost.); principi costituzionali: artt. 81 (equilibrio di bilancio, L. cost. 1/2012), 97, 119.
+
+Struttura del bilancio: missioni e programmi; unità di voto parlamentare = programmi; residui, competenza e cassa.
+
+Fondi strutturali: FSE+ e FESR; PON 'Per la scuola' 2014-2020 (autorità di gestione: MIUR/MIM) citato dalla banca dati; oggi Programma Nazionale 'Scuola e competenze' 2021-2027; PNRR (Next Generation EU): Missione 4 'Istruzione e ricerca', Componente 1; il DS come gestore dei progetti (codici CUP, rendicontazione su piattaforme FUTURA/ReGiS, milestone e target).
+
+Finanziamento ordinario: fondo per il funzionamento (L. 296/2006 c. 601); FMOF (fondo per il miglioramento dell'offerta formativa, CCNL 2018 art. 40: confluiti FIS, funzioni strumentali, incarichi specifici ATA, ore eccedenti, aree a rischio, bonus).
+
+|  |
+| :-: |
+| ATTENZIONE Tripla data da non sbagliare mai (D.I. 129/2018): PA proposto dalla Giunta entro il 30/11 e approvato dal CdI entro il 31/12; verifica di attuazione entro il 30/6; conto consuntivo: DSGA entro 15/3, revisori entro 15/4, CdI entro 30/4. La banca dati usa le vecchie date del 44/2001 (PA entro il 15/12, consuntivo al 15/4...): risposte oggi sbagliate. |
+
+AREA 9 — Sistemi educativi dei Paesi dell'Unione europea
+
+9.1 Le fonti dei quesiti: Eurydice
+
+L'area 9 della banca dati è costruita in larghissima parte sui rapporti della rete Eurydice (rete europea di informazione sui sistemi educativi, coordinata dall'unità EACEA; unità italiana presso INDIRE), in particolare 'Assuring Quality in Education' (2015) sulla valutazione delle scuole. Temi ricorrenti: quali Paesi prevedono la valutazione esterna delle scuole e chi la conduce (ispettorati centrali vs autorità locali), se i rapporti sono pubblici, se è prevista l'osservazione in classe, il rapporto tra valutazione esterna e autovalutazione, l'uso dei test standardizzati. Non serve memorizzare ogni Paese: serve padroneggiare le categorie (valutazione esterna/interna; ispettorato; pubblicazione dei rapporti; school autonomy) e i casi-tipo citati (Regno Unito/Ofsted, Paesi Bassi, Francia, Germania — competenza dei Länder, Finlandia — niente ispettorato, valutazione affidata all'autovalutazione, Svezia — Schools Inspectorate).
+
+9.2 Strutture dei sistemi e obbligo scolastico
+
+Modelli strutturali (classificazione Eurydice): struttura unica (single structure: primaria+secondaria inferiore integrate — Paesi nordici, es. Finlandia 7-16); percorso comune (common core: Francia, Italia); percorsi differenziati precoci (tracking: Germania, Austria, Paesi Bassi — orientamento a 10-12 anni).
+
+Obbligo: durata tipica 9-12 anni; inizio a 6 anni nella maggioranza (5 in UK e Malta, 7 in Estonia); in molti Paesi obbligo formativo fino a 18 (Belgio, Germania part-time, Portogallo); ISCED 2011 come classificazione (0-8).
+
+Governance: sistemi centralizzati (Francia) vs federali (Germania: KMK) vs autonomia locale (Nord Europa); finanziamento e school choice; dirigenti scolastici in Europa: reclutamento e formazione (rapporto Eurydice 'La professione docente in Europa' e 'School heads').
+
+9.3 Politiche e strumenti dell'UE
+
+Base giuridica: artt. 165-166 TFUE — l'istruzione è competenza degli Stati; l'UE sostiene e coordina (metodo aperto di coordinamento).
+
+Strategie: Lisbona 2000 ('l'economia della conoscenza più competitiva'), ET2010 e ET2020 (5 benchmark: dispersione \<10%, terziario ≥40%, competenze di base insufficienti \<15%, infanzia ≥95%, adulti in apprendimento ≥15%); oggi Spazio europeo dell'istruzione entro 2025 e Risoluzione 2021 (nuovi target: dispersione \<9%, low achievers \<15% anche in digitale, ECEC ≥96%, adulti ≥47% al 2025); Anno europeo delle competenze 2023; Piano d'azione per l'istruzione digitale 2021-27.
+
+Competenze chiave: Raccomandazione 18/12/2006 aggiornata dalla Raccomandazione 22/5/2018 — otto competenze (alfabetica funzionale; multilinguistica; matematica e scienze/tecnologie/ingegneria; digitale; personale, sociale e capacità di imparare a imparare; cittadinanza; imprenditoriale; consapevolezza ed espressione culturali).
+
+Qualifiche: EQF (Racc. 2008, riveduta 2017): 8 livelli su conoscenze/abilità/autonomia-responsabilità; diploma italiano = EQF 4, ITS = EQF 5, laurea triennale = 6, magistrale = 7, dottorato = 8; Europass (decisione 2018); QCER per le lingue (A1-C2); riconoscimento: NARIC/ENIC.
+
+Istruzione superiore: processo di Bologna (1999, intergovernativo, 3 cicli, ECTS, supplemento al diploma); Erasmus+ 2021-2027 (mobilità e partenariati; azioni chiave KA1, KA2, KA3; eTwinning ora su ESEP); Università europee.
+
+IVET: processo di Copenaghen (2002), ECVET/EQAVET; Cedefop (Salonicco) ed ETF (Torino); Osnabrück 2020.
+
+  
+
+PARTE III — STRUMENTI OPERATIVI
+
+10\. Tavola di conversione normativa: banca dati 2017 → concorso 2027
+
+Ogni volta che un quesito della banca dati cita una delle norme in colonna sinistra, ricodifica mentalmente la risposta sulla norma vigente in colonna destra.
+
+| Riferimento nella banca dati (2017) | Disciplina vigente (2026-27) |
+| :-: | :-: |
+| D.I. 44/2001 (contabilità) | D.I. 129/2018; date: PA 30/11-31/12, consuntivo 15/3-30/4; fondo economale deliberato dal CdI; + D.L. 155/2024 (flussi di cassa). |
+| D.lgs. 50/2016 (appalti) | D.lgs. 36/2023: affidamento diretto servizi/forniture \< 140.000 €, RUP = responsabile unico del progetto, digitalizzazione. |
+| Alternanza scuola-lavoro (400/200 ore) | PCTO (L. 145/2018): 210 professionali / 150 tecnici / 90 licei nel triennio. |
+| Esame di Stato II ciclo (D.lgs. 62/2017 testo originario) | 'Esame di maturità' dal 2025/26 (D.L. 127/2025): colloquio su 4 discipline caratterizzanti; obbligo di tutte le prove; +3 punti da 97; formazione commissari. |
+| Valutazione primaria in decimi (D.lgs. 62/2017) | O.M. 172/2020 (giudizi descrittivi) → L. 150/2024 e O.M. 3/2025: giudizi sintetici (ottimo → gravemente insufficiente). |
+| Condotta: DPR 122/2009 | L. 150/2024: 5 = non ammissione; 6 alle superiori = debito di educazione civica; media col voto di condotta; sanzioni riformate (attività di riflessione / cittadinanza solidale). |
+| Abuso d'ufficio (art. 323 c.p.) | Abrogato dalla L. 114/2024 (introdotto art. 314-bis, indebita destinazione). |
+| Codice di comportamento DPR 62/2013 | Integrato dal DPR 81/2023 (social, dotazioni informatiche, formazione). |
+| Whistleblowing (L. 190/2012, art. 54-bis) | D.lgs. 24/2023 (canali di segnalazione, tutele). |
+| CCNL 2006/09 (e richiami 2016/18 'in arrivo') | CCNL 19/4/2018 e CCNL 18/1/2024 (2019-21): comunità educante, nuovo ordinamento ATA, permessi; CCNL area dirigenziale 2019-21. |
+| Chiamata per competenze / ambiti (L. 107 c. 79-82) | Superata (CCNI 2018; titolarità su scuola). |
+| Bonus merito docenti (c. 126-130) | Risorse confluite nel FMOF (L. 160/2019); il comitato di valutazione resta per i criteri e l'anno di prova. |
+| Anno di prova D.M. 850/2015 | D.M. 226/2022 (test finale, 50 ore, bilancio di competenze). |
+| Reclutamento: FIT (D.lgs. 59/2017 originario) | Percorso PNRR (D.L. 36/2022, DPCM 4/8/2023): 60 CFU/CFA + concorso + anno di prova. |
+| D.lgs. 66/2017 (testo originario: GIT che approva il PEI ecc.) | Come modificato dal D.lgs. 96/2019: PEI del GLO, profilo di funzionamento; D.I. 182/2020; D.lgs. 62/2024 (progetto di vita). |
+| Privacy: D.lgs. 196/2003 | GDPR 679/2016 + D.lgs. 101/2018: titolare, DPO, data breach 72 ore. |
+| Valutazione DS: Direttiva 36/2016 e Portfolio | D.M. 47/2025: Sistema nazionale di valutazione dei risultati dei DS. |
+| MIUR | MIM — Ministero dell'istruzione e del merito (D.L. 173/2022); riorganizzazione DPCM 2023. |
+| PON 'Per la scuola' 2014-2020 | PN 'Scuola e competenze' 2021-27 + PNRR M4C1 (Scuola 4.0, divari, STEM, orientamento). |
+| Regolamento concorso DS: D.M. 138/2017 (corso-concorso) | D.M. 194/2022 (concorso: preselettiva eventuale, scritto 5 quesiti di cui 2 in inglese, orale con caso, titoli 30 punti). |
+| ET2020 e benchmark UE | Spazio europeo dell'istruzione (Risoluzione 2021): dispersione \<9%, ECEC ≥96%, ecc.; Erasmus+ 2021-27. |
+| Educazione civica: cittadinanza e Costituzione (L. 169/2008) | L. 92/2019 + Linee guida D.M. 183/2024 (33 ore, voto autonomo, nuovi nuclei). |
+| ITS (DPCM 25/1/2008) | ITS Academy (L. 99/2022); filiera 4+2 (L. 121/2024, ordinamentale dal 2026/27). |
+
+11\. I numeri da sapere a memoria (formato flash-card)
+
+| Dato | Valore |
+| :-: | :-: |
+| Obbligo di istruzione | 10 anni (6-16); diritto-dovere fino a 18 |
+| Infanzia: orario | 40 h settimanali (fino a 50; ridotto 25) |
+| Primaria: modelli orari | 24 / 27 / fino a 30 / tempo pieno 40 |
+| Secondaria I grado | 30 h (prolungato 36, fino a 40) |
+| PCTO nel triennio | 210 professionali / 150 tecnici / 90 licei |
+| Educazione civica | almeno 33 h/anno |
+| Orientamento (D.M. 328/2022) | 30 h/anno; tutor e orientatore nel triennio superiori |
+| Prove INVALSI | II-V primaria; III sec. I grado; II e V sec. II grado (CBT dalla III media in su) |
+| Esame I ciclo | 3 scritti + colloquio; media con voto di ammissione; lode all'unanimità |
+| Maturità: punteggio | credito max 40 + 3 prove max 20 ciascuna; integrazione max 3 da 97; 60 minimo |
+| Frequenza minima validità anno | 3/4 del monte ore personalizzato |
+| PTOF | triennale, rivedibile entro ottobre; DS indirizzi → Collegio elabora → CdI approva |
+| RAV: scale | giudizi 1-7; 4 sezioni |
+| Programma annuale | Giunta entro 30/11; CdI entro 31/12; dodicesimi in esercizio provvisorio |
+| Conto consuntivo | DSGA 15/3; revisori 15/4; CdI 30/4 |
+| Inventario | ricognizione ogni 5 anni; rivalutazione ogni 10 |
+| Affidamento diretto (D.lgs. 36/2023) | servizi e forniture \< 140.000 €; lavori \< 150.000 € |
+| Limite CdI per attività negoziale DS | 10.000 € (criteri e limiti ex art. 45 c. 2 D.I. 129/2018) |
+| Procedimento amministrativo | 30 gg (termine generale); annullamento d'ufficio entro 12 mesi |
+| Ricorsi | TAR 60 gg; straordinario 120 gg; accesso: 30 gg |
+| Procedimento disciplinare (55-bis) | contestazione ≤30 gg; conclusione ≤120 gg; DS fino a sospensione ≤10 gg |
+| Data breach | notifica al Garante entro 72 h |
+| Assemblee studentesche | 2 h/mese di classe; 1 giorno/mese di istituto |
+| Comitato valutazione docenti | 3 anni; DS + 3 docenti + 2 genitori/1+1 + esterno USR |
+| Consiglio di istituto | 19 membri (\>500 alunni); dura 3 anni; presiede un genitore |
+| Anno di prova | 180 gg servizio / 120 attività didattiche; 50 h formazione |
+| Permessi L. 104 | 3 giorni mensili |
+| Diritto allo studio | 150 ore |
+| Competenze chiave UE | 8 (Racc. 22/5/2018) |
+| EQF | 8 livelli; diploma = 4; ITS = 5; L3 = 6; LM = 7; PhD = 8 |
+| Benchmark UE 2030 | dispersione \<9%; low achievers \<15%; ECEC ≥96% |
+| Organico DS 2026/27 | 7.389 posti (D.I. 124/2025) |
+| Prova scritta concorso | 5 quesiti (2 in inglese), 180 minuti, minimo 70/100 |
+
+12\. Glossario delle sigle
+
+ANAC (Autorità nazionale anticorruzione) · ARAN (Agenzia per la rappresentanza negoziale delle PA) · ASPP/RSPP (addetto/responsabile del servizio di prevenzione e protezione) · ATA (personale amministrativo, tecnico e ausiliario) · BES (bisogni educativi speciali) · CCNI/CCNL (contratto collettivo nazionale integrativo/di lavoro) · CdI (Consiglio di istituto) · CIG/CUP (codice identificativo gara / codice unico progetto) · CSPI (Consiglio superiore della pubblica istruzione: parere obbligatorio sugli atti normativi del Ministro) · DSGA (direttore dei servizi generali e amministrativi) · DVR (documento di valutazione dei rischi) · EQF (European Qualifications Framework) · FMOF (fondo per il miglioramento dell'offerta formativa) · GLO/GLI/GIT/GLIR (gruppi per l'inclusione: operativo, d'istituto, territoriale, regionale) · IeFP (istruzione e formazione professionale regionale) · INDIRE (Istituto nazionale documentazione innovazione ricerca educativa) · INVALSI (Istituto nazionale per la valutazione del sistema educativo) · ISCED (International Standard Classification of Education) · MOF → FMOF · NEV (nucleo esterno di valutazione) · NIV (nucleo interno di valutazione) · PA (programma annuale) · PAI → Piano per l'inclusione · PCTO (percorsi per le competenze trasversali e l'orientamento) · PDP (piano didattico personalizzato) · PEI (piano educativo individualizzato) · PFI (progetto formativo individuale, professionali) · PdM (piano di miglioramento) · PNRR (Piano nazionale di ripresa e resilienza) · PNSD (Piano nazionale scuola digitale) · PTOF (piano triennale dell'offerta formativa) · QCER/CEFR (quadro comune europeo di riferimento per le lingue) · RAV (rapporto di autovalutazione) · RSU (rappresentanza sindacale unitaria) · RUP (responsabile unico del progetto) · SNV (sistema nazionale di valutazione) · UPD (ufficio per i procedimenti disciplinari) · USR (ufficio scolastico regionale).
+
+13\. Piano di studio suggerito (18 mesi, da settembre 2026 al bando atteso)
+
+| Fase | Mesi | Attività |
+| :-: | :-: | :-: |
+| 1\. Fondamenta | 1-4 | Aree 1, 3, 5 (le più 'pesanti' e interconnesse): lettura del manuale + fonti primarie (DPR 275/1999, L. 107/2015 c. 1-14 e 78-85, D.lgs. 165/2001 artt. 2, 5, 21, 25, 55-bis, TU parti organi collegiali, D.M. 194/2022). 30 quesiti/giorno dalle aree studiate con verifica di vigenza. |
+| 2\. Tecnica | 5-8 | Aree 7 e 8 (diritto e contabilità): studio con schemi; lettura integrale D.I. 129/2018 e L. 241/1990 (artt. 1-30). Primo quesito aperto settimanale in 35 minuti. Ripasso a spirale delle aree 1-3-5 (batterie miste). |
+| 3\. Completamento | 9-12 | Aree 2, 4, 6, 9. Per l'area 2 valorizza il tuo background di psicologo (studia direttamente autori e modelli). Avvio dei quesiti in inglese (2/mese) e del glossario school English. |
+| 4\. Consolidamento | 13-15 | Ripasso per 'numeri' (tabella flash-card cap. 11) e per riforme in atto (cap. 1.4). Simulazioni preselettiva complete (50 quesiti / 75 minuti) 2 volte a settimana; analisi errori con conversione normativa. |
+| 5\. Rifinitura | 16-18 (e fino al bando) | Aggiornamento normativo continuo (Gazzetta, notiziari di settore, CCNL 2022-24, decreti attuativi Indicazioni 2026 e riforma tecnici); esercizio quotidiano misto; scrittura di un caso a settimana per l'orale; consolidamento inglese B2. |
+
+|  |
+| :-: |
+| ATTENZIONE Regola d'oro finale: quando esce il bando, il programma d'esame allegato prevale su tutto. Verifica subito eventuali differenze rispetto al D.M. 194/2022 e, alla pubblicazione della nuova banca dati ufficiale (se la preselettiva sarà confermata), sposta l'intero allenamento quiz su quella: la banca 2017 resterà utile solo come palestra supplementare. |
+
+Manuale Concorso DS 2027 · pag.

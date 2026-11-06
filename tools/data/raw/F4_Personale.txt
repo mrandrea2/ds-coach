@@ -1,0 +1,264 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 4
+
+Gestione del personale
+
+Area E — Stato giuridico, organi collegiali, disciplina, sicurezza · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. Le fonti del rapporto di lavoro
+
+D.lgs. 165/2001: art. 2 (fonti: legge + contrattazione; i rapporti sono disciplinati dal codice civile e dalle leggi sul lavoro subordinato privato, salvo le materie riservate); art. 5 c. 2 (poteri del privato datore di lavoro per l'organizzazione degli uffici e la gestione dei rapporti); art. 40 (materie di contrattazione: diritti e obblighi pertinenti al rapporto; escluse organizzazione, prerogative dirigenziali...); art. 45 (trattamento economico solo da contratto); art. 53 (incompatibilità e incarichi extraistituzionali).
+
+Gerarchia: D.lgs. 150/2009 (Brunetta) aveva 'rilegificato'; i D.lgs. 74 e 75/2017 (Madia) hanno riequilibrato verso il contratto; per la scuola resta la specialità del TU 297/1994 (stato giuridico) dove non derogato.
+
+CCNL vigenti: CCNL 29/11/2007 (normativo base per molti istituti), CCNL 19/4/2018 (comparto Istruzione e Ricerca: comunità educante art. 24... attenzione: art. 24 è sui diritti? La comunità educante è definita all'art. 24 del CCNL 2018 per la sezione scuola; molte fonti citano l'art. 24 — usa 'CCNL 2018, sezione scuola'), CCNL 18/1/2024 (2019-21): nuovo ordinamento professionale ATA (4 aree: collaboratori, operatori, assistenti, funzionari-EQ), aggiornamento dei profili, permessi estesi; ipotesi CCNL 2022-24 in via di perfezionamento (aumenti e code normative).
+
+ARAN: rappresenta le PA nella contrattazione; comparti definiti dal CCNQ; rappresentatività sindacale: media tra dato associativo e dato elettorale ≥ 5%.
+
+2\. Lo stato giuridico del docente (TU 297/1994 e CCNL)
+
+2.1 Funzione docente e orario
+
+| Profilo | Disciplina |
+| :-: | :-: |
+| Funzione docente | Art. 395 TU: esplicazione essenziale dell'attività di trasmissione della cultura, di contributo alla elaborazione di essa e di impulso alla partecipazione dei giovani; art. 26 CCNL 2007: si realizza in attività individuali e collegiali e nella partecipazione alla formazione. |
+| Orario di insegnamento | Art. 28 CCNL 2007: 25 ore infanzia; 22 + 2 di programmazione primaria; 18 secondaria; unità orarie ridotte per cause di forza maggiore non recuperabili, per flessibilità sì. |
+| Attività funzionali | Art. 29 CCNL 2007: adempimenti individuali (preparazione, correzione, rapporti con le famiglie); collegiali: fino a 40 ore per collegio docenti, articolazioni e informazione alle famiglie + fino a 40 ore per consigli di classe (esclusi scrutini); scrutini ed esami: obbligo senza tetto. |
+| Ore eccedenti | Fino a 24 ore settimanali con consenso (6 in più); sostituzioni: pacchetto ore eccedenti; L. 107 c. 85: potenziamento per supplenze fino a 10 giorni. |
+| Ferie e festività | 32 giorni (30 nei primi 3 anni) + 4 festività soppresse; docenti: fruizione nei periodi di sospensione delle attività; 6 giorni durante l'attività con sostituzione senza oneri. |
+| Libertà di insegnamento | Art. 1 TU e art. 33 Cost.: nel rispetto delle norme costituzionali e degli ordinamenti, della coscienza morale e civile degli alunni. |
+
+2.2 Assenze principali (CCNL 2007 aggiornato)
+
+| Istituto | Regole |
+| :-: | :-: |
+| Malattia | 18 mesi nel triennio (comporto): 9 mesi intera, 3 al 90%, 6 al 50%; + 18 mesi non retribuiti per casi gravi; decurtazione Brunetta nei primi 10 giorni (trattamento fondamentale); visite fiscali (fasce 9-13/15-18, polo unico INPS); gravi patologie: terapie salvavita escluse dal computo. |
+| Permessi retribuiti | 3 giorni per motivi personali o familiari (documentati anche con autocertificazione; per i docenti dal CCNL 2018 sono retribuiti senza più il meccanismo della sostituzione con ferie); 8 giorni per concorsi/esami; 3 giorni per lutto (coniuge, parenti entro il 2°, affini 1°); 15 giorni per matrimonio. |
+| Permessi brevi | Max metà orario giornaliero, fino a 2 ore; recupero entro 2 mesi. |
+| L. 104/1992 | 3 giorni mensili (art. 33 c. 3); programmazione di massima; referente unico superato (D.lgs. 105/2022). |
+| Maternità/paternità | D.lgs. 151/2001: congedo obbligatorio 5 mesi (flessibilità; interdizione anticipata); congedo parentale fino a 12 anni del figlio (10-11 mesi tra i genitori; primi 30 giorni per anno interi al 100% per il personale scuola per ciascun genitore... attenzione: 30 giorni interi al 100% è specialità scuola per i primi 30 giorni di congedo parentale; poi indennità INPS con mensilità all'80% secondo le leggi di bilancio 2024-25); riposi giornalieri; congedo paternità obbligatorio 10 giorni. |
+| Diritto allo studio | 150 ore annue (DPR 395/1988), contingente 3% per provincia; permessi per il personale in percorsi di abilitazione. |
+| Aspettativa | Motivi di famiglia, lavoro, personali, studio: fino a 1 anno, senza assegni (art. 18 CCNL 2007); per altro lavoro (anno di prova altrove: art. 18 c. 3 CCNL 2007 e L. 448/1998). |
+
+3\. Reclutamento e formazione
+
+3.1 Docenti: il sistema a regime (PNRR)
+
+D.lgs. 59/2017 come riscritto dal D.L. 36/2022 (L. 79/2022): percorso universitario abilitante di formazione iniziale da 60 CFU/CFA (DPCM 4/8/2023: almeno 10 CFU di tirocinio diretto, prova finale con lezione simulata) → concorso pubblico nazionale (prova scritta, prova orale con lezione) → contratto a tempo determinato di prova → anno di formazione e prova con test finale e valutazione conclusiva → ruolo.
+
+Fasi transitorie: percorsi da 30 CFU per triennalisti e specifiche categorie; concorsi PNRR 1 (2023), PNRR 2 (2024), PNRR 3 (2025) con riserve e requisiti transitori fino al 31/12/2024 poi prorogati.
+
+Supplenze: GPS (graduatorie provinciali, O.M. 88/2024, aggiornamento biennale) prima fascia (abilitati/specializzati) e seconda; GAE residuali; graduatorie d'istituto (I-II-III fascia); interpello per esaurimento; MAD superata dall'interpello (dal 2024/25).
+
+Vincoli: neoassunti — permanenza triennale nella scuola di assunzione (con deroghe: soprannumero, 104, genitori di figli \< 16... da CCNL mobilità e L. 106/2021 mod.); passaggi di ruolo.
+
+3.2 Anno di formazione e prova (D.M. 226/2022)
+
+Requisiti: 180 giorni di servizio di cui 120 di attività didattiche (proporzionalmente ridotti per part-time).
+
+Percorso: bilancio di competenze iniziale, patto per lo sviluppo professionale col DS, 50 ore di formazione (laboratori/visite a scuole innovative + piattaforma INDIRE), peer to peer (12 ore: 4 osservazione del tutor, 4 del neoassunto, pratica didattica...), portfolio professionale, test finale (colloquio: discussione e valutazione delle competenze, introdotto dal 2022) davanti al Comitato di valutazione in composizione ristretta (DS + docenti; il tutor presenta parere istruttorio).
+
+Decisione: il DS valuta, sentito il Comitato; in caso di esito sfavorevole: secondo periodo di prova non rinnovabile; dispensa in caso di nuovo esito negativo.
+
+Il tutor: individuato dal DS sentito il collegio; compenso da FMOF; attestazione nel curriculum.
+
+3.3 Formazione in servizio
+
+C. 124 L. 107: obbligatoria, permanente e strutturale, nell'ambito degli adempimenti connessi alla funzione docente; Piano di formazione d'istituto (delibera del Collegio) coerente con PTOF e PdM; risorse: carta docente (individuale) + fondi d'istituto e PNRR (DM 66/2023).
+
+Scuola di Alta Formazione dell'istruzione (D.L. 36/2022): indirizza e accredita la formazione, con INDIRE e INVALSI; formazione continua incentivata (percorsi triennali con verifica e incentivo una tantum) — attuazione graduale.
+
+Formazione obbligatoria specifica: sicurezza (Accordo Stato-Regioni 2011/2025), privacy, primo soccorso/antincendio per gli addetti, CLIL, sostegno (25 ore per docenti di classi con alunni con disabilità — L. 178/2020 c. 961, ove disposta).
+
+4\. Organi collegiali e partecipazione (TU 297/1994, artt. 5-15)
+
+| Organo | Dettaglio completo da quiz |
+| :-: | :-: |
+| Consiglio di classe / interclasse / intersezione (artt. 5) | Composizione: tutti i docenti + rappresentanti genitori: infanzia e primaria 1 per sezione/classe; secondaria I grado 4 per classe; II grado 2 genitori + 2 studenti; nei corsi serali 3 studenti. Presiede il DS o un docente delegato. Competenze con la sola componente docente: coordinamento didattico, rapporti interdisciplinari, valutazione periodica e finale. Si pronuncia (intero) su: proposte al collegio, sperimentazione, provvedimenti disciplinari (con le garanzie del DPR 249). |
+| Collegio dei docenti (art. 7) | Composizione: personale docente di ruolo e non di ruolo in servizio; presiede il DS; si insedia a inizio anno e si riunisce quando il DS lo convochi o su richiesta di 1/3 dei componenti. Competenze: delibera il funzionamento didattico; elabora il PTOF; cura la programmazione educativa; formula proposte per classi, orario, attività; valuta periodicamente l'andamento dell'azione didattica; provvede all'adozione dei libri di testo (sentiti i consigli) e alla scelta dei sussidi; adotta iniziative di sperimentazione, aggiornamento; elegge i suoi rappresentanti nel CdI e i docenti del comitato di valutazione; identifica le funzioni strumentali (art. 33 CCNL 2007). |
+| Consiglio di circolo/istituto e Giunta (art. 8-10) | Fino a 500 alunni: 14 membri (6 docenti, 1 ATA, 6 genitori, DS); oltre 500: 19 (8 docenti, 2 ATA, 8 genitori; nelle superiori 4 genitori e 4 studenti). Presidente: eletto tra i genitori (a maggioranza assoluta al primo scrutinio, poi relativa). Durata 3 anni (componente studentesca annuale); membri decaduti dopo 3 assenze consecutive ingiustificate (regolamenti). Giunta esecutiva: 1 docente, 1 ATA, 1 genitore, 1 studente (superiori) + DS (presiede) e DSGA (segretario). Competenze CdI: programma annuale e conto consuntivo; acquisti e regolamento; adattamento calendario; criteri programmazione attività extra; partecipazione a reti/attività; approvazione PTOF; delibera le attività negoziali maggiori (v. fascicolo contabilità). |
+| Comitato di valutazione (art. 11 come sost. da c. 129 L. 107) | 3 anni; presieduto dal DS; 3 docenti (2 collegio, 1 CdI), 2 genitori (primo ciclo) o 1 genitore + 1 studente (secondo), 1 esterno individuato dall'USR. Funzioni: criteri per la valorizzazione dei docenti; parere sull'anno di prova (composizione ristretta: DS + docenti + tutor); valutazione del servizio su richiesta dell'interessato (art. 448 TU); riabilitazione (art. 501). |
+| Assemblee studenti/genitori (artt. 12-15) | Studenti (superiori): assemblea di classe (2 ore mensili, non nello stesso giorno della settimana, non ultimo mese) e di istituto (1 giornata mensile; possibilità di gruppi di lavoro; partecipazione di esperti autorizzata dal CdI); comitato studentesco; genitori: assemblee e comitato. |
+| Organi territoriali | CSPI (Consiglio superiore della pubblica istruzione, D.lgs. 233/1999: organo consultivo nazionale, parere obbligatorio su ordinamenti, programmi, organizzazione generale); consulte provinciali degli studenti (DPR 567/1996); organi collegiali territoriali mai riformati (progetti di riforma pendenti). |
+
+5\. Il personale ATA e il DSGA
+
+Nuovo ordinamento (CCNL 18/1/2024): Area dei Collaboratori (ex CS: accoglienza, sorveglianza, pulizia, assistenza di base alunni con disabilità), Area degli Operatori, Area degli Assistenti (amministrativi e tecnici), Area dei Funzionari e delle Elevate Qualificazioni (ex DSGA). Mansioni e incarichi specifici; posizioni economiche riattivate.
+
+DSGA: sovrintende con autonomia operativa ai servizi generali amministrativo-contabili e ne cura l'organizzazione, coordinando il personale ATA, nell'ambito delle direttive di massima impartite e degli obiettivi assegnati dal DS (Tabella A CCNL e art. 25 c. 5 D.lgs. 165/2001); ruolo negoziale-contabile: v. D.I. 129/2018 (predispone il conto consuntivo, gestisce il fondo minute spese, svolge l'istruttoria negoziale); accesso: concorso per funzionari (laurea magistrale in ambito giuridico-economico; primo concorso ordinario 2024).
+
+Sostituzioni: divieto di supplenze brevi per i collaboratori nei primi 7 giorni (L. 190/2014 c. 332? Attenzione: il divieto per il primo giorno CS e per i primi 7 degli AA è stato allentato; verifica bando) — punto instabile: ai quiz privilegia la regola generale dell'organizzazione interna.
+
+6\. Disciplina, responsabilità, incompatibilità
+
+6.1 Procedimento disciplinare (art. 55-bis ss. D.lgs. 165/2001)
+
+Competenza: per il personale ATA e per sanzioni fino alla sospensione ≤ 10 giorni procede il responsabile della struttura con qualifica dirigenziale (il DS): contestazione scritta entro 30 giorni dalla conoscenza, audizione a difesa (preavviso ≥ 20 giorni), conclusione entro 120 giorni dalla contestazione; oltre la soglia: UPD (costituito presso l'USR) — segnalazione entro 10 giorni.
+
+Docenti: sanzioni ancora nel TU (artt. 492-501): avvertimento scritto, censura (competenza del DS per queste due — dal D.lgs. 75/2017 il DS irroga fino alla censura? Attenzione: per i docenti il riparto prevede al DS avvertimento e censura, all'UPD le superiori: sospensione fino a 1 mese, da 1 a 6 mesi, destituzione), riabilitazione dopo 2 anni (art. 501).
+
+Rapporto col penale (art. 55-ter): il procedimento disciplinare prosegue di regola; sospensione facoltativa per infrazioni maggiori di accertamento complesso; riapertura dopo sentenza irrevocabile.
+
+Licenziamento disciplinare (55-quater): falsa attestazione della presenza (anche flagranza: sospensione cautelare entro 48 ore), assenza ingiustificata \> 3 giorni in un biennio o \> 7 in 10 anni, falsità documentali, condanne; 55-quinquies: false attestazioni (reato).
+
+Sospensione cautelare: obbligatoria in caso di custodia cautelare; facoltativa in pendenza di procedimento penale (TU artt. 506-508 per docenti; CCNL per ATA).
+
+Codice disciplinare: pubblicazione sul sito equivale ad affissione (art. 55 c. 2).
+
+6.2 Incompatibilità (art. 53 D.lgs. 165/2001; artt. 508 TU)
+
+Divieto di attività commerciali, industriali, professionali e di altri rapporti di impiego (art. 508 TU); eccezione docenti: esercizio di libere professioni non incompatibili, previa autorizzazione del DS (revocabile se pregiudica la funzione).
+
+Incarichi extraistituzionali: autorizzazione preventiva (per il DS autorizza l'USR); anagrafe delle prestazioni; part-time ≤ 50%: attività compatibili ampliate.
+
+Lezioni private: vietate ad alunni della propria scuola; obbligo di informare il DS (art. 508 c. 1).
+
+7\. Relazioni sindacali e sciopero
+
+Modello CCNL 2018 (artt. 4-9) confermato dal 2024: partecipazione (informazione e confronto) + contrattazione integrativa. Informazione: atti dovuti su materie di contrattazione/confronto. Confronto: proposte di organizzazione del lavoro, ricadute su di essa. Contrattazione integrativa d'istituto (soggetti: DS e RSU + OO.SS. firmatarie), materie principali: attuazione della normativa sulla sicurezza; criteri di ripartizione del FMOF; criteri per compensi accessori; criteri individuazione personale su progetti; diritti sindacali; flessibilità oraria; lavoro agile/da remoto ATA (dal 2024). Tempi: sessione entro il 30 novembre? La sessione negoziale si avvia a settembre e i contratti hanno durata triennale con verifiche annuali (prassi).
+
+RSU: elezioni triennali (ARAN); prerogative: assemblee, bacheca, locali; monte ore permessi.
+
+Assemblee sindacali: fino a 10 ore pro capite annue in orario di lavoro; obblighi di servizio del DS: avviso alle famiglie, servizi minimi.
+
+Sciopero: L. 146/1990 (servizi pubblici essenziali: l'istruzione lo è per scrutini, esami, vigilanza minori) + Accordo ARAN-OO.SS. 2/12/2020: comunicazione dello sciopero, dichiarazione volontaria del personale (3 giorni prima), obbligo del DS di informare le famiglie 5 giorni prima con i dati di adesione, contingenti minimi per scrutini ed esami; sanzioni della Commissione di garanzia.
+
+Diritti sindacali del DS: distinti (area dirigenziale).
+
+8\. Sicurezza sul lavoro (D.lgs. 81/2008) — la scuola
+
+Datore di lavoro = dirigente scolastico (D.M. 292/1996); obblighi indelegabili (art. 17): valutazione di tutti i rischi con redazione del DVR; designazione del RSPP. Delegabili: nomine addetti, formazione, DUVRI ecc. (delega ex art. 16 con forma scritta e accettazione).
+
+Figure: RSPP (interno o esterno; nelle scuole può essere un docente con formazione; capacità ex art. 32), ASPP, RLS (eletto dalla RSU o dai lavoratori; formazione 32 ore), medico competente (se sorveglianza sanitaria: videoterminalisti \> 20 h, laboratori con rischi), addetti antincendio e primo soccorso (scuole in genere: rischio incendio livello 2/ex medio; primo soccorso gruppo B).
+
+Studenti: equiparati a lavoratori quando frequentano laboratori con uso di attrezzature/agenti (art. 2); formazione generale per i PCTO (4 ore su piattaforma).
+
+DVR: data certa, collaborazione RSPP e MC, consultazione RLS; stress lavoro-correlato incluso; aggiornamento in caso di modifiche significative; DUVRI per interferenze con appaltatori; prove di evacuazione (2 l'anno, D.M. 26/8/1992 antincendio scuole; nuovo D.M. 7/8/2023 codice prevenzione incendi scuole).
+
+Edilizia: obblighi di manutenzione sugli enti locali (L. 23/1996: Comuni per infanzia-primaria-medie, Province/Città metropolitane per superiori); il DS richiede gli interventi e adotta le misure organizzative provvisorie; responsabilità: esclusa per il DS se ha segnalato (giurisprudenza consolidata; art. 18 c. 3 D.lgs. 81).
+
+Sorveglianza sanitaria, divieto di fumo (L. 3/2003: anche aree aperte delle scuole, D.L. 104/2013), somministrazione farmaci a scuola (Racc. 2005: formazione, autorizzazioni), primo soccorso e defibrillatori (L. 116/2021 promozione DAE).
+
+9\. Privacy a scuola (essenziale operativo)
+
+Titolare: l'istituzione scolastica; il DS ne ha la rappresentanza; designazione di autorizzati e istruzioni (art. 29 GDPR); DPO obbligatorio per le PA (art. 37).
+
+Basi giuridiche: esecuzione di compiti di interesse pubblico (didattica, valutazione); consenso solo per attività accessorie (foto/video eventi, gite extra...); dati particolari: quadro di legge (D.M. 305/2006 vecchio regolamento; oggi principi GDPR).
+
+Registro dei trattamenti (art. 30); DPIA per trattamenti ad alto rischio (piattaforme che profilano, videosorveglianza); data breach: notifica al Garante entro 72 ore, registro interno; videosorveglianza: solo per sicurezza, telecamere su aree a rischio fuori orario, informativa/cartelli, no aule in orario (provvedimenti Garante).
+
+Vademecum Garante 'La scuola a prova di privacy' (ed. 2023): voti e tabelloni (pubblicazione esiti senza dati eccedenti; dal 2020 no pubblicazione online dei voti col nome... esiti su registro elettronico ad accesso individuale), foto dei genitori agli eventi (uso personale lecito), circolari e comunicazioni.
+
+Età del consenso digitale: 14 anni (art. 2-quinquies Codice); uso di piattaforme: valutazione e nomina a responsabile ex art. 28 dei fornitori.
+
+10\. Il trattamento del personale: assenze, congedi, mobilità in dettaglio
+
+| Istituto | Disciplina di dettaglio |
+| :-: | :-: |
+| Malattia | Comporto: 18 mesi nel triennio (9 intera retribuzione, 3 al 90%, 6 al 50%); ulteriori 18 mesi non retribuiti per gravi patologie; visite fiscali nelle fasce di reperibilità (9-13 / 15-18, polo unico INPS); terapie salvavita escluse dal computo con idonea certificazione. |
+| Congedi parentali (D.lgs. 151/2001) | Maternità obbligatoria 5 mesi (flessibilità 1+4 o 2+3; interdizione anticipata per gravidanza a rischio); congedo parentale fino ai 12 anni del figlio, nei limiti complessivi tra i genitori; per il comparto scuola i primi 30 giorni sono retribuiti al 100%; congedo di paternità obbligatorio 10 giorni; riposi giornalieri ('allattamento'). |
+| Permessi L. 104/1992 | 3 giorni mensili retribuiti (art. 33 c. 3) per assistere un familiare con disabilità grave; frazionabili in ore; dal D.lgs. 105/2022 fruibili da più aventi diritto in alternativa; congedo straordinario biennale (art. 42 D.lgs. 151/2001). |
+| Diritto allo studio | 150 ore annue retribuite (DPR 395/1988), contingente del 3% degli organici provinciali; per corsi con esami finali. |
+| Aspettative | Per motivi di famiglia, personali, di studio (art. 18 CCNL 2007): fino a 12 mesi senza assegni; per altro impiego/anno di prova; per mandato amministrativo o sindacale. |
+| Mobilità | CCNI annuale/triennale; trasferimenti (a domanda e d'ufficio) e passaggi (di ruolo e di cattedra); vincoli di permanenza per neoassunti (triennale sulla sede), con deroghe (L. 104, figli minori, gravi motivi). |
+
+Le ferie: 32 giorni lavorativi (30 nei primi tre anni) più 4 giornate di festività soppresse; per i docenti fruite di norma nei periodi di sospensione dell'attività didattica, con possibilità limitata di 6 giorni durante l'attività a certe condizioni.
+
+11\. La contrattazione integrativa d'istituto
+
+Livelli di relazioni sindacali (CCNL 2018, confermato dal 2024): informazione, confronto, contrattazione integrativa. Soggetti della contrattazione d'istituto: il DS (parte pubblica) e la RSU insieme ai rappresentanti territoriali delle OO.SS. firmatarie.
+
+Materie tassative della contrattazione integrativa: criteri di ripartizione del Fondo per il miglioramento dell'offerta formativa (FMOF); criteri per l'attribuzione di compensi accessori; criteri per l'individuazione del personale da utilizzare nei progetti; attuazione della normativa sulla sicurezza; diritti e agibilità sindacali; flessibilità oraria; lavoro agile del personale ATA.
+
+Il FMOF (CCNL 2018, art. 40): unifica il fondo di istituto, le funzioni strumentali, gli incarichi specifici ATA, le ore eccedenti, le aree a rischio e le risorse ex bonus merito; è la principale posta di salario accessorio.
+
+Procedura: la contrattazione si apre a inizio anno; l'ipotesi di contratto è sottoposta ai revisori per la certificazione di compatibilità economico-finanziaria; poi la sottoscrizione definitiva; durata triennale con possibili sequenze annuali sulle risorse.
+
+Sciopero (L. 146/1990 e Accordo ARAN 2/12/2020): dichiarazione volontaria di adesione con preavviso, comunicazione alle famiglie 5 giorni prima con i dati di adesione, prestazioni indispensabili per scrutini ed esami; Commissione di garanzia.
+
+12\. Il DSGA e i profili ATA: funzioni e responsabilità
+
+DSGA: sovrintende ai servizi generali amministrativo-contabili con autonomia operativa, coordina il personale ATA, nell'ambito delle direttive di massima del DS e degli obiettivi assegnati (art. 25 c. 5 D.lgs. 165/2001; tabella A CCNL). È consegnatario dei beni; predispone il conto consuntivo; svolge l'istruttoria dell'attività negoziale; è agente contabile.
+
+Nuovo ordinamento ATA (CCNL 18/1/2024): quattro aree — Collaboratori (accoglienza, sorveglianza, pulizia, assistenza di base agli alunni con disabilità), Operatori, Assistenti (amministrativi e tecnici), Funzionari ed Elevate Qualificazioni (in cui confluisce il DSGA).
+
+Accesso al profilo di DSGA: dal 2024/25 per concorso ordinario per funzionari, con laurea magistrale in ambito giuridico-economico; facente funzione nelle more.
+
+Incarichi specifici e posizioni economiche del personale ATA; il piano delle attività ATA è predisposto dal DSGA e adottato dal DS.
+
+DOSSIER — Gli organi collegiali a memoria: composizioni, durate, competenze esclusive
+
+È il capitolo più 'quizzato' dell'area 5, perché fatto di numeri e competenze precise. Va saputo a memoria, senza esitazioni.
+
+| Organo | Composizione esatta | Competenze ESCLUSIVE (che nessun altro organo ha) |
+| :-: | :-: | :-: |
+| Consiglio di istituto (\>500 alunni) | 19 membri: 8 docenti, 2 ATA, 8 genitori (nelle superiori 4 genitori + 4 studenti), DS di diritto. Presiede un genitore. Dura 3 anni (studenti annuali). | Approva il programma annuale e il conto consuntivo; adotta il regolamento d'istituto; delibera i criteri generali di formazione classi e orario; approva il PTOF; delibera l'adesione a reti e le attività negoziali maggiori. |
+| Consiglio di istituto (≤500) | 14 membri: 6 docenti, 1 ATA, 6 genitori, DS. | Come sopra, proporzionato. |
+| Giunta esecutiva | DS (presiede), DSGA (segretario), + 1 docente, 1 ATA, 1 genitore (+ 1 studente alle superiori) | PROPONE il programma annuale al CdI; predispone i lavori del CdI. NON ha poteri deliberativi propri sul bilancio. |
+| Collegio dei docenti | Tutti i docenti in servizio; presiede il DS; convocabile su richiesta di 1/3 | ELABORA il PTOF; adotta i libri di testo; cura la programmazione educativa; identifica le funzioni strumentali; delibera il piano di formazione; valuta l'andamento didattico. |
+| Comitato di valutazione | DS (presiede) + 3 docenti (2 Collegio, 1 CdI) + 2 genitori (o 1 genitore + 1 studente alle superiori) + 1 esterno USR; dura 3 anni | Individua i criteri per la valorizzazione dei docenti; esprime il parere sull'anno di prova (in composizione ristretta: DS + docenti + tutor). |
+| Consiglio di classe | Tutti i docenti + rappresentanti: 1 genitore (infanzia/primaria), 4 genitori (medie), 2 genitori + 2 studenti (superiori); presiede il DS o delegato | Con sola componente docenti: coordinamento didattico, valutazione, provvedimenti disciplinari; con tutte le componenti: proposte, verifica dell'andamento. |
+
+|  |
+| :-: |
+| MEMORIA Le tre trappole ricorrenti: 1) attribuire alla Giunta il potere di approvare il bilancio (lo PROPONE, il CdI approva); 2) far presiedere il CdI dal DS (presiede un GENITORE); 3) attribuire al Collegio l'approvazione del PTOF (lo ELABORA, il CdI approva). Chi non sbaglia queste tre ha già un vantaggio. |
+
+DOSSIER — Il procedimento disciplinare (art. 55-bis ss. D.lgs. 165/2001): i termini perentori
+
+Tema tecnico dove i termini fanno la differenza tra sanzione valida e annullabile.
+
+| Fase | Chi / Termine | Nota |
+| :-: | :-: | :-: |
+| Infrazioni fino a sospensione ≤ 10 giorni | Il responsabile della struttura (il DS): contestazione entro 30 giorni dalla notizia, conclusione entro 120 giorni | Procedura 'semplificata' in capo al dirigente. |
+| Infrazioni superiori | Ufficio per i procedimenti disciplinari (UPD) presso l'USR; segnalazione entro 10 giorni | Il DS non è competente oltre la soglia. |
+| Contraddittorio | Convocazione a difesa con preavviso di almeno 20 giorni (10 per le infrazioni minori); possibilità di assistenza sindacale o legale | Garanzia essenziale: la sua violazione vizia la sanzione. |
+| Rapporto col penale (55-ter) | Il disciplinare prosegue di regola; sospensione facoltativa per infrazioni gravi di accertamento complesso; riapertura dopo la sentenza irrevocabile | Autonomia dei due procedimenti. |
+| Sanzioni docenti (TU 297/1994) | Avvertimento scritto e censura: competenza del DS; sospensione fino a 1 mese, da 1 a 6 mesi, destituzione: organi superiori | Coesistenza TU-165 in attesa di armonizzazione contrattuale. |
+| Licenziamento disciplinare (55-quater) | Falsa attestazione della presenza (con sospensione cautelare entro 48 ore in caso di flagranza), assenza ingiustificata, condanne | — |
+
+Codice disciplinare: la pubblicazione sul sito istituzionale equivale a tutti gli effetti all'affissione all'ingresso (art. 55 c. 2): senza tale pubblicità, la sanzione è contestabile.
+
+DOSSIER — Sicurezza (D.lgs. 81/2008): il DS datore di lavoro, obblighi e deleghe
+
+Il DS è il datore di lavoro (D.M. 292/1996): titolare dei poteri decisionali e di spesa nei limiti del bilancio.
+
+Obblighi INDELEGABILI (art. 17): la valutazione di TUTTI i rischi con elaborazione del DVR; la designazione del RSPP. Solo questi due non si possono delegare.
+
+Delega di funzioni (art. 16): ammessa per gli altri obblighi, con atto scritto, data certa, accettazione del delegato dotato di competenza e poteri; non esclude l'obbligo di vigilanza del delegante.
+
+Figure del sistema: RSPP (coordina la prevenzione; può essere un docente formato o un esterno), ASPP, RLS (eletto dai lavoratori/RSU, formazione 32 ore), medico competente (se c'è sorveglianza sanitaria), addetti antincendio e primo soccorso.
+
+Studenti equiparati a lavoratori quando usano laboratori/attrezzature (art. 2); formazione per i PCTO.
+
+Ripartizione con l'ente locale (L. 23/1996): la manutenzione e la messa a norma degli edifici competono al Comune (primo ciclo) o alla Provincia/Città metropolitana (secondo ciclo); il DS segnala per iscritto e adotta misure organizzative provvisorie — la segnalazione tempestiva è la sua tutela.
+
+DVR: aggiornato a ogni modifica significativa; include lo stress lavoro-correlato (art. 28); DUVRI per le interferenze con appaltatori; prove di evacuazione (di norma due l'anno).
+
+13\. Checklist finale
+
+So l'orario per ordine (25/22+2/18) e le 40+40 ore funzionali.
+
+So permessi e assenze con i numeri (3, 8, 15, 150, 18 mesi, 3 giorni 104).
+
+So il percorso di reclutamento a regime (60 CFU → concorso → prova) e l'anno di prova (180/120, 50 ore, test finale).
+
+So comporre tutti gli organi collegiali a memoria, con durate e presidenze.
+
+So il riparto disciplinare DS/UPD con i termini 30-120 e le sanzioni del TU per i docenti.
+
+So le materie di contrattazione d'istituto e le regole su assemblee (10 h) e sciopero (accordo 2020: 5 giorni alle famiglie).
+
+So i miei obblighi indelegabili ex 81/2008 (DVR + RSPP) e il riparto con l'ente locale.
+
+So gestire un data breach (72 h) e le basi giuridiche del trattamento a scuola.
+
+Fascicolo 4 — Gestione del personale · pag.

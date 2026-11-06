@@ -1,0 +1,241 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 6
+
+Contabilità di Stato e gestione finanziaria
+
+Area H — D.I. 129/2018, attività negoziale, fondi UE e PNRR · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. Contabilità pubblica generale
+
+1.1 Principi costituzionali
+
+Art. 81 Cost. (L. cost. 1/2012): equilibrio tra entrate e spese del bilancio, tenendo conto del ciclo; ricorso all'indebitamento solo per gli effetti del ciclo o per eventi eccezionali (autorizzazione a maggioranza assoluta); ogni legge che importi nuovi o maggiori oneri provvede ai mezzi per farvi fronte; l'esercizio provvisorio del bilancio può essere concesso solo per legge e per periodi non superiori complessivamente a 4 mesi.
+
+Art. 97 c. 1: le PA assicurano l'equilibrio dei bilanci e la sostenibilità del debito; art. 119: autonomia finanziaria degli enti territoriali; L. 243/2012 (attuativa del pareggio).
+
+Art. 100: la Corte dei conti esercita il controllo preventivo di legittimità sugli atti del Governo e il controllo successivo sulla gestione del bilancio dello Stato; riferisce alle Camere.
+
+1.2 L. 196/2009: ciclo e strumenti
+
+Strumenti: Documento di economia e finanza (aprile) e Nota di aggiornamento (settembre) — dal ciclo 2024, con la nuova governance economica europea, il Piano strutturale di bilancio di medio termine (settembre, orizzonte 5-7 anni) e il Documento di finanza pubblica assorbono progressivamente DEF/NADEF: ai quiz sul 'documento programmatico' la risposta storica resta il DEF ex L. 196/2009; disegno di legge di bilancio: presentato entro il 20 ottobre, approvato entro il 31 dicembre.
+
+Legge di bilancio (unificata dalla L. 163/2016): Sezione I (misure normative, ex legge di stabilità) + Sezione II (stati di previsione, ex bilancio); bilancio annuale e pluriennale (triennale); assestamento entro giugno; rendiconto generale entro giugno (giudizio di parificazione della Corte dei conti).
+
+Struttura: missioni (funzioni principali) e programmi (aggregati omogenei — unità di voto parlamentare); azioni; classificazione economica e funzionale (COFOG); centri di responsabilità amministrativa.
+
+Principi del bilancio statale: annualità, unità, universalità, integrità (divieto di compensazioni), specializzazione, veridicità, pubblicità; bilancio di competenza e cassa; residui attivi/passivi (somme accertate/impegnate e non riscosse/pagate); il MEF-RGS e il sistema dei controlli (UCB).
+
+Copertura finanziaria (art. 17) e clausole di salvaguardia; fondi di riserva; SIOPE per i flussi.
+
+2\. Il D.I. 129/2018 articolo per articolo (nucleo dell'area)
+
+2.1 Principi e programma annuale (artt. 1-10)
+
+| Art. | Contenuto |
+| :-: | :-: |
+| 1-2 | Definizioni e principi: gestione secondo i principi di trasparenza, annualità, universalità, integrità, unità, veridicità, chiarezza, pareggio, armonizzazione, confrontabilità e monitoraggio; le risorse assegnate dallo Stato costituiscono la dotazione finanziaria di funzionamento (senza vincolo di destinazione se ordinarie... i vincoli restano per le risorse finalizzate). |
+| 3 | Capacità negoziale: le istituzioni scolastiche hanno piena capacità negoziale, salvi i limiti di legge e del regolamento. |
+| 4 | Esercizio finanziario: 1° gennaio - 31 dicembre; dopo il 31/12 nessun impegno né pagamento in conto dell'esercizio scaduto. |
+| 5 | Programma annuale: redatto in termini di competenza e coerente con il PTOF; predisposto dal DS con la collaborazione del DSGA; la Giunta esecutiva lo propone al Consiglio d'istituto entro il 30 novembre dell'anno precedente, con la relazione illustrativa (DS: obiettivi e risultati; utilizzo avanzo); approvazione del CdI entro il 31 dicembre, anche in mancanza del parere dei revisori (che è reso entro il 31/12? Il parere dei revisori è reso entro i successivi... prassi: parere entro il 31/12; l'approvazione può prescindere se non pervenuto). |
+| 6 | Mancata approvazione: comunicazione all'USR; commissario ad acta (nomina entro 15 giorni; provvede entro 45); esercizio provvisorio nelle more: dodicesimi degli stanziamenti definitivi dell'ultimo bilancio approvato, limitatamente alle spese obbligatorie e indifferibili... formulazione: 'nel limite di un dodicesimo per mese'. |
+| 7-8 | Entrate (aggregati: dotazione statale, finanziamenti UE, regioni, enti locali, famiglie — erogazioni liberali ex L. 40/2007 e contributi volontari, sponsor) e spese (per destinazione: attività — funzionamento generale e didattico, spese di personale residuali, progetti in ordine al PTOF); divieto di gestioni fuori bilancio; fondo di riserva (≤ 10% della dotazione ordinaria... attenzione: nel limite massimo del 10% della dotazione finanziaria di funzionamento); Z-Disponibilità da programmare. |
+| 10 | Variazioni: approvate dal CdI su proposta della Giunta o del DS; per nuove entrate finalizzate provvede il DS con proprio decreto da trasmettere al CdI (variazioni automatiche); verifica dello stato di attuazione entro il 30 giugno con relazione del DS e delibera di assestamento. |
+
+2.2 Gestione, scritture, consuntivo (artt. 11-23)
+
+| Istituto | Regole |
+| :-: | :-: |
+| Fasi delle entrate | Accertamento, riscossione, versamento (reversali firmate da DS e DSGA). |
+| Fasi delle spese | Impegno (assunto dal DS; nessun impegno oltre le disponibilità), liquidazione, ordinazione (mandati firmati da DS e DSGA), pagamento tramite istituto cassiere (convenzione di cassa; OIL/OPI); carte di credito? Sì: strumenti di pagamento elettronici e carta di credito per spese specifiche (art. 19). |
+| Residui | Attivi: entrate accertate non riscosse/versate; passivi: spese impegnate non pagate entro il termine dell'esercizio (definizioni identiche al vecchio 44/2001, art. 2 c. 8 — ricorrenti nei quiz); riaccertamento annuale; radiazione con decreto del DS previa delibera? La radiazione è disposta con provvedimento del DS (evidenza al CdI e ai revisori). |
+| Fondo economale minute spese (art. 21) | Costituito con delibera del CdI in sede di approvazione del PA, che ne determina la consistenza massima e il limite massimo per ciascuna spesa; gestione del DSGA con reintegri e rendicontazione; niente più importi fissi nazionali. |
+| Conto consuntivo (art. 23) | Composto da conto finanziario e conto del patrimonio; predisposto dal DSGA entro il 15 marzo e sottoposto ai revisori con relazione del DS; parere dei revisori entro il 15 aprile; approvazione del CdI entro il 30 aprile; se il CdI non approva in difformità dal parere favorevole, o i revisori danno parere non favorevole: trasmissione all'USR e procedura con commissario; pubblicazione sul sito (trasparenza) e trasmissione. |
+| Scritture obbligatorie | Giornale di cassa; partitari di entrate e spese; registro inventario; registri dei contratti; il DSGA è consegnatario dei beni (custodia; sub-consegnatari nei plessi); ricognizione inventariale almeno ogni 5 anni, rinnovo dei valori (rivalutazione) ogni 10 (art. 31); scarico per fuori uso/obsolescenza con provvedimento del DS (commissione); opere dell'ingegno: diritto d'autore della scuola sui lavori (art. 36? — le opere prodotte nell'attività: proprietà della scuola salvo diritto morale d'autore). |
+| Controlli (artt. 49-53) | Revisori dei conti: due, designati uno dal MIM (dal Ministero) e uno dal MEF; durata 3 anni (rinnovabile una volta... incarico triennale); operano per ambiti territoriali su più scuole; esprimono parere di regolarità contabile su PA e consuntivo; verifiche periodiche di cassa; accesso ad Athena 2; non hanno sindacato di merito sulle scelte discrezionali. |
+
+2.3 Attività negoziale (artt. 43-48)
+
+Art. 43: piena capacità negoziale; il DS può delegare lo svolgimento di singole attività al DSGA o a docenti/ATA; divieto di acquisti da operatori di cui si è amministratori/parenti? (conflitto di interessi: obbligo di astensione generale).
+
+Art. 44: il DS svolge l'attività negoziale necessaria all'attuazione del PTOF e del programma annuale; per gli acquisti si avvale dell'istruttoria del DSGA.
+
+Art. 45: competenze del CdI — delibera (c. 1) su: accettazione/rinuncia di legati, eredità e donazioni; costituzione di fondazioni; alienazione di beni; contratti pluriennali; alienazione di titoli; contratti di locazione ultranovennale... e (c. 2) determina criteri e limiti per: affidamenti di lavori, servizi e forniture di importo superiore a 10.000 euro; contratti di sponsorizzazione; locazione di immobili; utilizzo di locali e beni da parte di terzi; convenzioni per prestazioni del personale a terzi; alienazione di produzioni; acquisto e alienazione di titoli di Stato; contratti di prestazione d'opera con esperti; partecipazione a progetti internazionali (per questi ultimi, il DS può aderire direttamente se già previsti nel PTOF).
+
+Art. 46-48: acquisti tramite il codice dei contratti (rinvio: oggi D.lgs. 36/2023); pubblicità degli esiti negoziali (relazione alla prima riunione del CdI; copia dei contratti agli organi; diritto di accesso delle OO.SS.? — informazione); minute regole su convenzioni di cassa (schema MIUR, gara).
+
+Sponsorizzazioni: preferenza per soggetti con finalità coerenti con la funzione educativa; esclusi conflitti con l'attività didattica.
+
+|  |
+| :-: |
+| ATTENZIONE Serie di scadenze da recitare senza esitazioni: 30/11 proposta Giunta · 31/12 approvazione PA (e parere revisori) · dodicesimi in provvisorio · 30/6 verifica di attuazione · 15/3 consuntivo dal DSGA · 15/4 parere revisori · 30/4 approvazione consuntivo · 5/10 anni inventario. E i due limiti-cardine: 10% fondo di riserva; 10.000 € come soglia interna tipica per la delibera-quadro del CdI. |
+
+3\. Le novità 2019-2026 su gestione e pagamenti
+
+Fatturazione elettronica obbligatoria (D.M. 55/2013): codice univoco ufficio; split payment (scissione dei pagamenti IVA, L. 190/2014); piattaforma dei crediti commerciali (PCC) e obblighi sui tempi di pagamento (30 giorni; indicatore di tempestività).
+
+PagoPA obbligatorio per gli incassi da famiglie (Pago in Rete); POS; tesoreria e OPI tramite SIOPE+.
+
+Piano annuale dei flussi di cassa: art. 6 D.L. 155/2024 — le scuole adottano un piano dei flussi (prima applicazione 2026, termine spostato al 31 marzo 2026 con nota ministeriale); finalità di programmazione di cassa della PA.
+
+PNRR nelle scuole: il DS quale soggetto attuatore firma gli accordi di concessione; obblighi: CUP, milestone e target, rendicontazione su piattaforma FUTURA, conservazione documentale, controlli (UdM PNRR), DNSH, comunicazione (loghi UE); doppio binario contabile col programma annuale (entrate finalizzate, schede progetto).
+
+PN 'Scuola e competenze' 2021-2027 (FSE+/FESR): sostituisce il PON 2014-20 citato dalla banca dati; autorità di gestione presso il MIM; GPU/SIF per gestione e rendicontazione; FESR = infrastrutture e ambienti, FSE+ = persone e competenze (distinzione da quiz).
+
+4\. L'attività negoziale e il codice dei contratti
+
+Snodo operativo dell'area 8: come la scuola compra e contratta, tra regolamento di contabilità e codice degli appalti.
+
+5.1 Competenze negoziali (art. 44-45 D.I. 129/2018)
+
+Il DS svolge l'attività negoziale necessaria all'attuazione del PTOF e del programma annuale, avvalendosi dell'istruttoria del DSGA (art. 44).
+
+Il Consiglio di istituto delibera direttamente (art. 45 c. 1) su: accettazione di eredità, donazioni e legati; costituzione o partecipazione a fondazioni; alienazione di beni; contratti pluriennali oltre il triennio; contratti di locazione di immobili; adesione a reti.
+
+Il Consiglio di istituto determina i criteri e i limiti (art. 45 c. 2) per l'attività negoziale del DS relativa a: affidamenti superiori a 10.000 euro; contratti di sponsorizzazione; utilizzo di locali e beni; contratti con esperti esterni; acquisto e alienazione di titoli; partecipazione a progetti internazionali.
+
+5.2 Il codice dei contratti (D.lgs. 36/2023)
+
+Principi generali: principio del risultato, principio della fiducia, principio dell'accesso al mercato (artt. 1-3).
+
+Soglie per l'affidamento diretto: lavori fino a 150.000 euro; servizi e forniture fino a 140.000 euro; sopra, procedure negoziate con più operatori.
+
+RUP = Responsabile Unico del Progetto (non più 'del procedimento'); digitalizzazione integrale con piattaforme certificate dal 2024.
+
+Adempimenti costanti: CIG (codice identificativo di gara, ANAC) per ogni affidamento; CUP (codice unico di progetto) per gli investimenti; DURC (regolarità contributiva); tracciabilità dei flussi finanziari (L. 136/2010, conto dedicato); obbligo di ricorso a MEPA/Consip sopra 5.000 euro.
+
+|  |
+| :-: |
+| AGGIORNAMENTO 2026 AGGIORNAMENTO 2026 · Il D.lgs. 50/2016 citato nella banca dati 2017 e in molti manuali è stato sostituito dal D.lgs. 36/2023 (in vigore dal 1/7/2023). Le soglie e la figura del RUP sono cambiate: usare i riferimenti nuovi. |
+
+5\. Finanza pubblica, fondi europei e PNRR nel dettaglio
+
+6.1 Il bilancio dello Stato (L. 196/2009)
+
+Principi costituzionali: equilibrio di bilancio (art. 81, L. cost. 1/2012); sostenibilità del debito (art. 97); esercizio provvisorio dello Stato max 4 mesi, per legge.
+
+Ciclo di bilancio: documenti programmatici (DEF/NADEF, oggi in transizione verso il Piano strutturale di bilancio per la nuova governance UE); disegno di legge di bilancio presentato entro il 20 ottobre, approvato entro il 31 dicembre; legge di bilancio unificata (L. 163/2016) in due sezioni.
+
+Struttura: missioni e programmi (i programmi sono l'unità di voto parlamentare); competenza e cassa; rendiconto generale con parificazione della Corte dei conti.
+
+6.2 Fondi europei e PNRR
+
+Programmazione 2021-2027: Programma Nazionale 'Scuola e competenze' (FSE+ per le persone e le competenze, FESR per infrastrutture e ambienti), che succede al PON 'Per la scuola' 2014-2020; autorità di gestione presso il MIM; gestione su piattaforma GPU/SIF.
+
+PNRR (Next Generation EU), Missione 4 Componente 1: Piano Scuola 4.0, riduzione dei divari, STEM e multilinguismo, orientamento, ITS Academy, riforma di tecnici e professionali, Scuola di Alta Formazione.
+
+Il DS come soggetto attuatore: firma degli accordi di concessione, CUP, rendicontazione per milestone e target su piattaforma FUTURA, rispetto del principio DNSH e degli obblighi di comunicazione; doppio binario con il programma annuale (entrate finalizzate, schede progetto).
+
+Finanziamento ordinario: fondo per il funzionamento (L. 296/2006 c. 601); erogazioni liberali delle famiglie (finalizzate e rendicontate).
+
+6.3 Novità 2024-2026 su cassa e pagamenti
+
+Piano annuale dei flussi di cassa (art. 6 D.L. 155/2024), prima applicazione nel 2026: strumento di programmazione della cassa delle PA.
+
+Fatturazione elettronica obbligatoria e split payment; PagoPA per gli incassi dalle famiglie (Pago in Rete); SIOPE+ e ordinativo informatico (OIL/OPI); indicatore di tempestività dei pagamenti (30 giorni).
+
+6\. Raccordo con il diritto: responsabilità contabile del DS
+
+Il DS è responsabile della gestione delle risorse finanziarie e strumentali e dei risultati del servizio (art. 25 c. 2 D.lgs. 165/2001); agente amministrativo; il DSGA e chi maneggia denaro (agente contabile: rese del conto giudiziale — l'istituto cassiere e il DSGA per le minute spese) rendono il conto alla Corte dei conti (art. 139 ss. R.D. 827/1924 richiamati).
+
+Danno erariale tipico a scuola: pagamenti indebiti, mancato introito, danno da disservizio, danno all'immagine (nei casi di reato); elemento soggettivo: dolo o colpa grave; prescrizione 5 anni.
+
+Controlli esterni: revisori (regolarità), USR (vigilanza), Corte dei conti (giurisdizione e referto), controlli PNRR/UE (audit).
+
+Approfondimento dal corso — Programma annuale e consuntivo nel dettaglio
+
+Materiale tratto dalle slide del corso (Granello): la struttura dei documenti e il flusso operativo, utile per fissare la meccanica dell'area 8.
+
+Struttura del programma annuale
+
+Entrate (Mod. A): avanzo di amministrazione presunto; finanziamenti UE; Stato (dotazione ordinaria, perequativa); Regione; enti locali; contributi da privati (famiglie, imprese); proventi da gestioni economiche (azienda agraria, conto terzi, convitto); rimborsi; alienazioni; sponsor e utilizzo locali; altre entrate; mutui.
+
+Spese per destinazione: Attività (A01 funzionamento generale e decoro, A02 amministrativo, A03 didattica, A04 PCTO, A05 visite e viaggi, A06 orientamento); Progetti (P01-P05); Gestioni economiche (G); Fondo di riserva (R98); Disavanzo presunto (D100); Disponibilità da programmare (Z101, 'a pareggio').
+
+Situazione amministrativa presunta (Mod. C): fondo di cassa, riscossioni, pagamenti, residui attivi e passivi, avanzo/disavanzo presunto.
+
+Variazioni: chi può, entro quali limiti
+
+| Tipo di variazione | Organo | Riferimento D.I. 129/2018 |
+| :-: | :-: | :-: |
+| Storno senza aumento di spesa tra attività/progetti | Dirigente (dispositivo) | art. 11 c. 2 |
+| Nuove o maggiori entrate finalizzate | Dirigente (dispositivo, per conoscenza al CdI) | art. 10 c. 5 |
+| Maggiori spese entro il 10% (prelievo dal fondo di riserva) | Dirigente (comunicato al CdI) | art. 11 c. 3; art. 8 c. 4 |
+| Nuove o maggiori entrate non finalizzate; utilizzo della disponibilità Z01 | Consiglio di istituto (approva) | art. 10 c. 3 |
+
+I nove documenti del conto consuntivo
+
+Conto finanziario (mod. H); conto del patrimonio (mod. K); situazione amministrativa definitiva (mod. J); rendiconto dei singoli progetti/attività (mod. I); elenco dei residui attivi e passivi (mod. L); prospetto spese del personale (mod. M); riepilogo per tipologia di spesa (mod. N); rendiconto dell'eventuale azienda agraria o convitto; relazione del dirigente (illustra andamento e risultati rispetto agli obiettivi).
+
+I revisori dei conti (artt. 51-52 D.I. 129/2018)
+
+Due revisori (uno MIM, uno MEF), controllo di regolarità amministrativo-contabile; almeno due verifiche l'anno, anche a distanza via Athena.
+
+Compiti: verifica di libri e scritture; coerenza dell'impiego delle risorse con PTOF e programma annuale; riscontro semestrale di cassa, depositi e titoli; compatibilità dei costi della contrattazione integrativa con le risorse; verifica dei progetti nazionali ed europei.
+
+Principi: programmazione, continuità, campionamento, leale collaborazione. Non sindacano il merito delle scelte discrezionali.
+
+DOSSIER — Il D.I. 129/2018: il calendario contabile e le competenze, senza margini d'errore
+
+La contabilità è ostica per i docenti proprio perché fatta di date e organi. Padroneggiare questo dossier vale molti punti, perché la maggioranza dei candidati qui perde colpi.
+
+| Adempimento | Chi | Quando (termine esatto) |
+| :-: | :-: | :-: |
+| Predisposizione del programma annuale | DS con la collaborazione del DSGA | — |
+| Proposta del programma al Consiglio di istituto | Giunta esecutiva, con relazione del DS | entro il 30 novembre |
+| Approvazione del programma annuale | Consiglio di istituto | entro il 31 dicembre (anche senza parere revisori se decorso il termine) |
+| Parere di regolarità sul programma | Revisori dei conti | — |
+| Esercizio provvisorio (se non approvato) | — | dodicesimi mensili degli stanziamenti definitivi dell'ultimo bilancio, spese obbligatorie e indifferibili |
+| Verifica dello stato di attuazione | DS, con delibera di assestamento del CdI | entro il 30 giugno |
+| Predisposizione del conto consuntivo | DSGA | entro il 15 marzo (dell'anno successivo) |
+| Parere sul conto consuntivo | Revisori dei conti | entro il 15 aprile |
+| Approvazione del conto consuntivo | Consiglio di istituto | entro il 30 aprile |
+| Ricognizione inventariale | — | almeno ogni 5 anni (rivalutazione ogni 10) |
+
+Le fasi di entrata e spesa (chiedono l'ordine esatto)
+
+Entrata: accertamento → riscossione → versamento. La reversale d'incasso è firmata dal DS e dal DSGA.
+
+Spesa: impegno → liquidazione → ordinazione → pagamento. Il mandato di pagamento è firmato dal DS e dal DSGA.
+
+Residui: attivi = somme accertate non riscosse/versate; passivi = somme impegnate non pagate entro l'esercizio.
+
+Fondo di riserva: non superiore al 10% della dotazione ordinaria; il prelievo per maggiori spese entro tale limite è disposto dal DS.
+
+L'attività negoziale (art. 45): la ripartizione delle competenze
+
+Il CdI DELIBERA direttamente (c. 1): eredità, donazioni e legati; fondazioni; alienazioni; contratti pluriennali; locazioni; adesione a reti.
+
+Il CdI DETERMINA CRITERI E LIMITI (c. 2) per il DS su: affidamenti oltre 10.000 euro; sponsorizzazioni; utilizzo di locali e beni; contratti con esperti esterni; acquisto/alienazione di titoli; progetti internazionali.
+
+Sotto la soglia stabilita, il DS procede autonomamente nel rispetto del D.lgs. 36/2023 (affidamento diretto: servizi/forniture \< 140.000 €, lavori \< 150.000 €).
+
+|  |
+| :-: |
+| MEMORIA Il trittico da recitare a memoria: 30/11 la Giunta propone · 31/12 il CdI approva · poi 30/6 verifica, 15/3-15/4-30/4 per il consuntivo. E il doppio limite: 10% fondo di riserva, 10.000 € per la cornice del CdI. Chi ha questi numeri automatici risponde in 15 secondi a quesiti su cui gli altri esitano. |
+
+7\. Checklist finale
+
+So i principi del bilancio e le date del ciclo statale (20/10, 31/12, 4 mesi provvisorio) e scolastico (30/11, 31/12, 30/6, 15/3, 15/4, 30/4).
+
+So definire accertamento/impegno, residui attivi e passivi, competenza vs cassa.
+
+So chi firma reversali e mandati (DS + DSGA) e chi fa cosa su PA e consuntivo.
+
+So l'art. 45 D.I. 129/2018: cosa delibera il CdI e per cosa fissa criteri e limiti (10.000 €).
+
+So revisori: designazione MIM+MEF, ambiti, parere di regolarità, niente merito.
+
+So le soglie del D.lgs. 36/2023 e gli obblighi CIG/CUP/DURC/MEPA/PagoPA/fattura elettronica.
+
+So la meccanica PNRR (soggetto attuatore, FUTURA, milestone/target) e la differenza FSE+/FESR.
+
+Fascicolo 6 — Contabilità di Stato e gestione finanziaria · pag.

@@ -1,0 +1,304 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 1
+
+Ordinamenti e riforme
+
+Area A — Sistema educativo, ordinamenti, governance, riforme in atto · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. Le fonti costituzionali e i principi
+
+| Norma | Contenuto esatto (formulazioni da quiz) |
+| :-: | :-: |
+| Art. 33 Cost. | L'arte e la scienza sono libere e libero ne è l'insegnamento. La Repubblica detta le norme generali sull'istruzione ed istituisce scuole statali per tutti gli ordini e gradi. Enti e privati hanno il diritto di istituire scuole ed istituti di educazione, senza oneri per lo Stato. Esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale. Le istituzioni di alta cultura, università ed accademie hanno il diritto di darsi ordinamenti autonomi. (Dal 2022, L. cost. 1/2022 sull'ambiente non tocca il 33; la L. cost. 1/2023 vi ha inserito lo sport: 'La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell'attività sportiva in tutte le sue forme' — comma finale). |
+| Art. 34 Cost. | La scuola è aperta a tutti. L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita. I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi. La Repubblica rende effettivo questo diritto con borse di studio, assegni alle famiglie ed altre provvidenze, che devono essere attribuite per concorso. |
+| Art. 117 Cost. | Competenza esclusiva statale: 'norme generali sull'istruzione' (lett. n) e 'determinazione dei livelli essenziali delle prestazioni' (lett. m). Competenza concorrente: 'istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale'. Competenza residuale regionale: IeFP. L'autonomia scolastica ha quindi rilievo costituzionale dal 2001. |
+| Artt. 2, 3, 30, 38 Cost. | Diritti inviolabili e formazioni sociali (2); uguaglianza formale e sostanziale (3); diritto-dovere dei genitori di mantenere, istruire ed educare i figli (30); diritto all'educazione e all'avviamento professionale di inabili e minorati (38, base storica dell'integrazione). |
+
+Riparto Stato-Regioni operativo: D.lgs. 112/1998 (artt. 138-139: deleghe a Regioni — programmazione offerta formativa, calendario, contributi scuole paritarie; a Province e Comuni — edilizia, piano di dimensionamento, istituzione/soppressione scuole). Conferenza Stato-Regioni e Conferenza Unificata come sedi di intesa (caso classico: intese su 0-6, IeFP, dimensionamento).
+
+2\. L'architettura del sistema: norme fondative
+
+2.1 L. 53/2003 (riforma Moratti) e D.lgs. 59/2004
+
+L. 53/2003: delega per la definizione delle norme generali; principi: diritto all'istruzione e formazione per almeno 12 anni o comunque sino al conseguimento di una qualifica entro il 18° anno; sistema articolato in scuola dell'infanzia, primo ciclo (primaria + secondaria di I grado), secondo ciclo (licei e IeFP); personalizzazione dei piani di studio; alternanza scuola-lavoro (art. 4); introduce il Profilo educativo, culturale e professionale (PECUP).
+
+D.lgs. 59/2004 (infanzia e primo ciclo): scuola dell'infanzia — contribuisce alla formazione integrale delle bambine e dei bambini, promuove il plurilinguismo attraverso i primi elementi della lingua inglese (formulazione testuale da quiz: 'una lingua comunitaria' NO — la versione vigente dopo il 2010 fa riferimento all'inglese nella primaria); primaria — durata quinquennale, promuove l'alfabetizzazione di base anche con la lingua inglese e l'alfabetizzazione informatica; abolizione dell'esame di licenza elementare (dal 2004/05).
+
+D.lgs. 76/2005: diritto-dovere all'istruzione e alla formazione per almeno 12 anni o fino a qualifica entro i 18; anagrafe nazionale degli studenti. D.lgs. 77/2005: disciplina dell'alternanza scuola-lavoro (15-18 anni, su domanda; oggi assorbita nei PCTO ma il decreto resta la cornice: convenzioni, tutor interno ed esterno, valutazione).
+
+2.2 DPR 89/2009 — infanzia e primo ciclo (bersaglio n. 1 dei quiz d'area)
+
+| Articolo | Contenuto puntuale |
+| :-: | :-: |
+| Art. 2 (infanzia) | Accoglie bambini tra 3 e 5 anni compiuti entro il 31 dicembre (c. 1); su richiesta delle famiglie, anticipatari che compiono 3 anni entro il 30 aprile dell'anno scolastico di riferimento, a condizione di: disponibilità di posti, esaurimento liste d'attesa, locali e attrezzature idonei, valutazione pedagogico-didattica del collegio sui tempi e modalità di accoglienza (c. 2); orario: 40 ore settimanali, estensibile fino a 50; tempo ridotto antimeridiano 25 ore (c. 5); sezioni primavera (24-36 mesi) confermate come servizio aggregato. |
+| Art. 4 (primaria) | Iscrizione: 6 anni entro il 31/12; anticipo: entro il 30/4. Modelli orari: 24, 27, fino a 30 (con potenziamento), tempo pieno 40 ore comprensive di mensa. Insegnamento dell'inglese: un'ora in classe prima, due in seconda, tre nelle successive (docente di classe specializzato o specialista). Cittadinanza e Costituzione nell'area storico-geografica (oggi assorbita dall'educazione civica L. 92/2019). |
+| Art. 5 (secondaria I grado) | 30 ore settimanali (29 + approfondimento lettere); tempo prolungato 36 ore elevabili a 40 (con mensa); seconda lingua comunitaria 2 ore; inglese potenziato (5 ore) possibile in luogo della seconda lingua ('inglese potenziato') su richiesta. |
+
+2.3 Il secondo ciclo: D.lgs. 226/2005 e i regolamenti del 2010
+
+D.lgs. 226/2005: norme generali e LEP del secondo ciclo; disciplina i percorsi IeFP (livelli essenziali: orario minimo 990 ore annue, qualifica triennale e diploma quadriennale) — le qualifiche IeFP sono di competenza regionale su standard nazionali (Accordi in Conferenza; da ultimo repertorio 2019).
+
+DPR 89/2010 (licei): 6 percorsi — artistico (6 indirizzi dal 2° biennio: arti figurative, architettura e ambiente, design, audiovisivo e multimediale, grafica, scenografia), classico, linguistico, musicale e coreutico (sezioni musicale e coreutica), scientifico (con opzione scienze applicate; dal 2013 sezione a indirizzo sportivo, DPR 52/2013), scienze umane (con opzione economico-sociale). Orario: 27 ore nel primo biennio dei licei 'leggeri' (classico 27, scientifico 27), 891-1023 ore annue a seconda del percorso. Iscrizione al musicale-coreutico: subordinata al superamento di una prova preordinata alla verifica del possesso di specifiche competenze musicali o coreutiche (art. 7 c. 2 — quiz testuale). Laboratori nel piano di studi: liceo artistico e liceo musicale-coreutico (quiz testuale sugli allegati). CLIL: una disciplina non linguistica in lingua straniera nel quinto anno (nei linguistici dal terzo anno, e una seconda DNL in altra lingua dal quarto).
+
+DPR 88/2010 (tecnici): 2 settori — economico (2 indirizzi: AFM con articolazioni SIA e RIM; turismo) e tecnologico (9 indirizzi); 32 ore settimanali (1056 annue); area di istruzione generale + area di indirizzo; ufficio tecnico nel settore tecnologico; comitato tecnico-scientifico (organismo paritetico scuola-mondo del lavoro, facoltativo); quote di autonomia (20%) e flessibilità (30% nel secondo biennio, 35% al quinto anno).
+
+DPR 87/2010 (professionali, oggi superato per l'ordinamento): sostituito dal D.lgs. 61/2017 (v. sotto); resta per le classi a esaurimento e per la memoria dei quiz.
+
+D.lgs. 61/2017 (revisione dei professionali, dal 2018/19): 11 indirizzi; biennio (2112 ore, di cui 1188 di istruzione generale e 924 di indirizzo, con 264 ore di personalizzazione) + triennio; Progetto formativo individuale (PFI) per ciascuno studente, redatto entro il 31 gennaio del primo anno e aggiornato; tutor; possibilità di passaggi tra istruzione professionale e IeFP (accordo 2018); i quiz della banca dati citano l'alternanza 'dalla seconda classe del biennio' ai sensi dell'art. 5 c. 1 lett. e).
+
+|  |
+| :-: |
+| ATTENZIONE Numeri-ora settimanali da flash-card: infanzia 40 (50 max, 25 ridotto); primaria 24/27/30/40; medie 30 (36-40 prolungato); licei 27 (biennio classico/scientifico) → 31 triennio scientifico; artistico 34-35; tecnici e professionali 32. Annuale: 33 settimane convenzionali (1 ora settimanale = 33 ore annue: da qui le 33 ore di educazione civica). |
+
+3\. Obbligo di istruzione e certificazioni
+
+L. 296/2006, art. 1 c. 622: obbligo di istruzione per almeno 10 anni (6-16), finalizzato al conseguimento di un titolo di secondo ciclo o di una qualifica di durata almeno triennale entro il 18° anno; assolvibile anche nei percorsi IeFP (e, per il primo anno, in apprendistato ex D.lgs. 81/2015 art. 43 — apprendistato di primo livello).
+
+DM 139/2007 (regolamento sull'obbligo): 4 assi culturali (dei linguaggi; matematico; scientifico-tecnologico; storico-sociale) e 8 competenze chiave di cittadinanza (imparare ad imparare; progettare; comunicare; collaborare e partecipare; agire in modo autonomo e responsabile; risolvere problemi; individuare collegamenti e relazioni; acquisire ed interpretare l'informazione) — da non confondere con le 8 competenze chiave europee.
+
+Certificazione delle competenze di base a conclusione dell'obbligo: DM 9/2010 (livelli: base, intermedio, avanzato; 'livello base non raggiunto' con motivazione); rilasciata a richiesta fino al 2017, poi d'ufficio ai sensi del D.lgs. 62/2017 per i gradi interni.
+
+Certificazione primo ciclo: DM 742/2017 (modelli nazionali al termine di primaria e I grado, ancorati alle competenze europee e al profilo delle Indicazioni), aggiornato dal DM 14/2024 (riferimento alla Raccomandazione 2018; adottato anche il modello per l'obbligo).
+
+Evasione: vigilanza sull'adempimento — sindaco e dirigente scolastico; anagrafe nazionale studenti (D.lgs. 76/2005; SIDI).
+
+4\. La L. 107/2015 in dettaglio (commi da citare a colpo sicuro)
+
+| Commi | Contenuto |
+| :-: | :-: |
+| 1-4 | Finalità: piena attuazione dell'autonomia (art. 21 L. 59/1997); innalzare i livelli di istruzione e le competenze, contrastare le diseguaglianze, prevenire l'abbandono e la dispersione, scuola aperta come laboratorio permanente. |
+| 5-7 | Organico dell'autonomia (posti comuni, sostegno, potenziamento); c. 7: i 17 obiettivi formativi prioritari tra cui le scuole individuano quelli per il potenziamento (valorizzazione italiano e lingue, competenze matematico-logiche e scientifiche, musica e arte, cittadinanza attiva, motorie, digitali, alternanza, contrasto alla dispersione, inclusione...). |
+| 12-14 | PTOF: triennale, rivedibile entro ottobre; predisposto entro ottobre dell'anno precedente al triennio; c. 14 riscrive l'art. 3 DPR 275/1999: elaborato dal Collegio sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e amministrazione definiti dal DS; approvato dal Consiglio d'istituto; sottoposto a verifica dell'USR sui limiti di organico; pubblicato su Scuola in Chiaro. |
+| 28-32 | Curriculum dello studente, insegnamenti opzionali; individuazione di docenti coordinatori; orientamento. |
+| 33-44 | Alternanza scuola-lavoro: almeno 400 ore tecnici e professionali, 200 licei nel secondo biennio e ultimo anno (oggi PCTO 210/150/90 — L. 145/2018 c. 784); registro nazionale; Carta dei diritti e dei doveri degli studenti in alternanza (DM 195/2017). |
+| 56-59 | PNSD (DM 851/2015); animatore digitale. |
+| 60-62 | Laboratori territoriali per l'occupabilità. |
+| 63-85 | Organici e reti: reti di ambito e di scopo (70-72); c. 78: poteri del DS (efficace ed efficiente gestione, buon andamento, rispetto delle competenze degli organi collegiali); c. 79-82 chiamata per competenze (superata dal CCNI 2018 e CCNL 2019/21); c. 83: il DS può individuare fino al 10% di docenti che lo coadiuvano (collaboratori, staff — senza esonero se non con risorse ordinarie); c. 85: sostituzioni fino a 10 giorni con organico dell'autonomia. |
+| 121-125 | Carta del docente: 500 € annui (dal 2025/26: 500 € da rideterminare annualmente con decreto, L. bilancio 2025 — l'importo è stato ridotto a circa 383 € per il 2025/26; estesa ai supplenti al 31/8 per sentenze e poi per norma); formazione in servizio 'obbligatoria, permanente e strutturale' (c. 124), Piano nazionale di formazione (DM 797/2016 e successivi; oggi Scuola di Alta Formazione D.L. 36/2022). |
+| 126-130 | Valorizzazione del merito: fondo e comitato di valutazione (c. 129: composizione, v. Area 5); dal 2020 le risorse del bonus sono confluite nel FMOF senza vincolo di destinazione ai soli docenti (L. 160/2019 c. 249). |
+| 180-181 | Delega al Governo → gli 8 decreti legislativi del 13/4/2017 (nn. 59-66). |
+
+Gli otto decreti attuativi in un riga ciascuno: 59 (formazione iniziale e accesso alla secondaria — riscritto dal D.L. 36/2022: v. fascicolo Area 5); 60 (promozione della cultura umanistica, temi della creatività, Piano delle arti); 61 (professionali); 62 (valutazione e esami: v. fascicolo Aree 3+6); 63 (welfare dello studente, borse, sussidi); 64 (scuole italiane all'estero, personale MAECI); 65 (sistema integrato 0-6: Poli per l'infanzia, Piano di azione nazionale pluriennale, fabbisogno standard, qualificazione universitaria del personale dei servizi educativi dal 2019); 66 (inclusione: v. fascicolo Aree 2+4).
+
+5\. Esami di Stato: disciplina vigente
+
+5.1 Primo ciclo (D.lgs. 62/2017, artt. 5-13; DM 741/2017)
+
+Ammissione: frequenza di almeno 3/4 del monte ore personalizzato (deroghe deliberate dal collegio); non essere incorsi nella sanzione dell'esclusione dallo scrutinio (art. 4 c. 6 DPR 249/1998); partecipazione alle prove INVALSI di aprile. Ammissione possibile anche con parziali livelli di apprendimento (voto di ammissione anche inferiore a 6? No: il consiglio può non ammettere; il voto di ammissione è espresso in decimi anche con eventuali insufficienze).
+
+Commissione: unica d'istituto, presieduta dal DS (o da un suo delegato interno — dal 2025 la presidenza può essere delegata a un docente collaboratore), sottocommissioni per classe.
+
+Prove: italiano; competenze logico-matematiche; lingue straniere (prova unica articolata in due sezioni: inglese + seconda lingua). Colloquio: anche competenze di educazione civica.
+
+Voto finale: media, arrotondata all'unità superiore per frazioni ≥ 0,5, tra il voto di ammissione e la media delle prove d'esame (scritti + colloquio); lode: deliberazione all'unanimità della commissione, su proposta della sottocommissione, con voto finale 10.
+
+Candidati privatisti: ammessi con prove INVALSI e requisiti anagrafici; istruzione parentale: esame di idoneità annuale (art. 23).
+
+5.2 Secondo ciclo: dal D.lgs. 62/2017 all'Esame di maturità (D.L. 127/2025, conv. L. 2025)
+
+| Profilo | Disciplina vigente dal 2025/26 |
+| :-: | :-: |
+| Denominazione | 'Esame di maturità' (sostituisce 'Esame di Stato conclusivo del secondo ciclo'). |
+| Ammissione (interni) | Frequenza 3/4; partecipazione alle prove INVALSI di grado 13; svolgimento dei PCTO; votazioni: sufficienza in tutte le discipline (possibile ammissione con una insufficienza motivata dal consiglio); condotta ≥ 6 (L. 150/2024: con 6 debito di educazione civica ed elaborato critico discusso in sede di scrutinio/colloquio). |
+| Crediti | Max 40 punti (12+13+15 su medie del triennio, tabella all. A D.lgs. 62/2017). |
+| Prove | Prima prova scritta: italiano (7 tracce, 3 tipologie A/B/C, nazionale). Seconda prova: disciplina/e caratterizzante/i (nazionale; per specifici indirizzi possibile terza prova). Colloquio: verte sulle quattro discipline caratterizzanti individuate annualmente con decreto del Ministro; accerta anche educazione civica e PCTO nell'ambito della valutazione del percorso; abolito l'avvio dal 'materiale' scelto dalla commissione. |
+| Validità | L'esame è validamente sostenuto solo se il candidato svolge tutte le prove: il rifiuto del colloquio ('scena muta' volontaria) comporta la non superabilità. |
+| Punteggio | Fino a 20 punti per ciascuna prova scritta e per il colloquio; minimo 60/100; integrazione fino a 3 punti (con motivazione) se il candidato raggiunge 97; lode con 100 pieno, credito massimo e unanimità. |
+| Commissione | Presidente esterno + commissari (assetto misto interni/esterni); dal 2026/27 la formazione specifica dei commissari costituisce titolo preferenziale per la nomina. |
+| Curriculum dello studente | Allegato al diploma (piattaforma Unica); documenta percorso, PCTO, certificazioni, attività extrascolastiche. |
+| Equipollenze e DSA/disabilità | Prove equipollenti e tempi aggiuntivi con PEI/PDP; diploma senza menzione delle misure; percorsi differenziati: attestato di credito formativo (con possibilità di prove differenziate per il solo attestato). |
+
+6\. Le riforme in atto (dossier 2022-2026)
+
+6.1 PNRR Istruzione — Missione 4, Componente 1
+
+6 riforme M4C1: 1) ITS Academy (L. 99/2022); 2) orientamento (DM 328/2022); 3) riorganizzazione del sistema scolastico/dimensionamento (L. 197/2022); 4) riforma tecnici e professionali (D.L. 144/2022 artt. 26-27, DM 269/2024); 5) reclutamento docenti (D.L. 36/2022); 6) Scuola di Alta Formazione e formazione continua incentivata.
+
+Investimenti chiave: asili nido e 0-6; Scuola 4.0 (DM 161/2022: Next Generation Classrooms/Labs); riduzione divari territoriali e dispersione (DM 170/2022, DM 176/2023 Agenda Sud — poi Agenda Nord); nuove competenze e nuovi linguaggi STEM/multilinguismo (DM 65/2023); didattica digitale integrata e formazione digitale del personale (DM 66/2023); mense, palestre, edilizia.
+
+Governance nelle scuole: il DS è il 'soggetto attuatore'; CUP, piattaforma FUTURA, rendicontazione su milestone e target; scadenza generale del Piano: giugno 2026 (con code amministrative).
+
+6.2 Orientamento (DM 328/2022 — Linee guida)
+
+Dal 2023/24: moduli di orientamento di almeno 30 ore annue — curricolari o extra-curricolari nel primo ciclo e nel biennio delle superiori, curricolari nel triennio.
+
+Docente tutor (gruppi di studenti del triennio: supporto all'E-Portfolio e consiglio di orientamento) e docente orientatore (raccordo con i dati e le offerte del territorio); compensi da risorse dedicate; formazione iniziale 20 ore su piattaforma INDIRE.
+
+E-Portfolio orientativo sulla piattaforma Unica: percorso di studi, competenze, 'capolavoro' dello studente.
+
+Nel primo ciclo: certificazione e consiglio di orientamento per la scelta del secondo ciclo.
+
+6.3 Filiera tecnologico-professionale 4+2 e riforma dei tecnici
+
+L. 121/2024: istituisce la filiera formativa tecnologico-professionale (campus): percorsi quadriennali sperimentali di istituti tecnici e professionali in rete con IeFP e ITS Academy; il diploma quadriennale ha il medesimo valore del quinquennale (accesso a università e ITS).
+
+D.L. 127/2025: la filiera diventa ordinamentale dal 2026/27 (comma 8-bis all'art. 25-bis del D.L. 144/2022); la candidatura della scuola è proposta dal DS nell'ambito di accordi di rete, previa delibera degli organi collegiali.
+
+Riforma degli istituti tecnici (DM 269/2024 e D.L. 45/2025, dal 2026/27 a partire dalle prime): area di istruzione generale nazionale comune + area di indirizzo flessibile (con possibile declinazione territoriale); rafforzamento di italiano, matematica, scienze; più laboratori; nuovo PECUP; docenti delle discipline professionalizzanti in periodi di osservazione nelle imprese; ore del quinto anno redistribuite nella filiera quadriennale.
+
+ITS Academy (L. 99/2022): istituti tecnologici superiori del sistema terziario professionalizzante; fondazioni di partecipazione; percorsi di V livello EQF (biennali, 1800-2000 ore, almeno 35% stage, 60% docenti dal mondo del lavoro) e VI livello (triennali); diploma di specializzazione per le tecnologie applicate.
+
+6.4 Valutazione, condotta, nuove Indicazioni
+
+L. 150/2024 (v. dettaglio nel fascicolo Aree 3+6): giudizi sintetici alla primaria; condotta in decimi anche alle medie; alle superiori la condotta fa media, 5 = non ammissione, 6 = debito di educazione civica; sanzioni riformate (fino a 2 giorni: attività di riflessione con elaborato; oltre: attività di cittadinanza solidale).
+
+Nuove Indicazioni nazionali per infanzia e primo ciclo: commissione 2024, bozza marzo 2025, adozione con decreto nel 2025-26 e applicazione progressiva dal 2026/27 (novità mediatiche: potenziamento dell'italiano e della scrittura, latino opzionale dalla seconda media, memoria e poesia, STEM, storia dell'Occidente); i libri di testo si adeguano gradualmente.
+
+Educazione civica: L. 92/2019 (trasversale, 33 ore minime, contitolarità, coordinatore che propone il voto, integrazione del Patto di corresponsabilità); nuove Linee guida DM 183/2024: tre nuclei (Costituzione; sviluppo economico e sostenibilità; cittadinanza digitale) riletti con accento su persona, cultura del rispetto, educazione finanziaria e assicurativa, cultura d'impresa e lavoro, contrasto a dipendenze e bullismo, educazione stradale.
+
+Divieto di smartphone: circolare per il primo ciclo (2024) estesa dal 2025/26 alle secondarie di II grado: vietato l'uso in classe anche a fini didattici del telefono personale (restano leciti i dispositivi della scuola e le deroghe per BES/DSA e per gli indirizzi che lo richiedono); regolamenti d'istituto adeguati.
+
+Linee guida sull'IA a scuola (2025): principi di supervisione umana, protezione dei dati (DPIA per strumenti che trattano dati di minori), divieto di uso per la profilazione degli studenti, formazione del personale; PNRR 2026: snodi formativi per la transizione digitale e l'IA.
+
+6.5 Dimensionamento e reggenze
+
+L. 197/2022 (bilancio 2023) c. 557: nuovi criteri dal 2024/25 — contingente di DS e DSGA definito con decreto sulla base di un coefficiente unico nazionale (popolazione scolastica regionale / parametro 900-1000), con flessibilità regionale; progressiva riduzione delle autonomie (accorpamenti); contenzioso costituzionale (sent. 223/2023: legittimità) e commissariamenti 2026 di 4 Regioni inadempienti (Toscana, Emilia-Romagna, Umbria, Sardegna).
+
+Parametri storici da quiz (DPR 233/1998): autonomia tra 500 e 900 alunni (300 nelle piccole isole, comuni montani, aree a minoranza linguistica); sottodimensionate \< 600 (400): affidate in reggenza (il DS non può essere titolare); il D.L. 98/2011 aveva imposto gli istituti comprensivi (soglia 1000/500 poi caducata).
+
+Organico dirigenziale 2026/27: 7.389 posti (D.I. 124/2025); mobilità interregionale sul 100% delle disponibilità residue.
+
+7\. Governance del sistema e organi dell'amministrazione
+
+Area trascurata dai candidati e battuta dai quiz: chi fa che cosa nell'amministrazione dell'istruzione, dal livello centrale a quello di istituto.
+
+8.1 L'amministrazione centrale e periferica
+
+MIM — Ministero dell'istruzione e del merito (D.L. 173/2022 ha separato l'istruzione dall'università, ora al MUR): organizzazione per Dipartimenti e Direzioni generali; il Ministro esercita l'indirizzo politico-amministrativo (art. 4 D.lgs. 165/2001).
+
+USR — Uffici scolastici regionali: articolazioni periferiche del MIM con a capo un dirigente di livello generale; competenze su reclutamento, mobilità, contenzioso, vigilanza, ambiti territoriali (Uffici di ambito territoriale, ex Provveditorati).
+
+Il dirigente tecnico (ispettore): funzioni di supporto tecnico, valutazione (nuclei esterni SNV), vigilanza; contingente definito per legge.
+
+8.2 Gli organi collegiali territoriali e consultivi
+
+| Organo | Natura | Competenze |
+| :-: | :-: | :-: |
+| CSPI — Consiglio superiore della pubblica istruzione (D.lgs. 233/1999) | Organo consultivo nazionale | Parere obbligatorio su: ordinamenti scolastici, programmi, organizzazione generale dell'istruzione, stato giuridico del personale. Il parere è obbligatorio ma non vincolante. |
+| Organi collegiali territoriali (regionali, provinciali) | Mai pienamente attuati | La riforma degli organi collegiali territoriali del D.lgs. 233/1999 non è stata completata; restano istituti transitori. |
+| Consulte provinciali degli studenti (DPR 567/1996) | Rappresentanza studentesca | Due studenti per istituto secondario di II grado; formulano proposte, gestiscono fondi. |
+| Comitato dei genitori | Facoltativo | Costituito dai rappresentanti dei genitori negli organi collegiali. |
+
+|  |
+| :-: |
+| MEMORIA Il CSPI è la trappola più comune: si confonde con organi abrogati (Consiglio nazionale della pubblica istruzione). Ricorda: parere OBBLIGATORIO ma NON VINCOLANTE sugli atti normativi generali del Ministro. |
+
+8\. Iscrizioni, curricolo, libri di testo, calendario
+
+Micro-adempimenti dell'ordinamento che i quiz amano perché hanno numeri e organi competenti precisi.
+
+Iscrizioni: online per le statali del primo e secondo ciclo (esclusa l'infanzia), nella finestra fissata dalla nota ministeriale annuale (di norma gennaio); criteri di precedenza deliberati dal Consiglio di istituto in caso di eccedenza di domande; obbligo di accettare la domanda anche fuori termine per gli obbligati.
+
+Formazione delle classi: criteri generali dettati con decreto (DPR 81/2009 per i numeri: prime classi primaria di norma 15-26 alunni, secondaria I grado 18-27, II grado 27; classi con alunni con disabilità di norma max 20-22 con progetto); il Collegio propone i criteri didattici, il CdI delibera i criteri generali, il DS forma concretamente le classi.
+
+Libri di testo: l'adozione è deliberata dal Collegio dei docenti (sentiti i consigli di interclasse/classe), entro la seconda decade di maggio; vincoli di tetto di spesa e di durata pluriennale dell'adozione (L. 221/2012, L. 128/2013); possibilità di autoproduzione e materiali digitali.
+
+Calendario scolastico: la competenza è delle Regioni (D.lgs. 112/1998); il Consiglio di istituto delibera gli adattamenti nel rispetto del monte ore e del numero minimo di giorni (di norma 200 giorni di lezione).
+
+Orario delle lezioni: il Collegio formula proposte, il DS lo predispone e adotta; flessibilità ex artt. 4-5 DPR 275/1999.
+
+9\. Diritto allo studio e servizi allo studente
+
+D.lgs. 63/2017 (attuativo della L. 107): welfare dello studente — borse di studio (Fondo unico), comodato d'uso dei libri, carta dello studente 'IoStudio', sostegno alla mobilità e ai trasporti; competenze ripartite tra Stato e Regioni.
+
+Statuto delle studentesse e degli studenti (DPR 249/1998, modificato dal DPR 235/2007): diritti (partecipazione, informazione, valutazione trasparente e tempestiva) e doveri; il Patto educativo di corresponsabilità; l'organo di garanzia interno (ricorsi contro le sanzioni entro 15 giorni) e l'organo di garanzia regionale presso l'USR.
+
+Sanzioni disciplinari agli studenti: ispirate alla finalità educativa e al principio di gradualità e proporzionalità; temporanee, sempre convertibili in attività a favore della comunità scolastica; l'allontanamento oltre 15 giorni è deliberato dal Consiglio di istituto; riforma L. 150/2024 (attività di riflessione fino a 2 giorni, cittadinanza solidale oltre).
+
+Contributo volontario delle famiglie: distinzione tra tasse scolastiche erariali (dovute solo alle superiori, con esoneri per reddito e merito) ed erogazioni liberali volontarie, che devono essere finalizzate all'ampliamento dell'offerta e rendicontate.
+
+10\. Paritarie, IeFP, istruzione degli adulti, scuole speciali
+
+L. 62/2000: sistema nazionale di istruzione = scuole statali + paritarie (private e degli enti locali); requisiti della parità (PTOF conforme, organi collegiali, iscrizione per tutti, insegnanti abilitati, contratti collettivi di settore); D.M. 267/2007 e D.M. 83/2008 su riconoscimento e vigilanza (USR); scuole non paritarie (D.lgs. 86/2004? no — L. 27/2006... attenzione: D.lgs. 250/2005? Il riferimento corretto per l'albo delle non paritarie è la L. 62/2000 con DM 263/2007). Contributi e detrazioni; buono scuola regionale.
+
+IeFP: percorsi triennali (qualifica) e quadriennali (diploma professionale) presso istituzioni formative accreditate o istituti professionali in sussidiarietà (accordo 2011, nuovo accordo 2019 con repertorio delle figure); passaggio ai percorsi IFTS con il diploma IeFP quadriennale.
+
+Istruzione degli adulti: DPR 263/2012 — CPIA (centri provinciali per l'istruzione degli adulti): percorsi di primo livello (primo ciclo + certificazione assi), alfabetizzazione e apprendimento dell'italiano (A2), secondo livello presso le scuole superiori serali; patto formativo individuale, riconoscimento crediti, fruizione a distanza max 20%.
+
+Scuola in ospedale e istruzione domiciliare; sezioni carcerarie; scuole italiane all'estero (D.lgs. 64/2017); CulturaItalia... non pertinente — chiudi con: sistema AFAM e ITS come terziario non universitario.
+
+Approfondimento dal corso — Cronologia delle riforme e radici culturali
+
+Materiale tratto dalle slide del corso (Stellacci) e reinserito qui perché la collocazione storica delle riforme è tra le cose che la banca dati premia di più.
+
+La linea del tempo, riforma per riforma
+
+| Periodo | Provvedimenti chiave | Da ricordare |
+| :-: | :-: | :-: |
+| Fondamenta (1948-1968) | Cost. artt. 33-34; DPR 503/1955 (scuola di 8 anni); L. 1859/1962 (scuola media unica); L. 444/1968 (materna statale) | La scuola media unica del 1962 è la vera democratizzazione dell'accesso; la materna statale nasce nel 1968. |
+| Decreti delegati (1973-1977) | L. 477/1973 e decreti delegati 1974 (organi collegiali, stato giuridico); L. 517/1977 (valutazione, sostegno, abolizione esami di riparazione) | Gli organi collegiali che studi oggi nascono dai decreti delegati del 1974. |
+| Anni '90: autonomia | L. 241/1990; L. 104/1992; L. 421/1992 e D.lgs. 29/1993 (privatizzazione → TU 165/2001); L. 59/1997 (art. 21); DPR 275/1999; Titolo V (L. cost. 3/2001) | La catena dell'autonomia: L. 59/1997 art. 21 → DPR 275/1999 → Titolo V 2001. |
+| Berlinguer (1996-2001) | L. 30/2000 (cicli, non attuata); L. 62/2000 (parità); L. 9/1999 (obbligo a 15 anni); DM 509/1999 (3+2) | Molto legiferato, poco attuato: la riforma dei cicli fu abrogata dalla Moratti. |
+| Moratti (2002-2006) | L. 53/2003; D.lgs. 59/2004; 76/2005 (diritto-dovere); 77/2005 (alternanza); 226/2005 | Introduce personalizzazione, PECUP, alternanza, portfolio (poi abolito). |
+| «Cacciavite» Fioroni (2006-2008) | L. 296/2006 c. 622 (obbligo 10 anni); DM 139/2007 (assi e competenze di cittadinanza); Indicazioni 2012 | Abolisce tutor e portfolio della Moratti; porta l'obbligo di istruzione a 10 anni. |
+| Gelmini (2008-2011) | D.L. 112/2008 art. 64; DPR 81/2009; DPR 89/2009; DPR 122/2009; DPR 87-88-89/2010 | I regolamenti di ordinamento del secondo ciclo sono i tre DPR del 2010. |
+| Profumo-Giannini (2013-2015) | DPR 80/2013 (SNV); L. 107/2015 e 8 decreti attuativi (13/4/2017) | La 107: autonomia (cc. 12-19), valutazione (cc. 93-94), merito (cc. 126-130, poi svuotati). |
+
+|  |
+| :-: |
+| AGGIORNAMENTO 2026 AGGIORNAMENTO 2026 · Le slide 2023 citavano tra le riforme 'in arrivo' i concorsi urgenti della L. 159/2019 e la disciplina FIT del D.lgs. 59/2017. Oggi il reclutamento a regime è quello PNRR (D.L. 36/2022, DPCM 4/8/2023): laurea + 60 CFU/CFA + concorso + anno di prova. Il FIT triennale non è mai entrato a regime. |
+
+I quattro pilastri UNESCO (Rapporto Delors, 1996)
+
+Domande di taglio pedagogico-culturale pescano spesso dal Rapporto Delors 'Nell'educazione un tesoro'. I quattro pilastri: imparare a conoscere (cultura generale + approfondimento, imparare a imparare); imparare a fare (competenze e life skills); imparare a vivere insieme (comprensione dell'altro, gestione dei conflitti); imparare a essere (autonomia di giudizio e responsabilità). Sfondo europeo: il Libro Bianco Delors (1993) e il Libro Bianco Cresson (1995) spostano il baricentro dai saperi disciplinari alle competenze chiave — radice concettuale dell'intera area 9.
+
+11\. Checklist finale dell'area
+
+So recitare artt. 33-34 Cost. e il riparto del 117.
+
+So date/orari/età di DPR 89/2009 e i piani orari dei tre ordini del secondo ciclo (2010).
+
+So la L. 107/2015 per commi-chiave (5, 7, 12-14, 33, 56, 78, 83, 121, 124, 129) e gli 8 decreti del 2017 per numero e oggetto.
+
+So la disciplina vigente dei due esami di Stato (e cosa è cambiato con D.L. 127/2025 e L. 150/2024).
+
+So il dossier riforme PNRR: 6 riforme M4C1, 4+2, tecnici 2026/27, orientamento, ITS Academy, dimensionamento.
+
+So distinguere: competenze chiave di cittadinanza (DM 139/2007) vs competenze chiave europee (Racc. 2018); PECUP; assi culturali.
+
+DOSSIER — La legge 107/2015: l'articolo unico, commi che decidono le domande
+
+La 'Buona Scuola' è formalmente composta da un solo articolo di 212 commi: per questo i quiz la citano sempre 'al comma'. Ecco i commi che vanno saputi al numero, con la formulazione esatta che li rende riconoscibili nei distrattori.
+
+| Comma | Contenuto letterale utile | Trappola tipica |
+| :-: | :-: | :-: |
+| c. 1 | 'Per affermare il ruolo centrale della scuola nella società della conoscenza e innalzare i livelli di istruzione e le competenze… per contrastare le diseguaglianze socio-culturali e territoriali, per prevenire e recuperare l'abbandono e la dispersione scolastica…' | Si confonde con le finalità del DPR 275/1999: qui è la 107. |
+| c. 2 | Piena attuazione dell'autonomia (art. 21 L. 59/1997), anche in relazione alla dotazione finanziaria. | — |
+| c. 5 | 'Al fine di dare piena attuazione al processo di realizzazione dell'autonomia e di riorganizzazione dell'intero sistema di istruzione, è istituito per l'intera istituzione scolastica, o istituto comprensivo, e per tutti gli indirizzi degli istituti secondari di secondo grado… l'organico dell'autonomia, funzionale alle esigenze didattiche, organizzative e progettuali…' | Organico dell'autonomia ≠ organico di diritto/fatto: è un contenitore unico. |
+| c. 7 | I 17 obiettivi formativi prioritari (lettere a-s): valorizzazione delle competenze linguistiche; matematico-logiche e scientifiche; nella musica e nell'arte; educazione alla cittadinanza attiva; sviluppo di comportamenti responsabili; scienze motorie; competenze digitali; metodologie laboratoriali; prevenzione della dispersione; valorizzazione della scuola come comunità; apertura pomeridiana; incremento dell'alternanza; individuazione di percorsi personalizzati; alfabetizzazione all'arte; definizione di un sistema di orientamento. | I quiz chiedono 'quale NON rientra': studiare le lettere come lista chiusa. |
+| c. 14 | Riscrive l'art. 3 del DPR 275/1999: contenuti del PTOF e procedura DS-Collegio-CdI. | Il verbo: il DS 'definisce gli indirizzi', non 'elabora'. |
+| c. 16 | Pari opportunità ed educazione alla parità tra i sessi, prevenzione della violenza di genere. | — |
+| c. 33 | Alternanza: 'nei limiti delle risorse… i percorsi di alternanza… sono attuati negli istituti tecnici e professionali per almeno 400 ore… e nei licei per almeno 200 ore'. | OGGI PCTO 210/150/90 (L. 145/2018): il testo originario della 107 è superato. |
+| c. 78 | 'Il dirigente scolastico, nel rispetto delle competenze degli organi collegiali, fermi restando i livelli unitari e nazionali di fruizione del diritto allo studio, garantisce un'efficace ed efficiente gestione delle risorse umane, finanziarie, tecnologiche e materiali…' | È il comma-chiave del profilo del DS: memorizzarlo. |
+| c. 83 | 'Il dirigente può individuare nell'ambito dell'organico dell'autonomia fino al 10 per cento di docenti che lo coadiuvano in attività di supporto organizzativo e didattico.' | Il 10% è la soglia: distrattori con 5%, 20%. |
+| c. 93 | Criteri di valutazione dei dirigenti scolastici: risultati della scuola, competenze gestionali e organizzative, valorizzazione dell'impegno, direzione unitaria, apporto al miglioramento. | La valutazione DS oggi è il D.M. 47/2025. |
+| c. 124 | 'La formazione in servizio dei docenti di ruolo è obbligatoria, permanente e strutturale.' | Tre aggettivi da citare testualmente. |
+| c. 129 | Riscrive l'art. 11 TU: composizione e funzioni del comitato per la valutazione dei docenti. | Composizione: v. dossier fasc. 4. |
+
+|  |
+| :-: |
+| METODO Metodo per la 107: non impararla tutta, ma possedere questi 12 commi al numero e alla formulazione. Nella preselettiva valgono più di dieci pagine di lettura generica, perché i quesiti sono costruiti proprio su di essi. |
+
+DOSSIER — Il DPR 89/2009 e i quadri orari: i numeri che i distrattori invertono
+
+| Segmento | Numeri esatti | Fonte |
+| :-: | :-: | :-: |
+| Infanzia | 3-5 anni compiuti entro il 31/12; anticipo entro il 30/4; 40 ore ordinarie, fino a 50 con mensa e attività, 25 ridotto antimeridiano | DPR 89/2009 art. 2 |
+| Primaria | 6 anni entro il 31/12 (anticipo 30/4); 24, 27, fino a 30 ore, tempo pieno 40 (comprensivo di mensa) | DPR 89/2009 art. 4 |
+| Secondaria I grado | 30 ore (di cui approfondimento in materie letterarie 1 ora); tempo prolungato 36, elevabili a 40 | DPR 89/2009 art. 5 |
+| Licei (biennio→triennio) | Classico 27→31; scientifico 27→30; linguistico 27→30; scienze umane 27→30; artistico 34→35; musicale 32 costanti | DPR 89/2010, allegati |
+| Tecnici | 32 ore settimanali (1056 annue); 2 settori, 11 indirizzi | DPR 88/2010 |
+| Professionali | 32 ore; 11 indirizzi; biennio 2112 ore di cui 264 di personalizzazione | D.lgs. 61/2017 |
+
+Regola di sopravvivenza ai distrattori: le ore dei docenti (25-22-18) scendono di grado; le ore degli alunni salgono di grado (40 infanzia intesa come tempo-scuola, poi 24-30 primaria, 30 medie, 27-32 superiori). I quiz invertono di continuo i due movimenti: tienili separati mentalmente.
+
+Fascicolo 1 — Ordinamenti e riforme · pag.

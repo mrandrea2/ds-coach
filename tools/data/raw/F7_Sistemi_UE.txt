@@ -1,0 +1,264 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 7
+
+Sistemi educativi dell'Unione europea
+
+Area I — Strategie UE, benchmark, EQF, sistemi comparati · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. L'UE e l'istruzione: base giuridica e metodo
+
+Artt. 165-166 TFUE: l'Unione contribuisce allo sviluppo di un'istruzione di qualità incentivando la cooperazione tra Stati membri e, se necessario, sostenendone e integrandone l'azione, nel pieno rispetto della responsabilità degli Stati per i contenuti dell'insegnamento e l'organizzazione del sistema (competenza di sostegno/coordinamento: nessuna armonizzazione normativa).
+
+Strumenti: raccomandazioni e conclusioni del Consiglio; metodo aperto di coordinamento (obiettivi comuni, indicatori e benchmark, peer learning, rapporti); programmi di finanziamento (Erasmus+).
+
+Attori: Commissione (DG EAC), Consiglio Istruzione, EACEA (agenzia esecutiva), Eurydice (rete di unità nazionali — per l'Italia presso INDIRE), Cedefop (Salonicco: VET), ETF (Torino: Paesi partner), Eurostat e OCSE come fonti dati.
+
+2\. Le strategie europee (linea del tempo dei benchmark)
+
+| Fase | Contenuti e valori |
+| :-: | :-: |
+| Lisbona 2000 | Obiettivo: 'l'economia basata sulla conoscenza più competitiva e dinamica del mondo' entro il 2010; avvio del programma 'Istruzione e formazione 2010'. |
+| ET2020 (Conclusioni 2009) | 4 obiettivi strategici (apprendimento permanente e mobilità; qualità ed efficacia; equità, coesione, cittadinanza attiva; creatività, innovazione, imprenditorialità) e 5 benchmark al 2020: abbandono precoce (ELET) \< 10%; istruzione terziaria 30-34enni ≥ 40%; low achievers PISA \< 15%; partecipazione infanzia (4 anni-obbligo) ≥ 95%; adulti in apprendimento ≥ 15% (+ occupabilità neodiplomati ≥ 82%, mobilità). |
+| Europa 2020 | Strategia generale: target istruzione = ELET \< 10% e terziario ≥ 40% tra i 5 obiettivi principali. |
+| Spazio europeo dell'istruzione (2020-2025) e Risoluzione ET2030 (2021) | Nuovi traguardi: ELET \< 9% (2030); low achievers in lettura/matematica/scienze \< 15% e in competenze digitali (grado 8) \< 15%; partecipazione educazione infanzia (3 anni-obbligo) ≥ 96% (2030); esposizione dei neodiplomati VET ad apprendimento basato sul lavoro ≥ 60% (2025); adulti in apprendimento negli ultimi 12 mesi ≥ 47% (2025, agenda competenze); 5 priorità: qualità ed equità, transizione verde e digitale, docenti, istruzione superiore, dimensione geopolitica. |
+| Pilastro europeo dei diritti sociali (2017) | Principio 1: diritto a istruzione, formazione e apprendimento permanente di qualità e inclusivi; target Porto 2030: adulti in formazione ogni anno ≥ 60%. |
+| Piani tematici | Piano d'azione istruzione digitale 2021-27 (DEAP: ecosistema digitale + competenze); Anno europeo delle competenze 2023; strategia per le università; Consiglio 2022-25 su benessere e successo scolastico (raccomandazione 'Pathways to School Success' 2022, che sostituisce la racc. 2011 sull'abbandono). |
+
+|  |
+| :-: |
+| ATTENZIONE Italia sui benchmark (dati indicativi da Education and Training Monitor recenti): dispersione \~9-10% (vicina al target), terziario \~30% (tra i più bassi UE), infanzia \> 94%, adulti in apprendimento sotto media. Ai quiz comparativi: l'Italia è tipicamente citata per l'alto abbandono nel Mezzogiorno e la bassa quota di laureati. |
+
+3\. Competenze, qualifiche, trasparenza
+
+Competenze chiave per l'apprendimento permanente — Raccomandazione 22/5/2018 (sostituisce quella del 18/12/2006): 1) alfabetica funzionale; 2) multilinguistica; 3) matematica e in scienze, tecnologie e ingegneria; 4) digitale; 5) personale, sociale e capacità di imparare a imparare; 6) in materia di cittadinanza; 7) imprenditoriale; 8) consapevolezza ed espressione culturali. Definizione di competenza: combinazione di conoscenze, abilità e atteggiamenti.
+
+EQF — Racc. 2008 riveduta 22/5/2017: 8 livelli definiti da conoscenze, abilità, autonomia e responsabilità; ogni Paese referenzia il proprio NQF (Italia: QNQ, D.M. 8/1/2018 — 8 livelli; referenziazione: qualifica IeFP triennale = 3, diploma professionale IeFP = 4, diploma di Stato = 4, IFTS = 4... attenzione: certificato IFTS = 4? Il certificato di specializzazione tecnica superiore IFTS = livello 4 EQF; diploma ITS = 5; laurea = 6; LM = 7; dottorato = 8).
+
+Europass (decisione UE 2018/646): piattaforma con CV, passaporto delle lingue, supplemento al certificato/diploma, mobilità.
+
+QCER/CEFR (Consiglio d'Europa, 2001; companion 2020): livelli A1-A2, B1-B2, C1-C2; soglie scolastiche italiane: uscita I ciclo A2 inglese/A1 seconda lingua; diploma B2 (obiettivo); CLIL docenti C1.
+
+Validazione dell'apprendimento non formale e informale: Racc. 2012; in Italia D.lgs. 13/2013 (sistema nazionale di certificazione delle competenze).
+
+ECTS (istruzione superiore) ed ex ECVET (VET, superata dalla Racc. VET 2020); EQAVET: quadro di assicurazione qualità della VET.
+
+Micro-credenziali: Raccomandazione 2022 (approccio europeo).
+
+4\. Istruzione superiore e VET
+
+Processo di Bologna (1999, intergovernativo — 49 Paesi, non atto UE): Spazio europeo dell'istruzione superiore (EHEA, dal 2010); 3 cicli (bachelor-master-dottorato), ECTS, supplemento al diploma, quadri dei titoli (QF-EHEA), assicurazione qualità (ESG; registro EQAR; in Italia ANVUR); conferenze ministeriali (ultime: Roma 2020, Tirana 2024).
+
+Processo di Copenaghen (2002) per la VET: dichiarazioni biennali; Racc. 2020 su VET e dichiarazione di Osnabrück; apprendistati di qualità (Racc. 2018, EFQEA).
+
+Erasmus+ 2021-2027: budget \~26,2 miliardi; azioni chiave KA1 (mobilità individuale — anche alunni e personale scolastico; accreditamento), KA2 (cooperazione tra organizzazioni: partenariati di cooperazione e su piccola scala), KA3 (sostegno alle politiche); eTwinning confluito nella European School Education Platform (ESEP); agenzia nazionale per la scuola: INDIRE (INAPP per VET, agenzia giovani per gioventù); DiscoverEU; Università europee (alleanze).
+
+Mobilità: obiettivo 'Europe on the Move' (Racc. 2024): mobilità degli apprendenti ≥ 25% nel terziario, ≥ 15% nella VET entro 2030.
+
+5\. I sistemi scolastici comparati (materia viva dei quesiti)
+
+5.1 Strutture (classificazione Eurydice)
+
+| Modello | Descrizione | Paesi tipici |
+| :-: | :-: | :-: |
+| Struttura unica | Percorso unico continuativo dall'inizio dell'obbligo alla fine della secondaria inferiore (single structure), senza passaggi | Paesi nordici e baltici: Finlandia, Svezia, Danimarca, Norvegia, Estonia; anche Slovenia, Croazia, Portogallo (ensino básico 9 anni) |
+| Common core | Primaria + secondaria inferiore comune a tutti (tronco comune), differenziazione solo nella superiore | Italia, Francia (école + collège unique), Spagna, Grecia, Polonia, Regno Unito (comprehensive) |
+| Differenziazione precoce | Canalizzazione in percorsi distinti già all'inizio della secondaria inferiore (10-12 anni) | Germania (Gymnasium/Realschule/Hauptschule o scuole integrate, a 10 anni), Austria, Paesi Bassi (VMBO/HAVO/VWO a 12), Lussemburgo, Lituania in parte |
+
+5.2 Obbligo e durata (casi citati)
+
+Inizio: 6 anni nella maggioranza; 5 in UK (e Malta, Paesi Bassi de facto); 7 in Estonia (e storicamente nei nordici; Svezia dal 2018 a 6 con la förskoleklass; Finlandia 7); obbligo prescolare: molti Paesi hanno reso obbligatorio l'ultimo anno di infanzia (Francia dal 2019: istruzione obbligatoria dai 3 anni — caso limite da quiz; Ungheria dai 3).
+
+Durata: da 8-9 anni fino a 12-13; obbligo formativo fino a 18: Belgio e Germania (part-time), Paesi Bassi (qualificazione), Portogallo (fino a 18), Francia (formazione 16-18 dal 2020), Italia (diritto-dovere).
+
+ISCED 2011: 0 (early childhood), 1 primaria, 2 secondaria inferiore, 3 superiore, 4 post-secondaria non terziaria, 5 terziaria ciclo breve (ITS), 6-7-8 (bachelor, master, dottorato).
+
+5.3 Valutazione delle scuole in Europa (il filone Eurydice della banca dati)
+
+Due tipi: valutazione esterna (condotta da soggetti non appartenenti alla scuola: ispettorati nazionali o autorità locali) e valutazione interna/autovalutazione (obbligatoria in gran parte dei Paesi; raccomandata in altri).
+
+Modelli di valutazione esterna: ispettorato centrale (Regno Unito: Ofsted; Paesi Bassi: Inspectorate of Education; Svezia: Schools Inspectorate; Francia: corpo ispettivo/IGÉSR e dal 2019 il Conseil d'évaluation de l'école; Irlanda); competenza decentrata (Germania: Länder; Spagna: comunità autonome); nessuna valutazione esterna sistematica delle scuole (Finlandia — enfasi su autovalutazione e valutazione campionaria degli apprendimenti; Grecia storicamente; Italia = modello misto SNV con NEV).
+
+Aspetti che i quesiti chiedono: se i rapporti di valutazione esterna sono pubblicati (sì in UK, NL, Svezia, Irlanda...; in altri Paesi restituiti solo alla scuola); se è prevista l'osservazione in classe (procedura presente nella maggioranza dei sistemi di valutazione esterna); se gli esiti degli studenti nei test sono usati per la valutazione delle scuole; conseguenze (piani di miglioramento, poteri sanzionatori: es. UK special measures).
+
+Test standardizzati nazionali: presenti quasi ovunque con funzioni diverse (certificative, di monitoraggio, di orientamento); pubblicazione dei risultati per scuola (league tables: UK; vietata o evitata altrove — in Italia i dati INVALSI per scuola non sono pubblicati in graduatorie).
+
+Fonte principe: Eurydice, 'Assuring Quality in Education: Policies and Approaches to School Evaluation in Europe' (2015) — è il documento da cui provengono decine di quesiti dell'area 9.
+
+5.4 Docenti e dirigenti in Europa
+
+Reclutamento docenti: per concorso (Francia — CAPES/agrégation, Spagna — oposiciones, Italia); per assunzione aperta a livello di scuola/autorità locale (UK, Paesi Bassi, nordici); status: dipendenti pubblici di carriera (career civil servants: Francia, Germania, Spagna) vs contrattuali.
+
+Formazione iniziale: modelli simultaneo (integrato) vs consecutivo (laurea + formazione professionale); induction obbligatoria in maggioranza dei Paesi.
+
+Dirigenti scolastici: requisiti tipici — esperienza di insegnamento + formazione specifica per la dirigenza (obbligatoria in molti Paesi prima o dopo la nomina: Francia, Spagna, Malta); selezione per concorso (Francia, Italia, Spagna) o da parte di school board/autorità locale (UK, nordici, NL); leadership distribuita e organi (school boards con genitori: governance anglosassone e nordica).
+
+Retribuzioni e orario: fonte OCSE Education at a Glance e Eurydice Teachers' and School Heads' Salaries (Italia: stipendi sotto media OCSE, progressione per anzianità).
+
+5.5 Schede-Paese lampo (i sei più chiesti)
+
+| Paese | Tratti che i quiz pescano |
+| :-: | :-: |
+| Finlandia | Struttura unica 7-16 (peruskoulu); nessun ispettorato; autovalutazione e fiducia nei docenti (laurea magistrale per tutti); pochi test standardizzati (campionari); esame nazionale solo a fine liceo (matriculation). |
+| Germania | Federalismo: competenza dei Länder, coordinamento KMK; differenziazione a 10 anni; sistema duale di apprendistato (VET in azienda + scuola, riferimento europeo); Abitur. |
+| Francia | Centralismo (académies, rectorats); istruzione obbligatoria dai 3 ai 16 anni + formazione fino a 18; collège unique; baccalauréat riformato (controllo continuo + prove); dirigenti: concorso 'personnels de direction'. |
+| Regno Unito (Inghilterra) | Obbligo da 5 anni; national curriculum e key stages; GCSE (16) e A-level (18); Ofsted con rapporti pubblici e giudizi (fino al 2024 'outstanding-inadequate', poi riforma delle pagelle); ampia autonomia (academies, free schools); league tables. |
+| Paesi Bassi | Libertà di istruzione costituzionale (art. 23: scuole private finanziate come le pubbliche, \~70%); tracking a 12 anni (VMBO/HAVO/VWO su consiglio orientativo + test); Inspectorate con rapporti pubblici. |
+| Spagna | Decentramento alle comunità autonome; LOMLOE (2020) legge vigente; educación básica 6-16 (primaria + ESO comprensiva); bachillerato 2 anni; oposiciones. |
+
+6\. Erasmus+ e la mobilità europea
+
+Erasmus+ 2021-2027 (Reg. UE 2021/817): budget di circa 26 miliardi; tre azioni chiave — KA1 mobilità per l'apprendimento (studenti, personale), KA2 cooperazione tra organizzazioni (partenariati), KA3 sostegno alle politiche.
+
+Agenzie nazionali: per il settore scuola e università INDIRE; per l'istruzione e formazione professionale e l'educazione degli adulti INAPP; per la gioventù l'Agenzia nazionale per i giovani.
+
+Strumenti: European School Education Platform (che ha assorbito eTwinning), gemellaggi elettronici tra scuole; accreditamento Erasmus per la mobilità pluriennale; DiscoverEU; Alleanze delle Università europee.
+
+Obiettivo di mobilità (Racc. 'Europe on the Move' 2024): innalzare le quote di apprendenti in mobilità nel terziario e nella VET entro il 2030.
+
+7\. Validazione delle competenze e apprendimento permanente
+
+Apprendimento permanente (lifelong learning): principio-cardine delle politiche UE dal Memorandum 2000; comprende apprendimento formale, non formale e informale.
+
+Validazione dell'apprendimento non formale e informale (Racc. UE 2012): in Italia D.lgs. 13/2013, che istituisce il sistema nazionale di certificazione delle competenze e il repertorio nazionale dei titoli e delle qualificazioni.
+
+Micro-credenziali (Racc. UE 2022): approccio europeo per attestare esiti di apprendimento di piccole unità, spendibili e cumulabili.
+
+EQF ed Europass: il quadro europeo delle qualifiche (8 livelli) e la piattaforma Europass (CV, passaporto delle lingue, supplementi) come strumenti di trasparenza e mobilità.
+
+Istruzione degli adulti in Italia: i CPIA (DPR 263/2012), percorsi di primo e secondo livello e alfabetizzazione; raccordo con l'agenda europea delle competenze degli adulti (target 47% di partecipazione al 2025).
+
+8\. Schede-Paese aggiuntive (per il confronto)
+
+| Paese | Tratti da ricordare |
+| :-: | :-: |
+| Regno Unito (Inghilterra) | Obbligo dai 5 anni; national curriculum e key stages; GCSE a 16, A-level a 18; ampia autonomia (academies, free schools); Ofsted con rapporti pubblici; league tables. |
+| Paesi Bassi | Libertà di istruzione costituzionale (art. 23): scuole private finanziate come le pubbliche (\~70% degli iscritti); tracking a 12 anni (VMBO/HAVO/VWO); Inspectorate con rapporti pubblici. |
+| Spagna | Decentramento alle comunità autonome; legge vigente LOMLOE (2020); educación básica 6-16 (primaria + ESO comprensiva); bachillerato biennale; reclutamento per oposiciones. |
+| Svezia | Struttura unica; forte decentramento ai comuni; Skolinspektionen (ispettorato) con rapporti pubblici; libera scelta della scuola e friskolor (scuole indipendenti finanziate). |
+| Portogallo | Struttura unica (ensino básico 9 anni); forte impulso al contrasto della dispersione; valutazione esterna con rapporti pubblici. |
+
+Chiave di lettura trasversale (Eurydice): confronta i sistemi su quattro assi — struttura (unica / comune / differenziata), governance (centralista / federale / decentrata), valutazione delle scuole (ispettorato con rapporti pubblici / decentrata / assente come in Finlandia), reclutamento docenti (concorso / assunzione locale). Con questi quattro assi rispondi a quasi ogni quesito comparativo.
+
+9\. Consiglio d'Europa, OCSE, UNESCO, ONU: non confonderli
+
+| Organismo | Cosa NON è | Cosa fa in ambito educativo |
+| :-: | :-: | :-: |
+| Consiglio d'Europa (Strasburgo) | NON è un organo UE (46 Stati) | QCER per le lingue; educazione alla cittadinanza democratica; art. 2 Prot. 1 CEDU (diritto all'istruzione). |
+| OCSE (Parigi) | NON è UE (38 Paesi) | PISA, TALIS, PIAAC, Education at a Glance. |
+| UNESCO (ONU) | Agenzia ONU, non UE | Agenda 2030 SDG 4 (istruzione di qualità); ISCED; rapporti GEM. |
+| Unione europea | — | Artt. 165-166 TFUE (competenza di sostegno); benchmark; Erasmus+; competenze chiave; EQF. |
+
+Errore da evitare: attribuire all'UE il QCER (è del Consiglio d'Europa) o PISA (è dell'OCSE). L'UE fissa i benchmark e finanzia (Erasmus+), ma non gestisce le indagini né i quadri linguistici.
+
+10\. Consiglio d'Europa e organismi non-UE (per non confonderli)
+
+Consiglio d'Europa (Strasburgo, 46 Stati — non è organo UE): QCER, educazione alla cittadinanza democratica (RFCDC), CEDU (art. 2 Protocollo 1: diritto all'istruzione e rispetto delle convinzioni dei genitori); Corte EDU.
+
+OCSE (Parigi, 38 Paesi): PISA, TALIS, Education at a Glance, CERI.
+
+UNESCO: Agenda 2030 — SDG 4 ('istruzione di qualità, equa e inclusiva, e opportunità di apprendimento permanente per tutti'; target 4.1-4.7, es. 4.7 educazione allo sviluppo sostenibile e alla cittadinanza globale); ISCED; rapporti GEM.
+
+ONU: Convenzione sui diritti dell'infanzia 1989 (artt. 28-29: diritto all'istruzione; ratificata con L. 176/1991); Convenzione ONU disabilità 2006 (art. 24: sistema educativo inclusivo; ratificata con L. 18/2009 — fondamento internazionale dell'inclusione italiana).
+
+Approfondimento dal corso — Schede-Paese e dati comparativi
+
+Materiale tratto dalle slide del corso (Inglima): i sistemi europei a confronto e il posizionamento dell'Italia sui benchmark, complemento concreto all'area 9.
+
+I tre modelli strutturali (Eurydice/ISCED) con i Paesi
+
+| Modello | Caratteristica | Paesi |
+| :-: | :-: | :-: |
+| Struttura unica | Curricolo comune generale senza transizioni tra primaria e secondaria inferiore | Nordici e baltici: Islanda, Norvegia, Svezia, Finlandia, Danimarca, Estonia; Polonia; Paesi ex-Jugoslavia |
+| Curricolo comune di base | Dopo la primaria, tronco comune generale nella secondaria inferiore | Portogallo, Spagna, Italia, Francia, Belgio, Regno Unito, Irlanda, Grecia, Romania |
+| Percorsi differenziati | Dopo la primaria, percorsi distinti con certificazioni diverse | Paesi Bassi, Germania, Austria, Svizzera, Lituania |
+
+Tre sistemi a confronto
+
+Francia (centralista, curricolo comune): lo Stato definisce i programmi, recluta docenti e ispettori per concorso, finanzia anche il privato (\~20%). École maternelle obbligatoria dai 3 anni; école élémentaire 5 anni (passaggio automatico al collège); collège unico 4 anni con diploma 'brevet'; licei generale/tecnologico/professionale con baccalauréat.
+
+Germania (federale, percorsi differenziati): competenza dei Länder; l'educazione della prima infanzia è nel settore welfare, non nella scuola. Grundschule 4 anni (6 a Berlino e Brandeburgo); poi Hauptschule, Realschule, Gymnasium (fino all'Abitur). Fiore all'occhiello: il sistema duale (3-4 giorni in azienda + 1-2 a scuola), gestito dai Länder.
+
+Finlandia (decentrata, struttura unica): ultimo anno pre-primario obbligatorio; istruzione di base in struttura unica dai 7 ai 16 anni; forte autonomia delle autorità locali; docenti con laurea magistrale, alta fiducia sociale, pochi test standardizzati.
+
+La carriera dei docenti in Europa
+
+Struttura a livello singolo: avanzamento economico basato prevalentemente sull'anzianità (es. Italia, con gli scatti stipendiali).
+
+Struttura multilivello: la progressione richiede più criteri combinati — anzianità, sviluppo professionale continuo, valutazione in servizio (la maggioranza dei sistemi europei).
+
+Il posizionamento dell'Italia sui benchmark (dato storico dalle slide)
+
+| Indicatore | Media UE | Italia | Target |
+| :-: | :-: | :-: | :-: |
+| Abbandono scolastico precoce | 10,6% | 14,5% | \<10% (oggi \<9%) |
+| Istruzione terziaria (30-34 anni) | 40,7% | 27,8% | ≥40% |
+| Frequenza infanzia (4 anni) | 95,4% | 95,1% | ≥95% (oggi ≥96%) |
+| Low achievers in lettura (PISA) | 19,7% | 21,0% | \<15% |
+| Adulti in apprendimento permanente | 11,1% | 8,1% | ≥15% (oggi ≥47%) |
+
+Lettura da spendere: l'Italia sconta storicamente un alto abbandono (concentrato nel Mezzogiorno e tra gli studenti di origine straniera: 20,2% contro 9,5% dei nativi) e una bassa quota di laureati, mentre è in linea sulla frequenza dell'infanzia. Da qui le misure PNRR su dispersione e divari (Agenda Sud e Nord).
+
+|  |
+| :-: |
+| AGGIORNAMENTO 2026 AGGIORNAMENTO 2026 · Le slide usano i benchmark ET2020 con i dati di fine decennio scorso. Oggi il quadro è quello dello Spazio europeo dell'istruzione e dei target 2030: abbandono \<9%, low achievers \<15% anche in digitale, partecipazione all'infanzia ≥96%, adulti in formazione ≥47%. |
+
+DOSSIER — I benchmark europei e l'EQF: i numeri esatti da non sbagliare
+
+L'area 9 è quasi tutta numeri e sigle: qui i distrattori sono facili da costruire, quindi la precisione paga.
+
+| Riferimento | Valore esatto (vigente 2030) | Valore superato (ET2020) |
+| :-: | :-: | :-: |
+| Abbandono scolastico precoce (ELET) | \< 9% | \< 10% |
+| Low achievers (lettura, matematica, scienze) | \< 15% | \< 15% |
+| Low achievers in competenze digitali (grado 8) | \< 15% (nuovo) | non previsto |
+| Partecipazione all'educazione dell'infanzia | ≥ 96% (da 3 anni all'obbligo) | ≥ 95% (da 4 anni) |
+| Adulti in apprendimento (ultimi 12 mesi) | ≥ 47% (2025) | ≥ 15% |
+| Neodiplomati VET con work-based learning | ≥ 60% (2025) | non previsto |
+
+EQF: la referenziazione italiana (chiesta secca)
+
+| Titolo italiano | Livello EQF |
+| :-: | :-: |
+| Qualifica professionale IeFP (triennale) | 3 |
+| Diploma professionale IeFP (quadriennale) / Diploma di istruzione secondaria superiore | 4 |
+| Diploma ITS Academy (biennale) | 5 |
+| Laurea triennale | 6 |
+| Laurea magistrale / a ciclo unico | 7 |
+| Dottorato di ricerca | 8 |
+
+Le otto competenze chiave (Racc. 22/5/2018) come lista chiusa
+
+1\) alfabetica funzionale; 2) multilinguistica; 3) matematica e in scienze, tecnologie e ingegneria; 4) digitale; 5) personale, sociale e capacità di imparare a imparare; 6) in materia di cittadinanza; 7) imprenditoriale; 8) in materia di consapevolezza ed espressione culturali.
+
+Trappola: NON confonderle con le 8 competenze chiave di cittadinanza del DM 139/2007 (imparare a imparare, progettare, comunicare, collaborare e partecipare, agire in modo autonomo e responsabile, risolvere problemi, individuare collegamenti e relazioni, acquisire e interpretare l'informazione). Sono due liste diverse, di fonti diverse.
+
+|  |
+| :-: |
+| MEMORIA La distinzione UE / non-UE è oro: il QCER (A1-C2) è del Consiglio d'Europa; PISA/TALIS/PIAAC sono dell'OCSE; l'ISCED e l'SDG 4 sono dell'UNESCO; i benchmark, Erasmus+, le competenze chiave e l'EQF sono dell'Unione europea. Un quesito su tre dell'area gioca su questa attribuzione. |
+
+11\. Checklist finale
+
+So la base TFUE (165-166) e il metodo aperto di coordinamento.
+
+So i benchmark ET2020 e i target 2030 con i numeri esatti.
+
+So elencare le 8 competenze chiave 2018 e gli 8 livelli EQF con la referenziazione italiana.
+
+So distinguere Bologna (intergovernativo, EHEA) da Copenaghen (VET) e conosco Erasmus+ (KA1-2-3, INDIRE agenzia).
+
+So i 3 modelli strutturali con i Paesi tipici e i casi-limite dell'obbligo (Francia 3 anni, UK 5, Estonia 7).
+
+So il quadro Eurydice sulla valutazione delle scuole: chi ha ispettorato, chi pubblica i rapporti, la Finlandia senza valutazione esterna.
+
+So le 6 schede-Paese e non confondo Consiglio d'Europa, OCSE, UNESCO e UE.
+
+Fascicolo 7 — Sistemi educativi dell'Unione europea · pag.

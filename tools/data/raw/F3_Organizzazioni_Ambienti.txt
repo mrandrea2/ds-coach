@@ -1,0 +1,342 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 3
+
+Organizzazioni complesse e ambienti di apprendimento
+
+Aree B e D — Leadership, benessere, inclusione, innovazione · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. Teorie dell'organizzazione applicate alla scuola
+
+| Autore/Modello | Che cosa devi saper riconoscere nei quesiti |
+| :-: | :-: |
+| Taylor / Fayol / Weber | Scientific management (one best way, studio tempi e metodi); funzioni della direzione secondo Fayol (POCCC: programmare, organizzare, comandare, coordinare, controllare); burocrazia weberiana (razionalità legale, gerarchia, impersonalità, atti scritti) e sue disfunzioni (Merton: ritualismo; Crozier: circoli viziosi burocratici). |
+| Mayo / Relazioni umane | Esperimenti di Hawthorne (Western Electric): effetto della considerazione sociale sulla produttività; gruppi informali; nascita dello Human Relations Movement. |
+| Mintzberg | Cinque parti dell'organizzazione (vertice strategico, linea intermedia, tecnostruttura, staff di supporto, nucleo operativo) e configurazioni; la scuola come burocrazia professionale: coordinamento per standardizzazione delle capacità (formazione), forte autonomia del nucleo operativo (docenti), decentramento. |
+| Weick | Loose coupling: legami deboli tra intenzioni e azioni, tra unità organizzative; sensemaking (costruzione di senso); implicazione: il DS governa cultura e significati, non solo procedure. |
+| Cohen, March, Olsen | Garbage can model: le decisioni nelle 'anarchie organizzate' (preferenze incerte, tecnologia poco chiara, partecipazione fluida) come incontro casuale di problemi, soluzioni, partecipanti, occasioni di scelta. |
+| Simon | Razionalità limitata; uomo amministrativo vs uomo economico; decisione soddisfacente (satisficing). |
+| Senge | Learning organization, 'La quinta disciplina': padronanza personale, modelli mentali, visione condivisa, apprendimento di squadra, pensiero sistemico. |
+| Schein | Cultura organizzativa a tre livelli: artefatti, valori dichiarati, assunti di base; leadership come gestione della cultura. |
+| Morgan | Metafore dell'organizzazione (macchina, organismo, cervello, cultura, sistema politico, prigione psichica, flusso, strumento di dominio). |
+| Bertalanffy / sistemi | Teoria generale dei sistemi: sistema aperto, omeostasi, equifinalità; la scuola come sistema aperto in scambio con l'ambiente. |
+
+2\. Leadership: modelli e applicazione al DS
+
+Lewin, Lippitt, White (1939): stili autoritario, democratico, laissez-faire e loro effetti su clima e produttività dei gruppi.
+
+Blake e Mouton: griglia manageriale — orientamento alla produzione (asse x) e alle persone (asse y); stile 9.9 'team management' come ideale.
+
+Hersey e Blanchard: leadership situazionale — telling/direttivo, selling/persuasivo, participating, delegating in funzione della maturità (readiness) dei collaboratori.
+
+Burns e Bass: leadership transazionale (scambio, ricompensa contingente, gestione per eccezioni) vs trasformazionale — 4 I: Idealized influence, Inspirational motivation, Intellectual stimulation, Individualized consideration.
+
+Greenleaf: servant leadership. Goleman: leadership emotiva e sei stili (visionario, coach, affiliativo, democratico, battistrada, autoritario); intelligenza emotiva (consapevolezza e gestione di sé, consapevolezza sociale, gestione delle relazioni).
+
+Leadership educativa: instructional leadership (Hallinger e Murphy: definire la missione, gestire il programma di istruzione, promuovere il clima di apprendimento); leadership for learning; leadership distribuita (Spillane, Gronn): pratica distribuita tra leader, follower e situazione — ancoraggio normativo italiano: art. 25 c. 5 D.lgs. 165/2001 (delega a docenti), c. 83 L. 107/2015 (staff fino al 10%), middle management (funzioni strumentali, collaboratori, referenti, coordinatori di dipartimento; il CCNL 2024 apre alla valorizzazione delle figure professionali).
+
+Evidenze: Leithwood ('la leadership è seconda solo all'insegnamento tra i fattori scolastici che incidono sugli apprendimenti'); Robinson: student-centred leadership (dimensione più efficace: promuovere e partecipare all'apprendimento professionale dei docenti, ES 0,84).
+
+3\. Motivazione, gruppi, conflitto, comunicazione
+
+3.1 Motivazione
+
+Maslow: gerarchia dei bisogni (fisiologici, sicurezza, appartenenza, stima, autorealizzazione).
+
+Herzberg: fattori igienici (retribuzione, condizioni, relazioni — evitano l'insoddisfazione) vs motivanti (riconoscimento, responsabilità, crescita — producono soddisfazione).
+
+McGregor: Teoria X (l'uomo evita il lavoro, va controllato) vs Y (autodirezione, ricerca di responsabilità).
+
+Vroom: aspettativa × strumentalità × valenza. Locke e Latham: goal setting (obiettivi specifici e sfidanti). Adams: equità. Deci e Ryan: Self-Determination Theory — bisogni di competenza, autonomia, relazione; motivazione intrinseca vs estrinseca; continuum di regolazione.
+
+Bandura: autoefficacia (fonti: esperienze di padronanza, modellamento, persuasione, stati fisiologici); efficacia collettiva dei docenti (Hattie/ Donohoo: ES 1,57 tra i fattori più alti).
+
+3.2 Gruppi e team
+
+Lewin: teoria del campo (B = f(P,E)), dinamiche di gruppo, ricerca-azione, resistenza al cambiamento (scongelamento-cambiamento-ricongelamento).
+
+Tuckman: forming, storming, norming, performing (+ adjourning).
+
+Moreno: sociometria e test sociometrico (scelte e rifiuti su criteri; sociogramma: stelle, isolati, rifiutati) — usato per leggere il gruppo classe e i team; psicodramma e role playing.
+
+Bion: assunti di base (dipendenza, attacco-fuga, accoppiamento) vs gruppo di lavoro.
+
+Janis: groupthink (illusione di invulnerabilità, autocensura, unanimità apparente) e rimedi (avvocato del diavolo, sottogruppi).
+
+Team efficaci: interdipendenza, obiettivi condivisi, ruoli chiari (Belbin), sicurezza psicologica (Edmondson).
+
+3.3 Conflitto e negoziazione
+
+Thomas-Kilmann: cinque stili su assertività/cooperazione — competizione, collaborazione, compromesso, evitamento, accomodamento.
+
+Fisher e Ury (Harvard): negoziazione di principi — separare le persone dal problema; interessi non posizioni; opzioni di mutuo vantaggio; criteri oggettivi; BATNA.
+
+Conflitto funzionale vs disfunzionale; mediazione; nella scuola: gestione dei conflitti con famiglie, RSU, tra docenti; tecniche di de-escalation.
+
+3.4 Comunicazione
+
+Watzlawick (Scuola di Palo Alto), cinque assiomi: non si può non comunicare; contenuto e relazione (metacomunicazione); punteggiatura delle sequenze; moduli numerico e analogico; interazioni simmetriche e complementari.
+
+Shannon-Weaver (emittente-canale-ricevente-rumore) e Jakobson (sei funzioni: emotiva, conativa, fatica, metalinguistica, poetica, referenziale).
+
+Rogers: ascolto attivo, empatia, congruenza, accettazione incondizionata; Gordon: messaggi-io, barriere della comunicazione.
+
+Comunicazione istituzionale della scuola: L. 150/2000 (comunicazione pubblica), sito web, albo on line (L. 69/2009: pubblicità legale dal 2011), registro elettronico, rapporti con i media; la comunicazione interna come leva di leadership.
+
+3.5 Stress, benessere, sicurezza psicosociale
+
+Selye: sindrome generale di adattamento (allarme, resistenza, esaurimento); eustress/distress.
+
+Maslach: burnout — esaurimento emotivo, depersonalizzazione, ridotta realizzazione personale (MBI); helping professions e docenti.
+
+Karasek: modello domanda-controllo; Siegrist: squilibrio sforzo-ricompensa.
+
+Obbligo giuridico: valutazione dello stress lavoro-correlato nel DVR (art. 28 D.lgs. 81/2008, metodologia INAIL); benessere organizzativo (art. 7 D.lgs. 165/2001: le PA garantiscono parità e benessere; CUG — comitato unico di garanzia, L. 183/2010).
+
+4\. Inclusione scolastica: normativa completa
+
+4.1 Linea del tempo essenziale
+
+L. 118/1971 (inserimento) → L. 517/1977 (abolizione classi differenziali, sostegno, programmazione) → C. cost. 215/1987 (superiori) → L. 104/1992 (legge quadro) → DPR 24/2/1994 (DF, PDF, PEI) → L. 170/2010 (DSA) → Dir. 27/12/2012 + CM 8/2013 (BES) → D.lgs. 66/2017 + 96/2019 (nuova inclusione) → D.I. 182/2020 (nuovo PEI) → D.lgs. 62/2024 (progetto di vita).
+
+4.2 L. 104/1992 — articoli chiave
+
+Art. 3: definizione di persona handicappata (minorazione fisica, psichica o sensoriale, stabilizzata o progressiva, causa di difficoltà di apprendimento, relazione, integrazione lavorativa e di svantaggio o emarginazione); c. 3: situazione di gravità (necessità di intervento assistenziale permanente, continuativo e globale). Dal D.lgs. 62/2024 la terminologia evolve in 'persona con disabilità' e 'sostegno intensivo'.
+
+Art. 12: diritto all'educazione e all'istruzione nelle sezioni e classi comuni di ogni ordine e grado e nell'università; l'esercizio del diritto non può essere impedito da difficoltà di apprendimento né da altre difficoltà.
+
+Art. 13: integrazione scolastica (dotazione di attrezzature tecniche e sussidi didattici; sperimentazione; attività di sostegno con docenti specializzati; obbligo per gli enti locali di assistenza per l'autonomia e la comunicazione — assistente educativo, distinto dal collaboratore scolastico per l'assistenza di base e dal docente di sostegno assegnato alla classe).
+
+Art. 33: agevolazioni lavorative (3 giorni di permesso mensile retribuito; dal D.lgs. 105/2022 fruibili anche da più aventi diritto in alternativa; congedo straordinario biennale al referente unico, D.lgs. 151/2001 art. 42).
+
+4.3 D.lgs. 66/2017 (come modificato dal 96/2019) — impianto
+
+| Istituto | Disciplina |
+| :-: | :-: |
+| Domanda e accertamento | Accertamento della condizione di disabilità in età evolutiva (INPS); profilo di funzionamento secondo ICF (redatto dall'unità di valutazione multidisciplinare con la partecipazione della famiglia e della scuola), che sostituisce diagnosi funzionale e PDF ed è propedeutico al PEI. |
+| PEI | Elaborato e approvato dal GLO — Gruppo di lavoro operativo: consiglio di classe/team con la partecipazione di genitori, studente (superiori), figure professionali interne ed esterne, UMV; redatto in via provvisoria entro giugno e definitiva entro ottobre; verifiche intermedie; modelli nazionali D.I. 182/2020 (dimensioni: relazione/interazione, comunicazione/linguaggio, autonomia/orientamento, cognitiva/neuropsicologica); prospetto delle ore di sostegno e delle risorse; curricolo: ordinario, personalizzato con prove equipollenti, differenziato (superiori). |
+| Gruppi territoriali | GLIR (regionale, presso USR); GIT (ambito territoriale: conferma della proposta di ore di sostegno... funzione ridefinita dal 96/2019 come supporto); GLI (d'istituto: supporta il collegio nella definizione del Piano per l'inclusione e i consigli di classe). |
+| Piano per l'inclusione | Parte del PTOF: definisce modalità per l'utilizzo coordinato delle risorse (ex PAI della CM 8/2013). |
+| Sostegno | Cattedra: 1:2 come media nazionale (organico); continuità: possibile conferma del supplente su richiesta della famiglia (D.L. 71/2024, dal 2025/26); specializzazione TFA + percorsi INDIRE transitori (triennalisti ed estero, prorogati al 2026). |
+| Valutazione ed esami | Primo ciclo: prove adattate, valore legale del diploma; secondo ciclo: prove equipollenti (diploma) o differenziate (attestato); INVALSI: misure o esonero secondo PEI. |
+| D.lgs. 62/2024 | Progetto di vita individuale, personalizzato e partecipato: valutazione di base + valutazione multidimensionale; accomodamento ragionevole; il PEI vi confluisce come componente; sperimentazione territoriale 2025-26, regime dal 2027. |
+
+4.4 DSA e altri BES
+
+L. 170/2010: riconosce dislessia, disgrafia, disortografia, discalculia; diagnosi del SSN o strutture accreditate (aggiornata in passaggio di ciclo); didattica individualizzata e personalizzata; strumenti compensativi (sintesi vocale, mappe, calcolatrice...) e misure dispensative (lettura ad alta voce, dispensa dalla lingua straniera scritta nei casi previsti fino all'esonero); PDP entro il primo trimestre; esami: tempi aggiuntivi e strumenti, senza modifica degli obiettivi (salvo esonero lingua → prova differenziata? attenzione: con esonero dalla lingua straniera niente diploma? No: con esonero prove differenziate e, dal DM 5669 art. 6, per l'esonero il percorso resta valido con prove differenziate ai soli fini dell'esame — formulazioni da maneggiare con cura; la dispensa dallo scritto di lingua consente il diploma con prova orale sostitutiva).
+
+Direttiva 27/12/2012: BES in tre aree — disabilità (104); disturbi evolutivi specifici (DSA, ADHD, funzionamento intellettivo limite, disturbi del linguaggio...); svantaggio socio-economico, linguistico, culturale; estende a tutti i BES i benefici della personalizzazione (PDP anche senza diagnosi, deliberato dal consiglio di classe).
+
+Alunni stranieri: Linee guida 2014; iscrizione in qualunque momento dell'anno nella classe d'età (con possibile slittamento di un anno); CM 2/2010: soglia indicativa del 30% per classe; D.L. 71/2024: docente dedicato di italiano L2 con oltre il 20% di neoarrivati per classe; protocolli di accoglienza; mediazione culturale.
+
+Plusdotazione: rientra nei BES per prassi (nota 562/2019).
+
+Scuola in ospedale e istruzione domiciliare (progetti regionali, portale SofIA... il portale è 'Scuola in ospedale' del MIM).
+
+4.5 Bullismo e cyberbullismo
+
+L. 71/2017: definizione di cyberbullismo (pressione, aggressione, molestia, ricatto, ingiuria, denigrazione, diffamazione, furto d'identità... realizzati per via telematica in danno di minorenni); referente per ogni istituto; il DS informa tempestivamente le famiglie e attiva azioni educative; istanza di oscuramento/rimozione al titolare/gestore, e in mancanza al Garante privacy che provvede entro 48 ore; ammonimento del questore (dai 14 anni, fino a querela).
+
+L. 70/2024: estende le previsioni al bullismo; codice interno e regolamenti; tavolo di monitoraggio; potenziamento del numero pubblico 'Emergenza infanzia 114'; le Regioni adottano misure; rafforzato il ruolo dei servizi.
+
+Piattaforma ELISA (formazione docenti referenti); Safer Internet Centre — Generazioni Connesse; giornata nazionale contro bullismo e cyberbullismo: 7 febbraio.
+
+5\. Innovazione digitale
+
+5.1 PNSD e piani nazionali
+
+PNSD (DM 851/2015, c. 56-59 L. 107): 35 azioni in 3 ambiti (strumenti; competenze e contenuti; formazione e accompagnamento); azioni celebri da quiz: \#4 ambienti per la didattica digitale integrata, \#6 politiche attive per il BYOD, \#15 scenari innovativi, \#24 biblioteche scolastiche innovative, \#28 animatore digitale (un docente per scuola, con formazione dedicata e fondo annuale), \#25 formazione in servizio; team per l'innovazione (3 docenti + ATA).
+
+Piano Scuola 4.0 (DM 161/2022, PNRR): Azione 1 Next Generation Classrooms (trasformare almeno 100.000 aule in ambienti innovativi), Azione 2 Next Generation Labs (laboratori per le professioni digitali del futuro nelle superiori); 2,1 miliardi.
+
+DM 66/2023: formazione del personale su didattica digitale (target PNRR); DM 65/2023: nuove competenze STEM e multilinguismo (anche orientamento STEM per le pari opportunità di genere).
+
+DDI: Linee guida DM 89/2020 (piano scolastico per la DDI; nate col COVID, restano quadro per usi complementari; il D.L. 2025 sui cellulari non tocca i device della scuola).
+
+5.2 Quadri di competenza e strumenti
+
+DigComp 2.2 (2022): 5 aree (informazione e data literacy; comunicazione e collaborazione; creazione di contenuti; sicurezza; problem solving), 21 competenze, 8 livelli di padronanza.
+
+DigCompEdu: 6 aree per gli educatori (coinvolgimento professionale; risorse digitali; pratiche di insegnamento; valutazione; valorizzazione degli studenti; sviluppo delle competenze digitali degli studenti); livelli A1-C2.
+
+DigCompOrg e SELFIE (autovalutazione digitale della scuola, Commissione UE); SELFIE for Teachers.
+
+Sicurezza e dati: e-policy d'istituto; AgID e identità digitale (SPID/CIE) per i servizi; registro elettronico e conservazione (AgID); DPIA per strumenti che profilano; età del consenso digitale in Italia: 14 anni (art. 2-quinquies D.lgs. 196/2003).
+
+IA a scuola (Linee guida MIM 2025): approccio antropocentrico, AI Act UE (Reg. 2024/1689: sistemi a rischio per istruzione = alto rischio, es. valutazione automatizzata), supervisione umana, trasparenza verso famiglie, divieto di decisioni automatizzate sugli esiti.
+
+6\. Il clima e la cultura organizzativa; il benessere
+
+Ponte tra la teoria organizzativa e la gestione concreta delle persone: temi che il tuo background di psicologo ti consente di padroneggiare meglio della media, e che l'orale premia.
+
+7.1 Clima e cultura
+
+Cultura organizzativa (Schein): tre livelli — artefatti (visibili), valori dichiarati, assunti taciti di base; il DS è 'gestore della cultura', agisce sui significati profondi.
+
+Clima organizzativo: la percezione condivisa dell'ambiente di lavoro (equità, supporto, riconoscimento, chiarezza dei ruoli); incide su motivazione e prestazione; misurabile con questionari.
+
+Commitment organizzativo (Meyer e Allen): affettivo (voglio restare), normativo (devo restare), di continuità (mi conviene restare); il DS lavora sul commitment affettivo con senso e riconoscimento.
+
+Giustizia organizzativa: distributiva (equità degli esiti), procedurale (equità delle procedure), interazionale (rispetto nelle relazioni); percezioni di ingiustizia generano conflitto e disimpegno.
+
+7.2 Benessere, stress, sicurezza psicosociale
+
+Burnout (Maslach): esaurimento emotivo, depersonalizzazione, ridotta realizzazione; particolarmente diffuso nelle helping professions come l'insegnamento.
+
+Modelli dello stress lavorativo: domanda-controllo (Karasek: alta domanda + basso controllo = strain); sforzo-ricompensa (Siegrist: squilibrio tra impegno e riconoscimento).
+
+Obbligo giuridico: valutazione dello stress lavoro-correlato nel DVR (art. 28 D.lgs. 81/2008, metodologia INAIL); il DS come datore di lavoro ne è responsabile.
+
+Comitato unico di garanzia (CUG, L. 183/2010): pari opportunità, benessere organizzativo, contrasto alle discriminazioni; sostituisce comitati per le pari opportunità e sul mobbing.
+
+Leve del DS per il benessere: equità nei carichi, riconoscimento, partecipazione alle decisioni, comunicazione trasparente, gestione costruttiva dei conflitti.
+
+7\. Autonomia e differenziazione didattica: gli strumenti operativi
+
+Come la teoria dell'inclusione e delle metodologie si traduce in scelte del consiglio di classe e del DS.
+
+| Strumento | Per chi | Chi lo redige, quando |
+| :-: | :-: | :-: |
+| PEI — Piano educativo individualizzato | Alunni con disabilità (L. 104) | GLO; provvisorio entro giugno, definitivo entro ottobre; verifiche periodiche |
+| PDP — Piano didattico personalizzato | Alunni con DSA (L. 170) e altri BES | Consiglio di classe; per i DSA di norma entro il primo trimestre |
+| PFI — Progetto formativo individuale | Studenti degli istituti professionali | Consiglio di classe; entro il 31 gennaio del primo anno |
+| Piano per l'inclusione | L'intera scuola | Proposto dal GLI, deliberato dal Collegio; parte del PTOF, entro giugno |
+| PDP per alunni stranieri neoarrivati | Alunni NAI | Consiglio di classe; personalizzazione temporanea di obiettivi e valutazione |
+
+Differenza operativa tra individualizzazione (stessi obiettivi, strategie diverse) e personalizzazione (obiettivi differenziati sui talenti): governa la scelta tra PEI a obiettivi minimi/differenziati e PDP.
+
+Universal Design for Learning (UDL): progettare fin dall'inizio per la varietà (molteplici mezzi di rappresentazione, azione/espressione, coinvolgimento); richiamato dal D.lgs. 66/2017.
+
+Valutazione degli alunni con BES: per i DSA strumenti compensativi e misure dispensative anche in sede d'esame (tempi aggiuntivi, dispensa dallo scritto di lingua nei casi previsti); per la disabilità prove equipollenti (diploma) o differenziate (attestato di credito formativo).
+
+8\. Continuità, orientamento, rapporti con le famiglie
+
+Continuità educativa (CM 339/1992 e Indicazioni): raccordo verticale tra ordini di scuola; commissioni continuità, condivisione di curricolo e strumenti di osservazione.
+
+Orientamento (DM 328/2022): non più solo informativo ma formativo e permanente; moduli di 30 ore annue, docente tutor e docente orientatore nel triennio delle superiori, E-Portfolio su piattaforma Unica, consiglio di orientamento nel primo ciclo.
+
+Patto educativo di corresponsabilità (DPR 235/2007): definisce diritti e doveri nel rapporto scuola-famiglia-studente; sottoscritto all'iscrizione; integrato con impegni su educazione civica e contrasto al bullismo.
+
+Rapporti scuola-famiglia: colloqui, registro elettronico, trasparenza della valutazione; la partecipazione dei genitori negli organi collegiali; la comunicazione istituzionale come funzione della leadership.
+
+Alleanze educative territoriali: patti educativi di comunità, reti con enti locali, terzo settore, realtà culturali e sportive (spazio per il tuo profilo: sport e PNEI come leve di comunità educante).
+
+9\. Innovazione didattica e ambienti di apprendimento
+
+Cornici teoriche: comportamentismo (Skinner, istruzione programmata), cognitivismo, costruttivismo (Piaget), socio-costruttivismo (Vygotskij: ZSP; Bruner: scaffolding, curricolo a spirale), apprendimento significativo (Ausubel, organizzatori anticipati), apprendistato cognitivo (Collins, Brown, Newman), apprendimento situato e comunità di pratica (Lave e Wenger), costruzionismo (Papert).
+
+Mastery learning (Bloom) e tassonomie: Bloom (conoscenza→valutazione) e revisione Anderson-Krathwohl (ricordare→creare); EAS (episodi di apprendimento situato, Rivoltella); Universal Design for Learning (CAST: molteplici mezzi di rappresentazione, azione/espressione, coinvolgimento).
+
+Metodologie da quiz: cooperative learning (Johnson & Johnson: interdipendenza positiva, responsabilità individuale, interazione promozionale, abilità sociali, revisione); jigsaw (Aronson); peer tutoring; flipped classroom; debate; PBL (problem/project based); service learning (D.lgs. 60/2017, Avanguardie educative INDIRE); TEAL; CLIL (norme: DPR 88-89/2010, docenti con B2-C1 e metodologia); circle time; role playing; storytelling digitale; gamification.
+
+Individualizzazione (obiettivi comuni, percorsi adattati) vs personalizzazione (obiettivi diversificati sui talenti) — Baldacci; didattica per competenze e valutazione autentica (Wiggins: compiti di realtà, rubriche; McTighe: Understanding by Design).
+
+Ambienti: setting flessibili, DADA, modello '1+4' INDIRE (spazio di gruppo + agorà, exploration lab, area individuale, informal area); biblioteche innovative; outdoor education; Avanguardie educative (INDIRE, 2014: gallery delle idee, es. aule laboratorio disciplinari, dentro/fuori la scuola).
+
+Tempo scuola e flessibilità (raccordo con DPR 275 artt. 4-5): classi aperte, compattazione oraria, settimana corta.
+
+Approfondimento dal corso — La scuola come organizzazione complessa
+
+Materiale tratto dalle slide del corso ('Teoria delle organizzazioni'), che offre il quadro d'insieme dei modelli interpretativi e della funzione dirigenziale, complementare all'area 2.
+
+Le tre dimensioni di analisi
+
+Dimensione istituzionale (Mitchell): la scuola come organo che assolve funzioni del sistema sociale — trasmissione della cultura, socializzazione, integrazione (art. 3 Cost.).
+
+Dimensione tecnica: il contenuto professionale del lavoro (insegnamento) e il servizio all'utenza (formazione); campo di pedagogia e didattica, dove si misurano efficienza ed efficacia.
+
+Dimensione organizzativa: emersa con l'autonomia; guarda a struttura, processi, risorse, leadership.
+
+I tre modelli interpretativi
+
+| Modello | Idea centrale | Implicazione per il DS |
+| :-: | :-: | :-: |
+| Burocratico | Parte della PA: formalità, impersonalità, gerarchia, carriera per anzianità (Weber); la cultura burocratica pervade anche i docenti | Garantisce legalità e uniformità, ma da solo irrigidisce. |
+| Professionale | Il nucleo tecnico (docenti) ha ampia discrezionalità grazie a competenze certificate (libertà d'insegnamento); insofferenza verso vincoli e collegialità | Il potere è nel nucleo operativo: si governa per competenza, non per comando. |
+| Loose coupling (Weick) | Legami deboli tra struttura e attività: il sistema si autoconserva, si adatta localmente, le disfunzioni non si propagano, ma si annidano routine che frenano il cambiamento | Servono comunicazione interna, costruzione di senso (sensemaking) e leadership più che management. |
+
+La scuola reale è un mix di legami deboli e rigidi; coesistono più modelli complementari — la burocrazia professionale e l'adhocrazia di Mintzberg, il modello 4C di Butera (leadership diffusa, apprendimento organizzativo, comunità di pratica), il modello burocratico delle PA.
+
+I modelli culturali degli insegnanti (Hargreaves)
+
+Individualismo: l'insegnamento come lavoro solitario; lato positivo cura di sé e competenza, lato negativo isolamento.
+
+Collaborazione / over-regulation: la collegialità coordina l'azione collettiva ma può diventare controllo imposto.
+
+Balcanizzazione: sottogruppi chiusi (per dipartimento, plesso) con eccessiva variabilità delle pratiche.
+
+Burocratizzazione: l'aspirazione all'oggettività degenera in formalismo fine a sé stesso.
+
+Il DS come «Giano bifronte»: leadership e management
+
+Leadership: si misura con il cambiamento; crea la visione, guida e motiva. Transizione cruciale (Weber): dal potere di posizione (legittimato dall'alto) al potere di relazione (legittimato dal basso); altrimenti la leadership la prende un altro. Si crea con la comunicazione continua: vision e mission non esistono senza comunicazione. Il 'leader burocrate' è un ossimoro.
+
+Management: si misura con la complessità; crea ordine e coerenza con pianificazione e controllo. Competenze di Katz: tecniche, concettuali, relazionali; salendo di livello diminuiscono le tecniche e crescono le concettuali. Il top management deve 'tenere insieme' l'organizzazione.
+
+|  |
+| :-: |
+| USO ALL'ORALE Gancio per l'orale: il DS efficace non sceglie tra leadership e management, li integra. Cita Drucker ('dirigere non è adattamento passivo ma azione verso risultati desiderati') e Kotter (management = ordine e coerenza; leadership = visione e cambiamento), poi collega all'art. 25 D.lgs. 165/2001: 'autonomi poteri di direzione, coordinamento e valorizzazione delle risorse umane'. |
+
+DOSSIER — Il D.lgs. 66/2017 (inclusione): la norma-pilastro dell'area, in dettaglio
+
+Come modificato dal D.lgs. 96/2019, è il testo di riferimento. I quiz vi giocano sulle competenze dei gruppi e sulla successione dei documenti.
+
+| Istituto | Chi / Quando / Cosa | Nota da quiz |
+| :-: | :-: | :-: |
+| Accertamento della disabilità | Commissione medica (INPS) in età evolutiva; su richiesta della famiglia | Presupposto di tutto il percorso. |
+| Profilo di funzionamento | Redatto dall'unità di valutazione multidisciplinare con famiglia e scuola, su base ICF; sostituisce diagnosi funzionale e profilo dinamico-funzionale; propedeutico al PEI e al progetto individuale | È la novità che rende obsoleti i materiali pre-2017. |
+| Progetto individuale | Redatto dall'ente locale (Comune) su richiesta della famiglia (art. 14 L. 328/2000) | Da non confondere col PEI: è più ampio, riguarda il progetto di vita. |
+| PEI | Elaborato e approvato dal GLO; tiene conto dell'accertamento, del profilo di funzionamento; individua strumenti, strategie, ore di sostegno; provvisorio a giugno, definitivo entro ottobre; verifiche in itinere | Modelli nazionali: D.I. 182/2020. |
+| GLO — Gruppo di lavoro operativo | Docenti del consiglio di classe/team + genitori + studente (ove possibile) + figure professionali + unità di valutazione; presieduto/coordinato dal dirigente o suo delegato | Elabora e APPROVA il PEI: competenza esclusiva del GLO. |
+| GLI — Gruppo di lavoro per l'inclusione | A livello di istituto; supporta il collegio nella definizione del Piano per l'inclusione e i consigli di classe | D'istituto, non del singolo alunno. |
+| GIT — Gruppo per l'inclusione territoriale | A livello di ambito; supporto e proposta sulle risorse di sostegno | Ridefinito dal 96/2019 in senso di supporto. |
+| GLIR — Gruppo di lavoro interistituzionale regionale | Presso l'USR; consulenza e proposta su politiche per l'inclusione | Livello regionale. |
+
+La scala dei gruppi (dall'alto in basso): GLIR (regione) → GIT (ambito) → GLI (istituto) → GLO (alunno). La domanda-trappola più frequente: 'chi approva il PEI?' Risposta: il GLO. Non il consiglio di classe da solo, non il GLI.
+
+Continuità e valutazione
+
+Continuità del docente di sostegno: favorita dalla norma; il D.L. 71/2024 consente, dal 2025/26, la conferma del supplente su posto di sostegno su richiesta della famiglia.
+
+Valutazione: per gli alunni con disabilità, prove equipollenti (con diploma) o differenziate (con attestato di credito formativo, nel percorso differenziato); per i DSA strumenti compensativi e misure dispensative, tempi aggiuntivi, dispensa dallo scritto di lingua nei casi previsti.
+
+D.lgs. 62/2024 (riforma disabilità): progetto di vita individuale, personalizzato e partecipato; valutazione di base e valutazione multidimensionale; accomodamento ragionevole; il PEI ne diviene parte; a regime dal 2027.
+
+DOSSIER — Leadership e art. 25: il raccordo teoria-norma che vale all'orale
+
+L'area 2 è teorica, ma la commissione premia chi àncora la teoria alla norma. Ecco lo schema del raccordo, pronto da usare.
+
+| Concetto teorico | Norma che lo traduce | Come collegarli |
+| :-: | :-: | :-: |
+| Leadership distribuita (Spillane) | Art. 25 c. 5 D.lgs. 165/2001 (delega a docenti); c. 83 L. 107/2015 (staff fino al 10%) | 'La leadership distribuita non è solo teoria: il legislatore la codifica consentendo al DS di individuare collaboratori e figure di supporto.' |
+| Instructional leadership (Hallinger) | Art. 25 c. 2: 'promuove… gli interventi per assicurare la qualità dei processi formativi' | 'Il DS non è solo un gestore ma un leader per l'apprendimento, come gli impone la stessa definizione legislativa.' |
+| Responsabilità di risultato (management by objectives) | Art. 25 c. 1 e art. 21 D.lgs. 165/2001; D.M. 47/2025 | 'La valutazione dei DS traduce in obbligo giuridico il principio manageriale della responsabilità sui risultati.' |
+| Valorizzazione delle risorse umane | Art. 25 c. 2: 'autonomi poteri di direzione, coordinamento e valorizzazione delle risorse umane' | 'La motivazione e lo sviluppo del personale non sono buone pratiche facoltative: sono un potere-dovere del dirigente.' |
+
+Formula di chiusura sempre valida all'orale: qualsiasi discorso su leadership, motivazione o clima va ricondotto all'art. 25 del d.lgs. 165/2001 e alla responsabilità di risultato dell'art. 21. È il ponte che distingue il candidato che 'ha studiato psicologia' da quello che 'sa fare il dirigente'.
+
+10\. Checklist finale
+
+So attribuire ogni modello al suo autore (Mintzberg, Weick, Senge, Schein, Simon, Maslow, Herzberg, McGregor, Vroom, Deci-Ryan, Tuckman, Moreno, Watzlawick, Thomas-Kilmann, Maslach).
+
+So le 4 I della leadership trasformazionale e la differenza con la transazionale; instructional e distributed leadership con gli ancoraggi normativi (25/165, c. 78 e 83).
+
+So la linea del tempo dell'inclusione e l'impianto 66/2017-96/2019: profilo di funzionamento, GLO/GLI/GIT/GLIR, D.I. 182/2020, progetto di vita (62/2024).
+
+So distinguere assistenza di base (collaboratori), assistenza all'autonomia e comunicazione (ente locale), sostegno didattico (docente della classe).
+
+So PDP (DSA entro il trimestre; BES a delibera), strumenti compensativi vs dispensativi, esami con DSA.
+
+So PNSD (azioni chiave), Scuola 4.0, DigComp/DigCompEdu, e-policy, età del consenso (14), AI Act e linee guida IA.
+
+So definire e attribuire le principali metodologie attive e i modelli di ambiente (1+4, DADA).
+
+Fascicolo 3 — Organizzazioni complesse e ambienti di apprendimento · pag.

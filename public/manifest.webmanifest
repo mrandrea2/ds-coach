@@ -1,0 +1,3 @@
+{ "name": "DS Coach 2027", "short_name": "DS Coach", "start_url": "/", "display": "standalone",
+  "background_color": "#faf7f0", "theme_color": "#14213d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }] }

@@ -1,0 +1,312 @@
+CONCORSO DIRIGENTI SCOLASTICI 2027
+
+FASCICOLO 5
+
+Diritto civile, amministrativo e penale
+
+Area G — Responsabilità, L. 241/1990, reati, giurisprudenza · con dossier di approfondimento
+
+Normativa aggiornata a luglio 2026 · uso personale di studio
+
+  
+
+Indice
+
+  
+
+1\. Le obbligazioni (Libro IV c.c.)
+
+| Articolo | Regola (formulazione da quiz) |
+| :-: | :-: |
+| 1173 | Fonti delle obbligazioni: contratto, fatto illecito, ogni altro atto o fatto idoneo a produrle in conformità dell'ordinamento giuridico. |
+| 1175-1176 | Correttezza di debitore e creditore; diligenza del buon padre di famiglia; nell'adempimento di obbligazioni inerenti all'esercizio di un'attività professionale, la diligenza si valuta con riguardo alla natura dell'attività (c. 2 — rilevante per i docenti). |
+| 1218 | Responsabilità del debitore: il debitore che non esegue esattamente la prestazione dovuta è tenuto al risarcimento del danno, se non prova che l'inadempimento o il ritardo è stato determinato da impossibilità della prestazione derivante da causa a lui non imputabile. |
+| 1223 | Risarcimento = perdita subita (danno emergente) + mancato guadagno (lucro cessante), in quanto conseguenza immediata e diretta. |
+| 1226 | Valutazione equitativa del giudice se il danno non può essere provato nel suo preciso ammontare. |
+| 1227 | Concorso del fatto colposo del creditore: risarcimento diminuito secondo la gravità della colpa e l'entità delle conseguenze; nessun risarcimento per i danni evitabili con l'ordinaria diligenza. |
+| 1229 | Nullità dei patti di esonero da responsabilità per dolo o colpa grave (o per violazione di norme di ordine pubblico). |
+| 1256 ss. | Impossibilità sopravvenuta; mora del debitore (1219: costituzione in mora) e del creditore (1206). |
+| 1292 ss. | Obbligazioni solidali: presunzione di solidarietà tra condebitori; regresso. |
+| 1321, 1325 | Contratto: accordo di due o più parti per costituire, regolare o estinguere un rapporto giuridico patrimoniale; requisiti: accordo, causa, oggetto, forma quando prescritta a pena di nullità. |
+| 1418 ss. | Nullità (contrarietà a norme imperative, mancanza requisiti, illiceità) vs annullabilità (incapacità, vizi del consenso: errore, violenza, dolo); prescrizione dell'azione di annullamento 5 anni; nullità imprescrittibile. |
+| 2946-2947 | Prescrizione ordinaria decennale; illecito extracontrattuale 5 anni (2 per circolazione veicoli). |
+
+2\. La responsabilità civile della scuola
+
+2.1 Illecito extracontrattuale
+
+Art. 2043: qualunque fatto doloso o colposo che cagiona ad altri un danno ingiusto obbliga colui che ha commesso il fatto a risarcire il danno; elementi: condotta, colpevolezza, nesso, danno ingiusto.
+
+Art. 2046-2047: imputabilità; danno cagionato dall'incapace — risponde chi è tenuto alla sorveglianza, salvo che provi di non aver potuto impedire il fatto; se il sorvegliante non risarcisce, il giudice può condannare l'autore a un'equa indennità.
+
+Art. 2048: c. 1 genitori e tutori; c. 2 i precettori e coloro che insegnano un mestiere o un'arte sono responsabili del danno cagionato dal fatto illecito dei loro allievi e apprendisti nel tempo in cui sono sotto la loro vigilanza; c. 3 prova liberatoria: non aver potuto impedire il fatto (dimostrare di aver adottato misure preventive e repressive idonee — presunzione di colpa, inversione dell'onere).
+
+Art. 2049: responsabilità dei padroni e committenti (la PA per i propri dipendenti); art. 2051: cose in custodia (rilevante per l'ente locale proprietario); art. 2055: responsabilità solidale con regresso secondo la gravità delle colpe.
+
+Danno non patrimoniale (2059): nei casi determinati dalla legge (lettura costituzionalizzata: lesione di diritti inviolabili — danno biologico, morale, esistenziale entro il biologico secondo SS.UU. 26972/2008).
+
+2.2 La vigilanza sugli alunni: sistema completo
+
+Autolesioni: Cass. SS.UU. 9346/2002 — la responsabilità dell'istituto e del docente per il danno che l'alunno procura a sé stesso è contrattuale: dall'iscrizione nasce un vincolo negoziale di protezione (per l'istituto) e dal 'contatto sociale' per il docente; onere: il danneggiato prova il danno nel periodo di affidamento, la scuola prova la causa non imputabile (1218).
+
+Danni a terzi (compagni): 2048 c. 2 per il fatto illecito dell'allievo; la giurisprudenza richiede la dimostrazione dell'imprevedibilità e repentinità del fatto per liberarsi.
+
+Perimetro temporale: dall'affidamento alla riconsegna — ingresso (5 minuti prima, art. 29 c. 5 CCNL: obbligo di trovarsi in classe 5 minuti prima dell'inizio), intervallo (obbligo rafforzato), cambio d'ora (organizzazione del DS), uscita (riconsegna a genitori/delegati; minori di 14 anni: uscita autonoma con autorizzazione dei genitori che esonera dalla responsabilità da vigilanza — L. 172/2017 art. 19-bis, anche per il trasporto scolastico), viaggi di istruzione (vigilanza continuativa, 1 accompagnatore/15 alunni per prassi).
+
+Art. 61 L. 312/1980: la responsabilità patrimoniale del personale direttivo, docente, educativo e non docente verso l'Amministrazione per i danni arrecati direttamente all'Amministrazione o a terzi è limitata ai soli casi di dolo o colpa grave; l'Amministrazione si surroga al personale nelle responsabilità civili derivanti da azioni giudiziarie dei terzi (il terzo cita il Ministero, non il docente; rivalsa solo per dolo/colpa grave davanti alla Corte dei conti).
+
+Culpa in organizzando del DS: obblighi organizzativi (regolamento di vigilanza, disciplina di ingressi/uscite/ricreazione, direttive ai collaboratori, gestione dei cambi d'ora, manutenzione segnalata all'ente locale); il DS non ha obblighi di vigilanza diretta sugli alunni (Cass.: responsabilità organizzativa, non da 2048).
+
+Assicurazione: polizza RC e infortuni (integrativa regionale/di istituto); INAIL: dal 2023/24 tutela estesa a docenti e alunni per gli eventi in attività didattiche (D.L. 48/2023, stabilizzata).
+
+3\. L'attività amministrativa (L. 241/1990)
+
+3.1 Principi e procedimento
+
+Art. 1: l'attività amministrativa persegue i fini determinati dalla legge ed è retta da criteri di economicità, efficacia, imparzialità, pubblicità e trasparenza, e dai principi dell'ordinamento comunitario; principio di collaborazione e buona fede (c. 2-bis, aggiunto 2020); divieto di aggravare il procedimento (c. 2).
+
+Termine: 30 giorni salvo diverso termine (fino a 90; fino a 180 con DPCM per casi complessi) — art. 2; conseguenze del ritardo: risarcimento del danno da ritardo (2-bis), indennizzo da mero ritardo; potere sostitutivo.
+
+Responsabile del procedimento (artt. 4-6): unità organizzativa e nomina; compiti (valutazione delle condizioni di ammissibilità, accertamenti, comunicazioni, adozione o proposta del provvedimento); nella scuola: il DS o il DSGA per gli atti amministrativo-contabili.
+
+Partecipazione: comunicazione di avvio (art. 7: destinatari e intervenienti; contenuti ex art. 8); intervento (art. 9); diritti dei partecipanti (art. 10: prendere visione degli atti, presentare memorie); preavviso di rigetto (10-bis: nei procedimenti a istanza di parte, comunicazione dei motivi ostativi; 10 giorni per osservazioni; sospende i termini).
+
+Semplificazione: conferenza di servizi (artt. 14 ss.: semplice, decisoria — di regola in forma semplificata e asincrona); accordi integrativi o sostitutivi del provvedimento (art. 11); pareri (art. 16: obbligatori — 20 giorni; facoltativi) e valutazioni tecniche (art. 17); autocertificazione (DPR 445/2000, richiamo art. 18); SCIA (art. 19); silenzio-assenso (art. 20: nei procedimenti a istanza di parte il silenzio equivale ad accoglimento, salvo eccezioni: patrimonio culturale, ambiente, salute...; art. 17-bis: silenzio-assenso tra amministrazioni, 30 giorni).
+
+3.2 Provvedimento: efficacia, invalidità, autotutela
+
+| Istituto | Disciplina |
+| :-: | :-: |
+| Elementi e caratteri | Tipicità, nominatività; autoritarietà, esecutività (21-quater), esecutorietà (21-ter: nei soli casi previsti dalla legge), inoppugnabilità decorsi i termini. Motivazione obbligatoria (art. 3) per tutti i provvedimenti salvo atti normativi e a contenuto generale. |
+| Nullità (21-septies) | Difetto assoluto di attribuzione; mancanza degli elementi essenziali; violazione o elusione del giudicato; altri casi previsti dalla legge. Rilevabile sempre; giurisdizione esclusiva GA per l'elusione del giudicato. |
+| Annullabilità (21-octies) | Violazione di legge, eccesso di potere (figure sintomatiche: sviamento, travisamento dei fatti, illogicità manifesta, disparità di trattamento, difetto di istruttoria e di motivazione), incompetenza (relativa). C. 2: non annullabilità per vizi formali/procedurali se il contenuto non avrebbe potuto essere diverso (attività vincolata); la mancata comunicazione di avvio non annulla se la PA dimostra che l'esito non poteva mutare. |
+| Autotutela | Revoca (21-quinquies: per sopravvenuti motivi di pubblico interesse, mutamento della situazione, nuova valutazione dell'interesse originario — effetti ex nunc, indennizzo); annullamento d'ufficio (21-nonies: illegittimità + interesse pubblico attuale + termine ragionevole, comunque non oltre 12 mesi per autorizzazioni e attribuzioni di vantaggi economici — effetti ex tunc); convalida; recesso (21-sexies); sospensione (21-quater c. 2). |
+
+3.3 Accesso: tre regimi da distinguere sempre
+
+| Regime | Fonte | Chi/Cosa |
+| :-: | :-: | :-: |
+| Accesso documentale | Artt. 22 ss. L. 241/1990 | Interesse diretto, concreto e attuale collegato a situazione giuridicamente tutelata; istanza motivata; 30 giorni (silenzio-rigetto); tutela: TAR (rito 116 c.p.a.) o Commissione per l'accesso/difensore civico; casi scolastici: compiti e atti della valutazione (accesso del genitore), atti di concorso, esposti (accesso prevale sull'anonimato del denunciante secondo giurisprudenza prevalente, con oscuramenti). |
+| Accesso civico semplice | Art. 5 c. 1 D.lgs. 33/2013 | Chiunque, su documenti a pubblicazione obbligatoria omessa; gratuito, senza motivazione. |
+| Accesso civico generalizzato (FOIA) | Art. 5 c. 2 D.lgs. 33/2013 (D.lgs. 97/2016) | Chiunque, su dati ulteriori, senza motivazione; limiti: esclusioni assolute (art. 5-bis c. 3) ed esclusioni relative a tutela di interessi pubblici e privati (privacy, interessi economici); controinteressati: opposizione entro 10 giorni; risposta 30 giorni; riesame al RPCT. |
+
+3.4 Trasparenza e anticorruzione
+
+L. 190/2012: ANAC; PNA; RPCT; per le scuole la Delibera ANAC 430/2016 assegna la responsabilità anticorruzione al direttore dell'USR (il DS collabora e attua); rotazione, conflitto di interessi (art. 6-bis L. 241: obbligo di astensione), inconferibilità/incompatibilità (D.lgs. 39/2013), pantouflage (art. 53 c. 16-ter D.lgs. 165: divieto triennale).
+
+D.lgs. 33/2013: 'Amministrazione trasparente' sul sito (organizzazione, dirigenti, bandi, sovvenzioni, bilanci, contratti); RPCT; sanzioni.
+
+Whistleblowing — D.lgs. 24/2023 (direttiva UE 2019/1937): canali di segnalazione interna (obbligatori anche per le PA), esterna (ANAC), divulgazione pubblica; divieto di ritorsioni e onere della prova invertito; riservatezza dell'identità.
+
+Codice di comportamento: DPR 62/2013 integrato dal DPR 81/2023 (nuovi artt. su utilizzo dei social — divieto di comunicazioni che ledano l'immagine della PA; dotazioni informatiche; obbligo di formazione); doveri: regali max valore modico (≤ 150 € cumulativi annui per fonte... attenzione: 'di modico valore' nei limiti fissati, in via orientativa 150 €), comunicazione interessi finanziari, obbligo di astensione; violazioni: rilievo disciplinare.
+
+4\. Giustizia e giurisdizioni per il DS
+
+Lavoro pubblico privatizzato: giudice ordinario in funzione di giudice del lavoro (art. 63 D.lgs. 165/2001) — sanzioni disciplinari, mansioni, trasferimenti; restano al giudice amministrativo le procedure concorsuali di assunzione.
+
+Interessi legittimi → TAR (ricorso entro 60 giorni; appello al Consiglio di Stato); ricorso straordinario al Presidente della Repubblica: 120 giorni, alternativo; giurisdizione esclusiva nei casi ex art. 133 c.p.a. (es. servizi pubblici, procedure di affidamento).
+
+Atti scolastici tipici e giudice: non ammissione/bocciature ed esami → TAR (interesse legittimo; giurisprudenza su valutazioni tecniche); provvedimenti disciplinari alunni → TAR previa impugnativa interna (organo di garanzia: reclamo entro 15 giorni; organo di garanzia regionale presso USR); formazione classi → atti organizzativi; sostegno (ore) → TAR o GO per discriminazione (L. 67/2006).
+
+Corte dei conti: responsabilità erariale (danno all'erario, dolo o colpa grave; rivalsa ex art. 61 L. 312/1980; danno indiretto da condanne civili della PA); prescrizione 5 anni; il D.L. 'scudo' sulla colpa grave (limitazioni temporanee 2020-2025 per condotte commissive) — regime da verificare al bando.
+
+Class action contro la PA (D.lgs. 198/2009) e ricorsi collettivi: marginali ma citati.
+
+5\. Diritto penale essenziale
+
+5.1 Nozioni generali minime
+
+Principi: legalità (art. 25 Cost., art. 1 c.p.), irretroattività, tassatività; elemento oggettivo e soggettivo (dolo, colpa, preterintenzione — art. 43); tentativo (56); concorso di persone (110); cause di giustificazione (50-54: consenso, esercizio del diritto/adempimento del dovere, legittima difesa, stato di necessità).
+
+Pubblico ufficiale (357: pubblica funzione legislativa, giudiziaria o amministrativa, con formazione/manifestazione della volontà della PA o poteri autoritativi o certificativi) vs incaricato di pubblico servizio (358); docenti e DS: pubblici ufficiali nell'esercizio delle funzioni (scrutini, esami, certificazioni).
+
+Obblighi: denuncia di reato procedibile d'ufficio appresa nell'esercizio delle funzioni (art. 331 c.p.p.; omissione: art. 361-362 c.p.); referto (365, sanitari); per il DS obbligo qualificato in casi di maltrattamenti, violenze, abusi su minori: denuncia e segnalazione (anche al tribunale per i minorenni per pregiudizio: art. 9 L. 184/1983 per abbandono).
+
+5.2 Delitti contro la PA (Titolo II)
+
+| Reato | Art. | Da sapere |
+| :-: | :-: | :-: |
+| Peculato | 314 | Appropriazione di denaro/cosa mobile posseduta per ragione dell'ufficio; reclusione 4-10 anni e 6 mesi; peculato d'uso (uso momentaneo e restituzione immediata): pena ridotta. |
+| Indebita destinazione | 314-bis | Introdotto dalla L. 114/2024 dopo l'abrogazione dell'abuso d'ufficio: destinazione a uso diverso di denaro o cosa mobile con danno/vantaggio ingiusti. |
+| Concussione | 317 | Costrizione a dare/promettere mediante abuso della qualità o dei poteri; reclusione 6-12. |
+| Induzione indebita | 319-quater | Induzione (non costrizione): punito anche chi dà o promette. |
+| Corruzione | 318 / 319 / 319-ter / 320 / 321 / 322 | Per l'esercizio della funzione (impropria); per atto contrario (propria); in atti giudiziari; dell'incaricato di p.s.; del corruttore; istigazione. |
+| Abuso d'ufficio | (323) | Abrogato — L. 114/2024. Ai quiz storici rispondere segnalando l'abrogazione. |
+| Rifiuto/omissione atti d'ufficio | 328 | Rifiuto indebito di atti da compiere senza ritardo (ragioni di giustizia, sicurezza, ordine pubblico, igiene e sanità); c. 2: omissione dopo richiesta scritta e 30 giorni. |
+| Interruzione di pubblico servizio | 331 (c.p.) | E art. 340 (interruzione di ufficio/servizio pubblico); occupazioni studentesche: 340 in casi di blocco effettivo. |
+| Falsità | 476 ss. | Falso materiale e ideologico in atto pubblico (registri, verbali: atti pubblici); 479 falsità ideologica del p.u. |
+| Omissione denuncia | 361-362 | Del pubblico ufficiale / dell'incaricato. |
+
+5.3 Delitti in danno di minori e connessi alla funzione
+
+Maltrattamenti contro familiari e conviventi (572: include l'abuso dei mezzi di correzione aggravato... attenzione: l'abuso dei mezzi di correzione o disciplina è il 571; il 572 copre i maltrattamenti anche del docente verso gli alunni per condotte abituali); giurisprudenza: metodi educativi violenti = 571/572 secondo abitualità e intensità.
+
+Reati sessuali: violenza sessuale (609-bis), aggravanti per abuso di autorità e su minori; atti sessuali con minorenne (609-quater: soglie di età 14/16 con abuso di autorità o relazione di istruzione); corruzione di minorenne (609-quinquies); adescamento (609-undecies).
+
+Pedopornografia (600-ter, 600-quater); prostituzione minorile (600-bis); tratta.
+
+Certificato penale del casellario per chi impiega personale a contatto con minori (D.lgs. 39/2014, art. 25-bis DPR 313/2002): obbligo del datore prima dell'assunzione anche per esperti esterni con contratto (non per i volontari puri).
+
+Stalking (612-bis), diffamazione (595) anche via social; sostituzione di persona (494) nel cyberbullismo; L. 71/2017 e 70/2024 (v. fascicolo 3); revenge porn (612-ter).
+
+Minore autore: imputabilità dai 14 anni (98 c.p.); DPR 448/1988 processo minorile; messa alla prova; il DS e i rapporti con USSM/servizi.
+
+6\. Trasparenza, anticorruzione, protezione dei dati
+
+Cluster normativo che i quiz dell'area 7 battono con costanza e che il DS vive quotidianamente.
+
+7.1 Anticorruzione e trasparenza
+
+L. 190/2012: Autorità nazionale anticorruzione (ANAC); Piano nazionale anticorruzione; per le scuole la responsabilità della prevenzione è del dirigente dell'USR (delibera ANAC 430/2016), con il DS che attua le misure.
+
+Obblighi del DS: astensione in caso di conflitto di interessi (art. 6-bis L. 241/1990); rispetto delle regole su inconferibilità e incompatibilità degli incarichi (D.lgs. 39/2013); divieto di pantouflage (art. 53 c. 16-ter D.lgs. 165/2001).
+
+D.lgs. 33/2013: obblighi di pubblicazione in 'Amministrazione trasparente' (organizzazione, incarichi, bandi, sovvenzioni, bilanci, contratti); accesso civico semplice e generalizzato (FOIA).
+
+Whistleblowing (D.lgs. 24/2023, attuativo della direttiva UE 2019/1937): canali di segnalazione interna obbligatori, canale esterno ANAC, divulgazione pubblica; tutela del segnalante con divieto di ritorsioni e onere della prova invertito; riservatezza dell'identità.
+
+Codice di comportamento (DPR 62/2013, aggiornato dal DPR 81/2023): doveri di condotta, uso dei social media e delle dotazioni informatiche, obbligo di formazione; la violazione ha rilievo disciplinare.
+
+7.2 Protezione dei dati personali (GDPR)
+
+Reg. UE 679/2016 (GDPR) e D.lgs. 196/2003 come modificato dal D.lgs. 101/2018: titolare del trattamento è l'istituzione scolastica, rappresentata dal DS; obbligo del Responsabile della protezione dei dati (DPO/RPD) per le PA.
+
+Basi giuridiche a scuola: esecuzione di compiti di interesse pubblico (didattica, valutazione) come base ordinaria; consenso solo per attività accessorie (foto/video di eventi, uscite facoltative).
+
+Adempimenti: registro dei trattamenti (art. 30); valutazione d'impatto (DPIA) per trattamenti ad alto rischio (piattaforme che profilano, videosorveglianza); notifica del data breach al Garante entro 72 ore; nomina a responsabili esterni (art. 28) dei fornitori di piattaforme.
+
+Casi tipici (vademecum Garante 'La scuola a prova di privacy'): pubblicazione degli esiti scolastici senza dati eccedenti; videosorveglianza limitata alle aree a rischio e fuori orario; età del consenso digitale in Italia fissata a 14 anni.
+
+7\. Casi giurisprudenziali ricorrenti (schede rapide)
+
+Massime che tornano nei quiz e utilissime a citare nello scritto e all'orale.
+
+| Massima | Principio |
+| :-: | :-: |
+| Cass. SS.UU. 9346/2002 | Responsabilità contrattuale da 'contatto sociale' della scuola per le autolesioni dell'alunno; onere della prova ex art. 1218. |
+| Cass. S.U. 12019/1991 | Riparto tra responsabilità del sorvegliante (2048) e del proprietario/custode dell'edificio (2051). |
+| Cass. 2272/2005 | Proporzionalità inversa: la vigilanza dovuta cresce al diminuire dell'età e della maturità dell'alunno. |
+| C. cost. 215/1987 | Diritto pieno e incondizionato alla frequenza delle scuole superiori per gli alunni con disabilità. |
+| C. cost. 219/2011 | Danno all'immagine della PA: non azionabile in assenza di sentenza penale definitiva. |
+| Cass. 11597/1995 | Obbligo di denuncia: il docente lo assolve riferendo al DS, cui spetta la rappresentanza esterna. |
+| Ad. Plen. C.d.S. su autotutela | L'annullamento d'ufficio richiede un interesse pubblico attuale e concreto, ulteriore rispetto al mero ripristino della legalità. |
+
+8\. Il procedimento amministrativo scolastico: atti tipici
+
+Atti del DS: decreti (organico, graduatorie interne, assegnazione docenti), provvedimenti di gestione del personale, atti negoziali, provvedimenti disciplinari; obbligo di motivazione (art. 3 L. 241/1990) salvo atti a contenuto generale.
+
+Il responsabile del procedimento (artt. 4-6 L. 241): a scuola tipicamente il DS o il DSGA; cura istruttoria e comunicazioni.
+
+Accesso agli atti scolastici: il genitore ha accesso agli elaborati e ai documenti valutativi del figlio (interesse diretto); l'accesso agli atti dei concorsi interni e alle graduatorie; il bilanciamento con la privacy dei terzi.
+
+Autotutela: il DS può annullare d'ufficio propri atti illegittimi (art. 21-nonies, entro 12 mesi per atti attributivi di vantaggi) o revocarli per sopravvenienze (21-quinquies); tipici: rettifica di graduatorie, annullamento di assegnazioni errate.
+
+Tutela: reclamo interno, ricorso gerarchico all'USR ove previsto, ricorso al giudice (ordinario per il lavoro, TAR per gli interessi legittimi).
+
+9\. Contratti pubblici (raccordo con Area 8)
+
+D.lgs. 36/2023: principi generali (risultato, fiducia, accesso al mercato — artt. 1-3); RUP = responsabile unico del progetto; soglie infra-UE per affidamento diretto: lavori \< 150.000 €, servizi e forniture \< 140.000 €; procedura negoziata senza bando per fasce superiori (5/10 operatori); digitalizzazione: piattaforme certificate obbligatorie dal 1/1/2024, fascicolo virtuale operatore; rotazione degli affidamenti; principio DNSH nei PNRR.
+
+Adempimenti scuola: CIG per ogni affidamento (piattaforma ANAC), CUP per i progetti di investimento, DURC, tracciabilità (L. 136/2010: conto dedicato), verifica requisiti (art. 94 ss.), obbligo Consip/MEPA sopra 5.000 € (L. 208/2015 c. 512 per informatica; L. 296/2006 c. 450), trasparenza (art. 28 D.lgs. 36 e 33/2013).
+
+Nella scuola i limiti interni del CdI (art. 45 c. 2 lett. a D.I. 129/2018, tipicamente 10.000-40.000 €) convivono con le soglie del codice: il CdI fissa il limite oltre il quale il DS deve acquisire la delibera.
+
+Approfondimento dal corso — Le cinque responsabilità del dirigente
+
+Materiale tratto dalle slide del corso (Caudullo): schema d'oro per l'area 7 e per il caso concreto dell'orale.
+
+Cinque responsabilità, non alternative
+
+Nell'esercizio delle funzioni il DS (come ogni pubblico dipendente) può incorrere in cinque responsabilità, non alternative tra loro: la stessa condotta può violare più precetti.
+
+| Responsabilità | Quando sorge | Fonte / nota |
+| :-: | :-: | :-: |
+| Civile | Danno ingiusto a terzi o alla PA | Artt. 2043 ss. (extracontrattuale), 1218 ss. (contrattuale), 2051 (cose in custodia); verso la PA solo dolo o colpa grave (art. 61 L. 312/1980). |
+| Penale | Commissione di reato | Reati dei pubblici ufficiali (il DS è PU ex art. 357 c.p.). |
+| Amministrativo-contabile | Danno erariale alla PA | Corte dei conti; elementi: danno, dolo o colpa grave, nesso, rapporto di servizio. Distinzione tra responsabilità amministrativa e contabile (agenti contabili: reso del conto giudiziale). |
+| Disciplinare | Violazione di obblighi di CCNL, legge o codice di comportamento | Artt. 55 ss. D.lgs. 165/2001; codice DPR 62/2013 (agg. DPR 81/2023). |
+| Dirigenziale | Mancato raggiungimento dei risultati o inosservanza delle direttive | Art. 21 D.lgs. 165/2001; è 'responsabilità di risultato'; può portare a revoca dell'incarico o perdita della retribuzione di risultato. |
+
+L'esempio-cardine
+
+Chi accetta una tangente per aggiudicare una gara a una ditta 'amica' realizza in un colpo: un reato (corruzione, art. 319 c.p.), un illecito civile verso le imprese perdenti (art. 2043), un illecito amministrativo-contabile (danno erariale + danno all'immagine), un illecito disciplinare. Un solo fatto, quattro-cinque responsabilità concorrenti: è il ragionamento che l'orale premia.
+
+Il danno all'immagine e la qualifica penale
+
+Le Procure della Corte dei conti agiscono per il danno all'immagine solo nei casi dell'art. 7 L. 97/2001 (sentenza irrevocabile per delitti contro la PA). C. cost. 219/2011: niente condanna con sentenza penale non definitiva. L. 190/2012: il danno si presume pari al doppio della somma illecitamente percepita.
+
+Pubblico ufficiale (art. 357 c.p.): nella scuola sono PU il DS e il DSGA; i docenti sono PU perché concorrono con voto deliberativo alle valutazioni (Cass. 6587/1991). Il collaboratore scolastico è incaricato di pubblico servizio quando vigila sugli alunni.
+
+Omessa denuncia (artt. 361-362): il personale assolve l'obbligo riferendo al DS, cui spetta la rappresentanza esterna (Cass. 11597/1995); se la vittima è un minore l'obbligo grava sul DS, e permane anche se l'autore è infraquattordicenne.
+
+La vigilanza sugli alunni: la costruzione giurisprudenziale
+
+| Situazione | Regime | Riferimento |
+| :-: | :-: | :-: |
+| Alunno danneggia un compagno | Responsabilità extracontrattuale, presunzione di colpa con prova liberatoria (vigilanza adeguata, misure idonee, evento repentino e imprevedibile) | Art. 2048 c. 2 c.c. |
+| Alunno si fa male da solo | Responsabilità contrattuale da 'contatto sociale': l'attore prova il danno durante l'affidamento, la scuola prova la causa non imputabile | Cass. SS.UU. 9346/2002; art. 1218 c.c. |
+| Danno da cosa in custodia | Responsabilità per cose in custodia salvo caso fortuito; il DS è 'custode' delle attrezzature | Art. 2051 c.c.; Cass. S.U. 12019/1991 |
+
+Principio di proporzionalità inversa: la vigilanza dovuta cresce al diminuire dell'età (Cass. 2272/2005). Vigilanza rafforzata in circostanze eccezionali (es. cantiere aperto). È un'obbligazione di mezzi, non di risultato.
+
+DOSSIER — La responsabilità civile a scuola: gli articoli del codice e le massime
+
+È il nucleo dell'area 7 e ritorna sempre allo scritto e all'orale. Ecco gli articoli con la formulazione esatta e il riparto giurisprudenziale.
+
+| Articolo | Testo essenziale | Applicazione a scuola |
+| :-: | :-: | :-: |
+| 1218 c.c. | 'Il debitore che non esegue esattamente la prestazione dovuta è tenuto al risarcimento del danno, se non prova che l'inadempimento o il ritardo è stato determinato da impossibilità della prestazione derivante da causa a lui non imputabile.' | Base della responsabilità contrattuale della scuola per le autolesioni (contatto sociale). |
+| 2043 c.c. | 'Qualunque fatto doloso o colposo che cagiona ad altri un danno ingiusto obbliga colui che ha commesso il fatto a risarcire il danno.' | Clausola generale dell'illecito extracontrattuale. |
+| 2047 c.c. | 'In caso di danno cagionato da persona incapace di intendere o di volere, il risarcimento è dovuto da chi è tenuto alla sorveglianza dell'incapace, salvo che provi di non aver potuto impedire il fatto.' | Alunno incapace: risponde il sorvegliante. |
+| 2048 c. 2 c.c. | 'I precettori e coloro che insegnano un mestiere o un'arte sono responsabili del danno cagionato dal fatto illecito dei loro allievi e apprendisti nel tempo in cui sono sotto la loro vigilanza.' C. 3: liberazione se provano 'di non aver potuto impedire il fatto'. | Danno dell'alunno a un terzo: presunzione di colpa del docente. |
+| 2051 c.c. | 'Ciascuno è responsabile del danno cagionato dalle cose che ha in custodia, salvo che provi il caso fortuito.' | Danno da edificio/attrezzatura: custode. |
+| 61 L. 312/1980 | La responsabilità patrimoniale del personale verso l'Amministrazione per i danni a terzi è limitata ai casi di dolo o colpa grave; l'Amministrazione si surroga nel giudizio dei terzi. | Il terzo cita il Ministero; rivalsa solo per dolo/colpa grave alla Corte dei conti. |
+
+Il riparto giurisprudenziale (da citare a memoria)
+
+Autolesione dell'alunno → responsabilità CONTRATTUALE da contatto sociale (Cass. SS.UU. 9346/2002): dall'iscrizione nasce un vincolo di protezione; l'attore prova il danno durante l'affidamento, la scuola prova la causa non imputabile (1218).
+
+Danno dell'alunno a un compagno → responsabilità EXTRACONTRATTUALE (2048 c. 2): prova liberatoria rigorosa (vigilanza adeguata, evento repentino e imprevedibile).
+
+Danno da cosa in custodia → 2051, riparto tra scuola (attrezzature) ed ente locale (edificio, Cass. S.U. 12019/1991).
+
+Proporzionalità inversa (Cass. 2272/2005): la vigilanza dovuta cresce al diminuire dell'età.
+
+DOSSIER — La L. 241/1990: gli articoli-chiave con i numeri
+
+| Art. | Contenuto | Numero da ricordare |
+| :-: | :-: | :-: |
+| 1 | Principi: economicità, efficacia, imparzialità, pubblicità, trasparenza + principi UE; buona fede e collaborazione (c. 2-bis) | — |
+| 2 | Obbligo di concludere con provvedimento espresso entro il termine | 30 giorni salvo diverso termine (fino a 90; 180 con DPCM) |
+| 3 | Obbligo di motivazione (presupposti di fatto e ragioni giuridiche); esclusi atti normativi e a contenuto generale | — |
+| 7-8 | Comunicazione di avvio del procedimento e suo contenuto | — |
+| 10-bis | Preavviso di rigetto nei procedimenti a istanza di parte; sospende i termini | 10 giorni per le osservazioni |
+| 14 ss. | Conferenza di servizi (istruttoria, decisoria; forma semplificata e asincrona di regola) | — |
+| 20 | Silenzio-assenso nei procedimenti a istanza di parte, salvo eccezioni (ambiente, salute, patrimonio culturale) | — |
+| 21-septies | Nullità: difetto assoluto di attribuzione, mancanza di elementi essenziali, violazione/elusione del giudicato | Casi tassativi |
+| 21-octies | Annullabilità: violazione di legge, eccesso di potere, incompetenza; c. 2 vizi formali non invalidanti | — |
+| 21-nonies | Annullamento d'ufficio: illegittimità + interesse pubblico attuale + termine ragionevole | Non oltre 12 mesi per atti attributivi di vantaggi |
+| 21-quinquies | Revoca per sopravvenuti motivi di interesse pubblico o rivalutazione (ex nunc, con indennizzo) | — |
+| 22 ss. | Accesso documentale: interesse diretto, concreto, attuale | Ricorso: 30 giorni |
+
+|  |
+| :-: |
+| MEMORIA I tre accessi da tenere distinti: DOCUMENTALE (L. 241, interesse qualificato); CIVICO SEMPLICE (D.lgs. 33/2013, su atti a pubblicazione obbligatoria omessa); CIVICO GENERALIZZATO/FOIA (D.lgs. 33 come mod. dal 97/2016, chiunque senza motivazione, con limiti). È la distinzione più interrogata dell'area amministrativa. |
+
+10\. Checklist finale
+
+So citare a memoria 1173, 1176, 1218, 1223, 1226, 1227, 1229, 2043, 2047, 2048, 2055, 2946-47.
+
+So la costruzione SS.UU. 2002 (contatto sociale) e l'art. 61 L. 312/1980 (surroga; rivalsa solo dolo/colpa grave).
+
+So la L. 241 per articoli: 1, 2, 3, 7, 10-bis, 14, 20, 21-quinquies/nonies/octies/septies, 22.
+
+So distinguere i tre accessi e i tre regimi di invalidità.
+
+So il riparto di giurisdizione su casi scolastici concreti.
+
+So i delitti contro la PA con numeri e l'abrogazione del 323; le soglie del 609-quater; l'obbligo di denuncia.
+
+So le soglie del D.lgs. 36/2023 e gli adempimenti CIG/CUP/DURC/MEPA.
+
+Fascicolo 5 — Diritto civile, amministrativo e penale · pag.
