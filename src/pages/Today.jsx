@@ -77,7 +77,7 @@ export default function Today() {
           <a key={id} className="card task" href={`#/lezione/${id}`}>
             <div className="tag" style={{ color: m?.color }}>{m?.title}</div>
             <div><b>{l.title}</b></div>
-            <div className="muted small">{Math.max(5, Math.round(l.words / 180))} min di lettura · poi richiamo libero e quiz</div>
+            <div className="muted small">{Math.max(5, Math.round((content.ext?.[id] || l.words) / 180))} min di studio{content.ext?.[id] ? ' (lezione completa)' : ''} · poi richiamo libero e quiz</div>
             <span className="go">Studia →</span>
           </a>
         );

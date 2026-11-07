@@ -9,7 +9,16 @@ function load() {
   const content = JSON.parse(fs.readFileSync(path.join(dir, 'content.json'), 'utf8'));
   let agg = { updated: null, items: [] };
   try { agg = JSON.parse(fs.readFileSync(path.join(dir, 'aggiornamenti.json'), 'utf8')); } catch {}
-  cache = { ...content, aggiornamenti: agg };
+  // indice delle lezioni estese disponibili: id -> numero di parole
+  const ext = {};
+  try {
+    for (const f of fs.readdirSync(path.join(dir, 'estese'))) {
+      if (!f.endsWith('.md')) continue;
+      const t = fs.readFileSync(path.join(dir, 'estese', f), 'utf8');
+      ext[f.slice(0, -3)] = (t.match(/\S+/g) || []).length;
+    }
+  } catch {}
+  cache = { ...content, aggiornamenti: agg, ext };
   return cache;
 }
 

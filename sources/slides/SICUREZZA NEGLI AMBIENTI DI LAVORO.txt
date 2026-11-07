@@ -1,0 +1,665 @@
+formazione concorso ds sicurezza CISL 
+
+Responsabilità del DS in materia di prevenzione e sicurezza
+
+DS Danilo Vicca
+
+A partire dagli anni ‘90 anche a seguito dell’infittirsi della normativa europea, il legislatore italiano ha affrontato la questione di sicurezza con una serie di interventi normativi di cui più importante è il decreto legislativo 626 del 1994. Nel tempo la legislazione si è stratificata e attualmente è in vigore il decreto legislativo 81 del 2008 (TU) recante norme in materia di tutela della salute e della sicurezza nei luoghi di lavoro, poi corretto con il decreto legislativo 106 del 2009.
+
+Legislazione sulla tutela delle donne in gravidanza Tutela dei disabili Copiosa normativa emergenziale sull’emergenza epidemiologica
+
+1
+
+Premessa
+
+• La sicurezza è un ambito da presidiare con attenzione per le responsabilità penali, quindi personali, del DS datore di lavoro.
+
+• Necessario uscire dalla logica della gestione dell’emergenza
+
+• Passare dal paradigma dell’adempimento sulla sicurezza al paradigma di «cultura della sicurezza». La cultura della sicurezza, come concetto trasversale a tutti i settori di vita e lavoro, deve diventare patrimonio di tutti i cittadini (il D. Lgs. 81/2008, (art. 11), invita le scuole ad inserire percorsi formativi interdisciplinari in materia di sicurezza).
+
+• Le misure non riguardano solo l’organizzazione in sicurezza dei processi, la sicurezza strutturale degli edifici e delle pertinenza, ma anche la «salute»: burn out, SLC, salubrità degli spazi (areazione, luminosità, esposizione alle apparecchiature tecnologiche, ergonomica degli arredi, ecc.).
+
+La cultura della sicurezza, come concetto trasversale a tutti i settori di vita e lavoro, deve diventare patrimonio di tutti i cittadini.
+
+La scuola, agenzia formativa per eccellenza, deve quindi promuovere la cultura della sicurezza e della prevenzione, la diffusione di buone prassi lavorative e di comportamenti sicuri sul luogo di vita e di lavoro.
+
+Il D. Lgs 81/2008, (art. 11), invita le scuole ad inserire percorsi formativi interdisciplinari in materia di sicurezza.
+
+2
+
+Riferimenti normativi
+
+• Costituzione
+
+• Articolo 32: La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività e garantisce cure gratuite agli indigenti.
+
+• Articolo 35: La Repubblica tutela il lavoro in tutte le sue forme e applicazioni. Cura la formazione e l’elevazione professionale dei lavoratori. Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad affermare e regolare i diritti del lavoro.
+
+• Codice civile
+
+• Art. 2050
+
+• Chiunque cagiona danno ad altri nello svolgimento di una attività pericolosa, per sua natura o per la natura dei mezzi adoperati, è tenuto al risarcimento, se non prova di avere adottato tutte le misure idonee ad evitare il danno
+
+• Articolo 2087: L’imprenditore è tenuto ad adottare nell’esercizio dell’impresa le misure che, secondo la particolarità del lavoro, l’esperienza e la tecnica, sono necessarie a tutelare l’integrità fisica e la personalità morale dei prestatori di lavoro.
+
+• D.LGS 81/2008 e D.LGS 106/09 (Norme in materia di tutela della salute e della sicurezza nei luoghi di lavoro)
+
+• INTRODUCE OBBLIGO DI PROGETTARE IL SISTEMA DI SICUREZZA AZIENDALE EFFETTUANDO LA VALUTAIZONE DEI RISCHI
+
+• Altre norme specifiche (edilizia scolastica, prevenzione incendi, primo soccorso….)
+
+DS Danilo Vicca
+
+Responsabilità per l’esercizio di attività pericolose
+
+3
+
+L’articolo 2 del Testo Unico «definizioni»:
+
+Il servizio di prevenzione protezione dei rischi (SPP) è l’insieme delle persone sistemi e mezzi finalizzati all’attività di prevenzione e protezione:
+
+• Il datore di lavoro ovvero il soggetto titolare del rapporto di lavoro con il lavoratore che nelle pubbliche amministrazioni è il dirigente con poteri di gestione ovvero il funzionario non avente qualifica dirigenziale. L’azienda intesa come complesso della struttura organizzativa diretta dal datore di lavoro pubblico privato.
+
+• Il responsabile del servizio di prevenzione e protezione (RSPP) cioè la persona in possesso di requisiti professionali indicati nell’articolo 32 designata dal datore di lavoro per coordinare il servizio di prevenzione e protezione dai rischi. Ricordiamo che la sua designazione non equivale a delega di funzioni e non esonera il datore di lavoro dalla responsabilità in caso di infortunio.
+
+• Il dirigente ovvero la persona che attua le direttive del datore di lavoro organizzando l’attività lavorativa e vigilando su di essa.
+
+• Il preposto ovvero la persona che sovrintende all’attività lavorativa e garantisce l’attuazione delle direttive ricevute da parte dei lavoratori.
+
+• il lavoratore, ovvero la persona che svolge attività lavorativa nell’ambito dell’organizzazione, tra l’altro gli allievi degli istituti di istruzione e universitari sono equiparati ai lavoratori quando facciano uso dei laboratori. Ricordiamo che però gli alunni non vengono numericamente computati ai fini degli obblighi correlati al numero dei lavoratori addetti all’azienda o all’ufficio. Equiparazione degli studenti ai lavoratori nell’uso dei laboratori e delle officine,.
+
+DS Danilo Vicca
+
+IL DATORE DI LAVORO (Art. 2, c.1, lett. b - D.lgs. 81/2008) Nelle pubbliche amministrazioni \[…\] per datore di lavoro si intende il dirigente al quale spettano i poteri di gestione, ovvero il funzionario non avente qualifica dirigenziale, nei soli casi in cui quest’ultimo sia preposto ad un ufficio avente autonomia gestionale, individuato dall’organo di vertice delle singole amministrazioni tenendo conto dell’ubicazione e dell’ambito funzionale degli uffici nei quali viene svolta l’attività, e dotato di autonomi poteri decisionali e di spesa. In caso di omessa individuazione, o di individuazione non conforme ai criteri sopra indicati, il datore di lavoro coincide con l’organo di vertice medesimo OBBLIGHI DEL DATORE DI LAVORO NON DELEGABILI (Art. 17 - D.lgs. 81/2008)
+
+• La valutazione di tutti i rischi con la conseguente elaborazione del documento di valutazione dei rischi
+
+• La designazione del responsabile del servizio di prevenzione e protezione dai rischi
+
+RSPP Il ruolo di RSPP può essere esercitato direttamente dal datore fino a 200 dipendenti. In caso di numero superiore (o se il DS non intenda svolgere la funzione personalmente), si provvede ad affidamento come da procedura indicata all’art. 32 del TU, attraverso reperimento di professionalità interne alla scuola, interne ad altre scuole, convenzioni (EELL), liberi professionisti esterni, con contratto di prestazione d’opera.
+
+4
+
+• Addetto al servizio di prevenzione protezione(ASPP), persona facente parte del servizio. L'Addetto al Servizio di Prevenzione e Protezione è colui che aiuta il Responsabile del Servizio di Prevenzione e Protezione (RSPP) a svolgere le attività che riguardano la sicurezza dell'azienda. A seconda delle esigenze e della struttura aziendale, ne possono essere nominati dal Datore di Lavoro uno o più.
+
+• Medico competente, che collabora con il datore di lavoro ai fini della valutazione dei rischi ed è nominato dallo stesso per effettuare la sorveglianza sanitaria.
+
+• La sorveglianza sanitaria è l’insieme degli atti medici finalizzati alla tutela dello stato di salute E sicurezza dei lavoratori.
+
+• Il rappresentante dei lavoratori per la sicurezza (RLS) è la persona eletta o designata per rappresentare i lavori per quanto concerne gli aspetti della salute la sicurezza durante il lavoro. È eletto o designato dalla RSU.
+
+• Addetti alle emergenze
+
+DS Danilo Vicca
+
+Gli ASPP sono solitamente i referenti di plesso (dirigenti nel TU). Non c’è un numero prescritto, ma è bene che sia adeguato a mantenere il presidio costante e la piena copertura di orario.
+
+Gli addetti al primo soccorso ricevono una formazione di 12 ore sui contenuti di cui al DM Ministro Salute 388 del 2003. Nella classificazione stilata dal Ministero della Sanità, le scuole sono a rischio primo soccorso B.
+
+Gli addetti antincendio ricevono una formazione di 8 ore con aggiornamento di 5 ore ogni 3 anni. Le scuole sono considerate, a livello di pericolo incendio, a rischio medio.
+
+L’individuazione del medico competente, per avviso pubblico, avviene solo se dal DVR emergano situazioni di sorveglianza sanitaria da garantire: rischio chimico, biologico, videoterminalisti con più di 20 ore di esposizione a settimana, movimentazione carichi, ecc.)
+
+consegnare tempestivamente a RLS copia del documento valutazione rischi (DVR) anche su supporto informatico, elaborare il documento, comunicare in via telematica all’Inail entro quarantott’ore dalla ricezione del certificato medico, ai fini statistici e informativi, i dati e le informazioni relativi agli infortuni sul lavoro che comportino l’assenza di almeno un giorno, escluso quello dell’evento. Comunicare ai fini assicurativi quelli relativi agli infortuni sul lavoro che comportino un’assenza dal lavoro superiore ai tre giorni.
+
+5
+
+Addetti emergenze
+
+• designazione preventiva dei lavoratori incaricati
+
+• dell’attuazione delle misure di prevenzione incendi, lotta antincendio,
+
+• evacuazione dei luoghi di lavoro in caso di pericolo,
+
+• primo soccorso e gestione dell’emergenza.
+
+Nell’affidare i compiti ai lavoratori tenere conto delle capacità e delle condizioni degli stessi in rapporto alla loro salute e alla sicurezza, fornire ai lavoratori i dispositivi di protezione individuale sentito il parere del responsabile del servizio di prevenzione protezione ed il medico competente, ove presente. Le nomine devono avvenire in forma scritta con riscontro di ricevuta. Non è rifiutabile salvo oggettivo impedimento.
+
+5
+
+Il Servizio di Prevenzione e Protezione
+
+PROVVEDE
+
+b)ALLA VALUTAZIONE DEI RISCHI c)
+
+ALL’INDIVIDUAZIONE DELLE MISURE PER LA SICUREZZA E LA SALUBRITA’ NEI LUOGHI DI LAVORO
+
+Nel rispetto della normativa vigente, sulla a) ALL’ACCERTAMENTO DEI FATTORI
+
+DI RISCHIO
+
+base della specifica conoscenza dell’organizzazi one aziendale
+
+DS Graziella Bianco docentinforma@gmail.com 6
+
+SERVIZIO PREVENZIONE E PROTEZIONE Provvede:
+
+• all'individuazione dei fattori di rischio
+
+• alla valutazione dei rischi
+
+• all'individuazione delle misure per la sicurezza e la salubrità degli ambienti di lavoro
+
+• a elaborare, per quanto di competenza, le misure preventive e protettive
+
+• ad elaborare le procedure di sicurezza
+
+• a proporre i programmi di informazione e formazione dei lavoratori
+
+6
+
+RICAPITOLANDO: Quali sono gli obblighi del DS?
+
+• All’art. 17 del D. Lgs. 81/08 vengono riportati gli obblighi del datore di lavoro in materia di sicurezza non delegabili (valutazione rischi e nomina RSPP):
+
+• All’art. 18 del D. Lgs. 81/08 vengono riportati gli obblighi del datore di lavoro:
+
+• Costituire il Servizio di Prevenzione e Protezione (SPP);
+
+• Nominare il Responsabile del Servizio di Prevenzione e Protezione (RSPP); se necessario, il Medico competente (MC); gli addetti alla gestione delle emergenze;
+
+• Effettuare la valutazione dei rischi e redigere il DVR (R=PxD);
+
+• Valutare tutti i rischi dovuti alle interferenze tra le attività scolastiche, le ditte e tutti i soggetti esterni chiamati a svolgere lavori nella scuola;
+
+• consegnare tempestivamente a rappresentante dei lavoratori per la sicurezza copia del documento valutazione rischi (DVR)
+
+• Comunicazioni INAIL (RLS e infortuni)
+
+• Organizzare e gestire le situazioni d’emergenza:
+
+✓ Effettuare almeno una riunione annuale di prevenzione e protezione, 2 prove di evacuazione; ✓ Informare, formare ed addestrare tutti i lavoratori, gli allievi equiparati, i preposti e i dirigenti in materia di sicurezza
+
+sul lavoro; ✓ Assicurare la formazione e l’aggiornamento delle figure interne preposte alla sicurezza e all’emergenza ✓ Fornire DPI ✓ Assicurare sorveglianza sanitaria (se necessario)
+
+DS Danilo Vicca
+
+Designazione preventiva dei lavoratori incaricati dell’attuazione delle misure di prevenzione incendi, lotta antincendio, evacuazione dei luoghi di lavoro in caso di pericolo, primo soccorso e gestione dell’emergenza. Nell’affidare i compiti ai lavoratori tenere conto delle capacità e delle condizioni degli stessi in rapporto alla loro salute e alla sicurezza, fornire ai lavoratori i dispositivi di protezione individuale sentito il parere del responsabile del servizio di prevenzione protezione ed il medico competente, ove presente.
+
+Consegnare tempestivamente a rappresentante dei lavoratori per la sicurezza copia del documento valutazione rischi (DVR) anche su supporto informatico, elaborare il documento,
+
+Comunicare in via telematica all’Inail entro quarantott’ore dalla ricezione del certificato medico, ai fini statistici e informativi, i dati e le informazioni relativi agli infortuni sul lavoro che comportino l’assenza di almeno un giorno, escluso quello dell’evento. Comunicare ai fini assicurativi quelli relativi agli infortuni sul lavoro che comportino un’assenza dal lavoro superiore ai tre giorni. Comunicare in via telematica all’Inail l’eventuale nuova designazione o elezione dei nominativi dei rappresentanti dei lavoratori per la sicurezza,
+
+7
+
+vigilare affinché i lavoratori per i quali vige l’obbligo di sorveglianza sanitaria non siano adibiti alle mansioni lavorative specifiche senza il prescritto giudizio di idoneità.
+
+Per quanto riguarda gli obblighi di informazione formazione previsti dall’articolo 36 il datore di lavoro deve provvedere ad un’adeguata informazione sui rischi per la salute la sicurezza, sulle procedure che riguardano il primo soccorso, la lotta antincendio e l’evacuazione dei luoghi di lavoro, sui nominativi del responsabile e degli addetti del servizio di prevenzione e protezione. È necessario anche fornire adeguata informazione sui rischi specifici e sui pericoli connessi all’uso di sostanze e preparati pericolosi. Per quanto riguarda le attività di formazione la normativa prevede uno specifico numero di ore di formazione generale e specifica, e periodici aggiornamenti.
+
+Formazione studenti Studenti equiparati a lavoratori Gli studenti sono equiparati a lavoratori, dunque vannoinformati, formati e addestrati così come previsto dagli articoli 36 e 37del DLgs 81/08 Testo Unico Sicurezza Il Datore di lavoro (istituto scolastico e azienda che ospita) ha un debito di sicurezzanei confronti dello studente in Alternanza scuola lavoro: l’Istituto scolastico deve fornire allo studente la Formazione Generale di 4 ore L’Aziendache ospita deve fornire allo studente la Formazione Specifica di 4, 8 o 12 ore (in base al livello di rischio dell’attività: basso, medio e alto). La scuola deve fornire allo studente anche la Formazione Specifica, che in genere è di 4 ore, come attività a basso rischio, e riguarda i rischi specifici dell’istituto e delle attività scolastiche degli studenti: la frequenza in aula, i momenti di ricreazione, la frequenza di laboratori, la frequenza di palestre e impianti sportivi. La formazione specifica fornita dalla scuola può non essere sufficiente per colmare il debito di sicurezza dello studente che viene ospitato in azienda per l’Alternanza Scuola Lavoro. Per esempio: se lo studente ha frequentato la formazione specifica a basso rischio di 4 ore e nell’azienda ospitante sarà coinvolto in attività ad alto rischio (es. officine meccaniche, edilizia, chimica, sanità) sarà necessario fornire allo studente la formazione specifica adeguata, ad alto rischio di 12 ore.
+
+7
+
+Riunione periodica (Art. 35 - D.lgs. 81/2008)
+
+• datore di lavoro è tenuto a indire almeno una riunione periodica l’anno alla quale partecipano anche il responsabile del servizio di prevenzione protezione, il medico competente ove nominato, il rappresentante dei lavoratori per la sicurezza.
+
+• Nel corso della riunione il datore sottopone all’esame dei partecipanti il documento valutazione rischi, l’andamento degli infortuni e delle malattie professionali e della sorveglianza sanitaria, i criteri di scelta dei dispositivi di protezione individuale, i programmi di informazione e formazione.
+
+• La riunione ha luogo anche in occasione di eventuali significative variazioni delle condizioni di esposizione al rischio. Della riunione deve essere redatto un verbale.
+
+• Definizione di un cronoprogramma della sicurezza di massima
+
+• Ai sensi dell’articolo 17 il dirigente scolastico non può delegare:
+
+✓ la valutazione di tutti rischi
+
+✓ l’elaborazione del relativo documento previsto dall’articolo 28,
+
+✓ la designazione del RSPP.
+
+DS Danilo Vicca
+
+Si accerta che il DVR sia presente e disponibile in ogni plesso. Si verifica che sia aggiornato e rispondente allo stato della situazione rilevata nel sopralluogo. Deve avere data certa ed essere stato aggiornato annualmente e ogni volta che ve ne sia necessità per sopraggiunte cause di rischio.
+
+Si accerta la presenza di tutte le figure prescritte e, in caso si procede a sostituzione o integrazione. Ricordiamo che il RSPP è incarico annuale (salvo diversa delibera consiliare), il RLS è incarico triennale. Il SPP va convocato almeno una volta l’anno e ogni volta che si modifichino le condizioni di rischio. È opportuno verbalizzare le riunioni.
+
+Il diagramma di Gantt permette di calendarizzare la formazione, l’informazione alle figure coinvolte, ai lavoratori, agli studenti e ai genitori, le prove di evacuazione, la verifica del DVR e le riunioni periodiche.
+
+8
+
+Il DVR
+
+• Il documento di valutazione dei rischi individua le fonti di pericolo e i rischi presenti
+
+• Si basa sulla valutazione dei rischi che si effettua individuando i pericoli presenti e l’entità con cui incidono sulla sicurezza e sulla salute dei lavoratori.
+
+• Il documento di valutazione dei rischi deve contenere:
+
+✓ le procedure e le misure individuate per la messa in sicurezza e i soggetti coinvolti
+
+✓ Il responsabile del servizio di prevenzione e protezione (RSPP)
+
+✓ Il rappresentante dei lavoratori per la sicurezza (RLS)
+
+✓ Il medico competente
+
+✓ Le mansioni che espongono a rischi specifici
+
+✓ Il Piano di emergenza (D.M. 26/8/92) sul comportamento da tenere nel caso di una emergenza
+
+che comporti l’allontanamento dall’edificio scolastico.
+
+✓ Le prove di evacuazione (D.L.577/82). Nel corso delle stesse, deve essere verificata la “funzionalità
+
+del Piano di emergenza al fine di apportare gli eventuali correttivi
+
+• Il documento di valutazione dei rischi deve presentare la data certa in cui esso è stato redatto, controfirmata da tutti i soggetti preposti alla sua redazione.
+
+• È dinamico ovvero soggetto a verifiche e modifiche
+
+DS Danilo Vicca
+
+9
+
+Valutazione dei rischi (PxD=R)
+
+Valutazione globale e documentata di tutti i rischi per la salute e sicurezza dei lavoratori presenti nell'ambito dell'organizzazione, finalizzata ad individuare le adeguate misure di prevenzione e di protezione e ad elaborare il programma delle misure atte a garantire il miglioramento nel tempo dei livelli di salute e sicurezza
+
+PERICOLO: proprietà o qualità
+
+RISCHIO: probabilità di
+
+DANNO: lesione fisica alla intrinseca di un determinato
+
+raggiungimento del
+
+persona come conseguenza fattore (materiali, lavorazioni,
+
+livello potenziale di
+
+diretta o indiretta di attrezzature di lavoro, metodi e
+
+danno nelle condizioni di
+
+esposizione al pericolo pratiche di lavoro) avente il
+
+impiego o di esposizione potenziale di causare un danno
+
+ad un determinato fattore o agente oppure alla loro combinazione
+
+10
+
+10
+
+L’analisi dei rischi è effettuata seguendo un criterio semi- quantitativo basato su due fattori:
+
+❖· Probabilità che il rischio si trasformi in un danno per i lavoratori
+
+❖· Entità del danno che potrebbe verificarsi (Magnitudo).
+
+Nel definire la probabilità dell’avverarsi del danno si tiene conto di:
+
+\- registro infortuni aziendale
+
+\- dati bibliografici e dati rilevati da colloqui con i lavoratori
+
+\- parere dei lavoratori
+
+11
+
+11
+
+Obblighi dei lavoratori
+
+GENERALI SPECIFICI
+
+Nell’uso delle attrezzature Conformemente alla formazione, all’istruzione ed ai mezzi ricevuti, ciascun lavoratore DEVE prendersi cure della propria salute e sicurezza e di quella delle altre persone presenti nel luogo di lavoro su cui possono ricadere gli effetti delle sue azioni ed omissioni
+
+ciascun lavoratore DEVE - sottoporsi ai programmi di formazione e di addestramento organizzati dal datore di lavoro - usare le attrezzature di lavoro conformemente all'informazione, alla formazione e
+
+DS Graziella Bianco docentinforma@gmail.com
+
+12
+
+12
+
+Informazione, formazione, addestramento
+
+(Art. 2, c.1, lett. aa, bb, cc - D.lgs. 81/2008)
+
+Informazione: complesso delle attività dirette a fornire conoscenze utili alla identificazione, alla riduzione e alla gestione dei rischi in ambiente di lavoro
+
+Formazione: processo educativo attraverso il quale trasferire ai lavoratori ed agli altri soggetti del sistema di prevenzione e protezione aziendale conoscenze e procedure utili alla acquisizione di competenze per lo svolgimento in sicurezza dei rispettivi compiti in azienda e alla identificazione, alla riduzione e alla gestione dei rischi
+
+Addestramento: complesso delle attività dirette a fare apprendere ai lavoratori l'uso corretto di attrezzature, macchine, impianti, sostanze, dispositivi, anche di protezione individuale, e le procedure di lavoro
+
+13
+
+DS Danilo Vicca
+
+14
+
+Obblighi relativi agli interventi strutturali e di manutenzione
+
+• Gli interventi di manutenzione straordinaria ed ordinaria in materia di edilizia scolastica spettano all’ente locale, proprietario degli immobili (l’art. 3 della Legge 11 gennaio 1996 n. 23). Il Dirigente scolastico ha invece l’obbligo (D.lgs. 81/2008) di richiedere gli interventi necessari all’Ente locale competente.
+
+• si intendono assolti dal dirigente scolastico mediante la richiesta del loro adempimento all’amministrazione competente (Comune, Provincia Città metropolitana).
+
+• Bisogna distinguere le misure di tipo strutturale ed impiantistico di competenza dell’ente locale e gli adempimenti di tipo unicamente gestionale organizzativo che spettano invece all’amministrazione scolastica, come definito dalla Cassazione penale sezione III sentenza del 2016.
+
+DS Danilo Vicca
+
+Gli interventi di manutenzione straordinaria ed ordinaria in materia di edilizia scolastica spettano all’ente locale, proprietario degli immobili (l’art. 3 della Legge 11 gennaio 1996 n. 23). Il Dirigente scolastico ha invece l’obbligo (D.lgs. 81/2008) di richiedere gli interventi necessari all’Ente locale competente. Per le scuole dell’infanzia (dette anche più comunemente scuola materna) e per le primarie (o scuole elementari) e secondarie di primo grado (la precedente denominazione era scuola media), l’ente locale competente è il Comune; per le scuole secondarie di secondo grado (o scuole superiori) e per gli Istituti artistici, l’ente competente è la Provincia. I Comuni e le province hanno l’obbligo di occuparsi della manutenzione ordinaria degli edifici scolastici, di effettuare i lavori edilizi di una certa importanza, gli interventi strutturali e gli adeguamenti degli impianti elettrici, termici, ecc, nonché di rilasciare le certificazioni di idoneità, agibilità e conformità.
+
+I dirigenti dovranno effettuare le valutazioni ricorrendo alla valutazione del buon padre di famiglia Qualora i dirigenti, sulla base della valutazione svolta con la diligenza del buon padre di famiglia, rilevino la sussistenza di un pericolo grave e immediato, possono interdire parzialmente o totalmente l’utilizzo dei locali e degli edifici assegnati, nonché’ ordinarne l’evacuazione, dandone tempestiva comunicazione all’amministrazione tenuta, ai sensi delle norme o delle convenzioni vigenti, alla loro fornitura e manutenzione, nonché’ alla competente autorità di pubblica sicurezza. Nei casi di cui al periodo precedente non si applicano gli articoli 331, 340”(ovvero interruzione di pubblico servizio) e 658 del codice penale (procurato allarme).
+
+15
+
+DI 129 del 2018 Art. 39. Manutenzione degli edifici scolastici
+
+1\. Con riferimento agli edifici scolastici e alle loro pertinenze, le istituzioni scolastiche possono effettuare interventi di manutenzione ordinaria, previa delega dell’ente territoriale competente, nel rispetto di quanto previsto dall’articolo 3, comma 4, della legge 11 gennaio 1996, n. 23.
+
+2\. Anche al di fuori delle ipotesi di cui al comma precedente, le istituzioni scolastiche possono procedere all’affidamento di interventi, indifferibili ed urgenti, di piccola manutenzione e riparazione degli edifici scolastici e delle loro pertinenze, nella misura strettamente necessaria a garantire lo svolgimento delle attività didattiche. In tali casi, le istituzioni scolastiche anticipano i fondi necessari all’esecuzione degli interventi, dandone immediata comunicazione all’ente locale competente, ai fini del rimborso.
+
+3\. Le istituzioni scolastiche procedono all’affidamento di lavori e alla manutenzione degli immobili acquisiti con fondi derivanti da attività proprie, ovvero per effetto di eredità, legati e donazioni.
+
+4\. Le istituzioni scolastiche possono effettuare, con eventuali fondi propri e d’intesa con il proprietario, interventi di manutenzione straordinaria degli edifici scolastici e delle loro pertinenze.
+
+DS Danilo Vicca
+
+Art. 39 del DI 129/2018: La scuola può provvedere alla manutenzione ordinaria su delega dell’ente locale. Può effettuare manutenzione straordinaria con fondi propri e di intesa con l’ente locale. Per gli interventi urgenti ed indifferibili per garantire lo svolgimento delle attività didattiche, la scuola anticipa e dà immediata comunicazione all’ente locale per il rimborso. Ciò vale anche per la piccola manutenzione e riparazioni.
+
+16
+
+Recentemente: Decreto legge146/2021 art. 13-bis (L. 251 del 2021):
+
+“I dirigenti delle istituzioni scolastiche sono esentati da qualsiasi responsabilità civile, amministrativa e penale qualora abbiano tempestivamente richiesto gli interventi strutturali e di manutenzione, necessari per assicurare la sicurezza dei locali e degli edifici assegnati, adottando le misure di carattere gestionale di propria competenza nei limiti delle risorse disponibili a legislazione vigente.”
+
+DS Danilo Vicca
+
+DVR Congiunto (Stallo contrattuale)
+
+Consiglio Superiore della Pubblica Istruzione Parere sullo schema di decreto interministeriale recante le modalità di valutazione congiunta dei rischi connessi agli edifici scolastici, ai sensi dell'articolo 18, comma 3.2, del decreto legislativo 9 aprile 2008, n. 81 approvato nella seduta plenaria n. 82 del 07/04/2022
+
+il presente decreto regola la valutazione congiunta dei rischi ai sensi di quanto disposto dall’art. 18 comma 3.2 del decreto legislativo, come introdotto dall’art. 13- bis, comma 1, del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215.
+
+. La valutazione congiunta dei rischi avviene, di norma, entro il termine del mese di settembre di ciascun anno scolastico, su iniziativa del dirigente scolastico, il quale invita l’Amministrazione a procedere in contraddittorio alla valutazione dei rischi. Il dirigente scolastico è assistito, nella valutazione congiunta, dal RSPP. All’esito della valutazione congiunta, l’Amministrazione, acquisite le dichiarazioni del dirigente scolastico, redige un verbale concernente i rischi rilevati sulle strutture e sugli impianti e comunica al dirigente scolastico, entro 15 giorni dalla valutazione un
+
+17
+
+cronoprogramma circa gli interventi che l’Amministrazione medesima attuerà per ridurre o eliminare i rischi emersi. Il verbale e il cronoprogramma esito dellavalutazione, trasmessi formalmente al dirigente scolastico, sono parte integrante del Documento di Valutazione dei Rischi.
+
+17
+
+Schema di decreto interministeriale Articolo 3 (Modalità di valutazione congiunta dei rischi connessi agli edifici scolastici)
+
+• C 4 La valutazione congiunta dei rischi avviene, di norma, entro il termine del mese di settembre di ciascun anno scolastico, su iniziativa del dirigente scolastico, il quale invita l’Amministrazione a procedere in contraddittorio alla valutazione dei rischi. Il dirigente scolastico è assistito, nella valutazione congiunta, dal RSPP. All’esito della valutazione congiunta, l’Amministrazione, acquisite le dichiarazioni del dirigente scolastico, redige un verbale concernente i rischi rilevati sulle strutture e sugli impianti e comunica al dirigente scolastico, entro 15 giorni dalla valutazione un cronoprogramma circa gli interventi che l’Amministrazione medesima attuerà per ridurre o eliminare i rischi emersi. Il verbale e il cronoprogramma esito dell’avalutazione, trasmessi formalmente al dirigente scolastico, sono parte integrante del Documento di Valutazione dei Rischi.
+
+DS Danilo Vicca
+
+18
+
+Articolo 3 (Modalità di valutazione congiunta dei rischi connessi agli edifici scolastici)
+
+• C. 5. Nel caso in cui non si addivenga alla valutazione congiunta dei rischi nei tempi e secondo le modalità ordinarie di cui al precedente comma 4, il dirigente scolastico segnala in via formale all’Amministrazione i rischi connessi agli edifici scolastici, per quanto autonomamente rilevabili con l’assistenza del RSSP. L’Amministrazione, entro il termine di trenta giorni dal ricevimento della segnalazione del dirigente scolastico, provvede alla verifica dello stato dei luoghi interessati ed alla conseguente valutazione, previo sopralluogo presso gli edifici scolastici cui la valutazione stessa si riferisce. La valutazione dei rischi all'esito operata è trasmessa dall’Amministrazione al dirigente scolastico affinché acceda, formandone parte integrante, al Documento di Valutazione dei Rischi sottoscritto dal dirigente scolastico.
+
+DS Danilo Vicca
+
+19
+
+Responsabilità del DS
+
+• Si deve procedere senza indugio a formali segnalazioni di carenze documentali e situazioni non a norma all’EL proprietario.
+
+• Si richiede l’invio della documentazione mancante relativa all’edificio e agli impianti (PEC):
+
+✓ CPI (certificato prevenzione incendi). Certificato di agibilità e destinazione d’uso (compete alll’EL ma il DS è tenuto a chiederlo)
+
+✓ Certificato di abitabilità (DPR 425 del 1994 art. 4)
+
+✓ Dichiarazione di conformità ai sensi della Legge 46/90 degli impianti elettrici installati o modificati dopo 01.03.92 a firma di tecnico abilitato
+
+✓ Certificato di collaudo impianto termico;
+
+✓ Certificati di collaudo degli ascensori e montacarichi, della rete idrica antincendio, delle scale esterne d’emergenza;
+
+✓ Dichiarazione di conformità dell’impianto di protezione contro le scariche atmosferiche e verbali di verifica biennale.
+
+✓ Dichiarazione di conformità dell’impianto di messa a terra (D.P.R. n.462/2001) e verbali di verifica biennale;
+
+✓ Dichiarazione di conformità impianto di riscaldamento ai sensi della L. 46/90 per impianti costruiti dopo il 5.3.90 e verbali di verifica periodica eseguiti da ASL
+
+con data non antecedente a 5 anni;
+
+✓ Certificato di idoneità igienico-sanitaria (D.P.R. n.303/1956 e D.M. del 18.12.1975)
+
+✓ Certificato relativo al censimento dell’amianto (Legge n. 257/92);
+
+• In caso di inerzia si procede con formale diffida verso tutte le amministrazioni coinvolte, con invio contestuale all’Autorità di pubblica sicurezza (in casi di totale silenzio, ma sempre meglio curare il rapporto con l’EL).
+
+DS Danilo Vicca
+
+Verifica, con la consulenza e l’assistenza del RSPP e del DSGA, della documentazione tecnica di competenza dell’EL: -CPI (certificato prevenzione incendi). Certificato di agibilità e destinazione d’uso (compete alll’EL ma il DS è tenuto a chiederlo) -Certificato di abitabilità (DPR 425 del 1994 art. 4) -Dichiarazione di conformità ai sensi della Legge 46/90 degli impianti elettrici installati o modificati dopo 01.03.92 a firma di tecnico abilitato -Certificato di collaudo impianto termico; -Certificati di collaudo degli ascensori e montacarichi, della rete idrica antincendio, delle scale esterne d’emergenza; -Dichiarazione di conformità dell’impianto di protezione contro le scariche atmosferiche e verbali di verifica biennale. -Dichiarazione di conformità dell’impianto di messa a terra (D.P.R. n.462/2001) e verbali di verifica biennale; -Dichiarazione di conformità impianto di riscaldamento ai sensi della L. 46/90 per impianti costruiti dopo il 5.3.90 e verbali di verifica periodica eseguiti da ASL con data non antecedente a 5 anni; -Certificato di idoneità igienico-sanitaria (D.P.R. n.303/1956 e D.M. del 18.12.1975) -Certificato relativo al censimento dell’amianto (Legge n. 257/92);
+
+\- Planimetriacon annessa destinazione d’uso dei locali dell’istituto. Necessaria anche per la predisposizione della segnaletica e del piano di emergenza.
+
+20
+
+Massimo affollamento
+
+• Decreto ministeriale del 1992 “norme per la prevenzione incendi”, massimo affollamento deve essere di 26 persone.
+
+• DPR 81/2009 sulla formazione delle classi: possibilità di arrivare anche a 30 studenti.
+
+✓ Scuola n° minimo n° massimo elevabile a: ✓ Infanzia 18 26 29 ✓ Primaria 15 26 27 ✓ Sec. I gr. 18 27 28 ✓ Sec. II gr. 27 30 ==
+
+• Il TAR è intervenuto affermando che le disposizioni costituiscono previsioni tecniche (può non essere osservato previa dichiarazione del dirigente scolastico).
+
+• La valutazione del numero 26 deve essere calcolato come massimo affollamento ai fini della conformità delle vie d’esodo ma può anche essere un numero medio definito in base al numero complessivo delle classi e il numero medio degli alunni per classe.
+
+DS Danilo Vicca
+
+Affrontiamo infine brevemente la questione della determinazione delle classi del numero degli alunni per classe la cui normativa risale al decreto ministeriale del 1992 “norme per la prevenzione incendi”, che stabilisce che per assicurare le corrette misure di evacuazione il numero massimo di persone per aula il cosiddetto massimo affollamento deve essere di 26 persone. Come noto tale previsione contrasta con le previsioni relative alla formazione delle classi indicate dal DPR 81 sulla formazione delle classi che prevede la possibilità di arrivare anche a 30 studenti. Il TAR è intervenuto affermando che le disposizioni costituiscono previsioni tecniche da tenere conto in caso di emergenza ma vanno interpretate in correlazione tra loro. Quindi non si tratta di una prescrizione organizzativa in altri termini questo parametro può non essere osservato previa dichiarazione del dirigente scolastico. La valutazione del numero 26 deve essere calcolato come massimo affollamento ai fini della conformità delle vie d’esodo ma può anche essere un numero medio definito in base al numero complessivo delle classi e il numero medio degli alunni per classe. Il decreto prevede che il numero di uscite per ogni piano non sia inferiore a due, poste in punti ragionevolmente contrapposti, e che la larghezza delle vie d’esodo sia multipla del modulo di uscita (60 cm) e non inferiore a due moduli (120 cm).
+
+21
+
+La capacità di deflusso non può superare 60 unità per modulo. Ad esempio: il piano dispone di due porte di uscita da 120 (quattro moduli da 60). Se ho 191 studenti al piano la capacità di deflusso equivale a 190 ÷ 4 = 47,75 quindi inferiore a 60.
+
+inoltre il decreto ministeriale del 75 sull’edilizia scolastica stabilisce che ogni alunno debba disporre di Almeno 1 80, elevato a 1, 96 Metro cubo per garantire le condizioni igienico sanitarie. Soffitti alti 3 m.si tratta di normative necessarie all’ottenimento del certificato prevenzione incendi, quindi inderogabili per l’edilizia di nuova costruzione.
+
+21
+
+Responsabilità del DS
+
+• Verifica del Piano di emergenza, relative planimetrie (piano evacuazione e primo soccorso) e cartellonistica e predisposizione della verifica periodica (ormai giornaliera\!) dei sistemi antincendio (vie esodo e uscite emergenza)
+
+• Registro dei controlli periodici di impianti e sistemi antincendio, delle vie di esodo e delle uscite di emergenza;
+
+• Tenuta del registro delle prove di evacuazione con verbali attestanti le due prove di evacuazione effettuate nell’anno scolastico
+
+• Cura della documentazione attestante la verifica di estintori (semestrale), idranti, porte tagliafuoco, uscite d’emergenza, gruppo pompe antincendio, con compilazione del relativo registro;
+
+• Acquisisce i verbali di consegna DPI ai lavoratori
+
+• Redazione dell’informativa e schede di sicurezza relative agli agenti chimici presenti nella scuola (prodotti di pulizia, o altre sostanze chimiche presenti, rilasciate dal produttore);
+
+DS Danilo Vicca
+
+La verifica va effettuata annualmente (e periodicamente) .Si accerta la presenza e lo stato della segnaleticaindicante i percorsi di fuga.
+
+Si aggiorna il funzionigrammache individua le persone coinvolte (alunni aprifila, chiudifila, docenti incaricati non più presenti). Si inseriscono nel registro di classe le schede per la verbalizzazione delle prove da compilare una volta raggiunto il punto di raccolta e da consegnare ai coordinatori dell’evacuazione. Della verifica periodica (dei sistemi antincendio (vie esodo e uscite emergenza) si possono incaricare gli ASPP e gli addetti antincendio.
+
+Dato il mancato adeguamento alla normativa antincendio fissato al 31/12/17 il DM 21/03/18 e successiva nota VVFF riportano un elenco di misure per garantire il maggior grado di sicurezza possibile: -aumentare il numero degli incaricati, -potenziare la formazione e l’informazione, -aumentare le prove di evacuazione -presidiare le vie d’esodo.
+
+È opportuno diversificare le prove di evacuazione (incendio, sisma, inondazione). Alle prove partecipano tutti i presenti nell’istituto al momento del segnale di pericolo. Il coordinatore raccoglie le schede nei punti di raccolta. Alcuni uffici scolastici richiedono copia dei verbali.
+
+22
+
+Acquisizione del verbale controfirmato di consegna dei DPI (dispositivi di protezione individuale: mascherine, scarpe antisdrucciolo, guanti, etc) ai lavoratori e relativa informazione/formazione;
+
+I DPI riguardano solitamente il personale ATA (guanti, mascherina, scarpe antiscivolo). È necessario compilare un verbale di consegna. Vi è l’obbligo di vigilanza sull’uso dei dispositivi in capo al DS. MONITORARE IL CORRETTO UTILIZZO DEI DPI
+
+effettuare il censimento, prevedere DPI, informare preventivamente sulle modalità d’uso, conservare in armadietto ambienti chiusi, accessibili solo agli autorizzati (segnaletica di pericolo) prevedere sorveglianza sanitaria.
+
+22
+
+La sicurezza nelle mense scolastiche
+
+• Organi preposti alla tutela della salute ed all’igiene: Aziende Sanitarie e NAS (Nucleo Anti- Sofisticazioni) hanno il compito di effettuare periodici sopralluoghi in locali destinati alla preparazione e somministrazione degli alimenti.
+
+• Commissione mensa (composta da rappresentanti dei genitori e del personale scolastico) controlla lo svolgimento del servizio, il rispetto della normativa igienico-sanitaria (con sopralluoghi nei centri di cottura e nei refettori) , il grado di soddisfazione dei bambini, valutando se il servizio risponde alle loro esigenze.
+
+• All’inizio dell’anno scolastico, i genitori possono comunicare alla dirigenza scolastica, tramite il referente della Commissione Mensa, la volontà di entrare a far parte della commissione.
+
+• Cosa controllare durante i sopralluoghi in mensa: pulizia e igiene, dispositivi del personale addetto alla mansa, grammature, temperature delle vivande, diete speciali, comfort durante il consumo del pasto (affollamento, rumore, ecc.)
+
+DS Danilo Vicca
+
+23
+
+Norme specifiche
+
+• Videoterminali: articolo 175 TU stabilisce che il lavoratore ha diritto a un’interruzione della sua attività mediante pausa di 15 minuti ogni 120 minuti di applicazione continuativa al videoterminale (è prevista periodica sorveglianza sanitaria).
+
+• Valutazione dei rischi da stress lavoro correlato ovvero condizione che può essere accompagnata da disturbi di natura fisica psicologico sociale ed è conseguenza del fatto che taluni individui non si sentono in grado di corrispondere alle richieste o aspettative riposte in loro.
+
+• La valutazione del rischio prende in esame non singoli ma gruppi omogenei di lavoratore che risultino esposti a rischi dello stesso tipo ad esempio turnisti o che svolgano la medesima mansione. La valutazione si articola in due fasi, una necessaria e preliminare l’altra eventuale da attivare nel caso in cui la valutazione preliminare riveli elementi di rischio da stress. La valutazione dello stress lavoro correlato e adempimento non è delegabile da parte del datore di lavoro.
+
+• DUVRI (documento unico di valutazione dei rischi da interferenze): deve essere redatto il momento in cui si verifica un’interferenza ovvero un contatto rischioso tra il personale del committente e quello dell’appaltatore o tra il personale di imprese diverse che operano nella stessa azienda con contratti differenti.
+
+• Il DUVRI si stila solo quando la scuola è committente diretto di lavori che possono comportare interferenza (acquisizione di servizi come pulizie esternalizzate, lavori con durata media annua di 5 giorni-uomo, bar o ristoro). Non si stila DUVRI per mere forniture o prestazioni intellettuali.
+
+DS Danilo Vicca
+
+La periodicità delle visite mediche, salvo indicazione diversa del Medico Competente, è ogni 2 anni per i lavoratori che hanno ricevuto un giudizio d’idoneità con prescrizioni o con limitazioni e per i lavoratori con età superiore ai 50 anni; in tutti gli altri casi la cadenza delle visite è ogni 5 anni.
+
+La Sorveglianza Sanitaria per i lavoratori al videoterminale è attuata dal Medico Competente, prioritariamente con riferimento ai disturbi oculo-visivi e ai disturbi muscoloscheletrici della colonna vertebrale e del sistema spalla-braccio-avambraccio-mano; secondariamente, con attenzione all’affaticamento mentale e allo stress lavoro-correlato le cui ripercussioni coinvolgono i sistemi neuropsichico, cardiocircolatorio, gastrointestinale e immunologico, come suffragato da numerose evidenze scientifiche.
+
+La postazione I requisiti sono stabiliti da un apposito allegato del testo unico per la salute e la sicurezza sul lavoro. Schermo Lo schermo del computer deve essere di dimensioni congrue per una buona visibilità, il lavoratore deve poter regolare la luce ed il contrasto tra sfondo dello schermo e caratteri, e orientarlo ed inclinarlo in base alle sue esigenze: possono essere utilizzati appositi sostegni per lo schermo o piani regolabili. Lo schermo deve essere posizionato in modo che lo spigolo superiore dello schermo sia posto leggermente più in basso dell’orizzontale che passa per gli occhi del lavoratore, e ad
+
+24
+
+una distanza di 50-70 cm dagli occhi per la postazione dedicata ai lavoratori che trascorrono la maggior parte del tempo seduti. Tastiera Deve essere regolabile in pendenza per evitare l’affaticamento delle braccia e delle mani, deve essere opaca per evitare i riflessi. Piano di lavoro L’altezza prescritta è compresa tra i 70 e gli 80 cm, la profondità deve essere tale da garantire la libertà di movimento e l’utilizzo agevole di mouse, tastiera ed eventuali documenti. Sedia Il lavoratore deve essere comodo e libero di muoversi. La seduta deve essere regolabile in altezza e per inclinazione dello schienale, che deve assicurare un adeguato supporto dorso-lombare, e girevole per assecondare i movimenti del lavoratore. il lavoratore che ne abbia bisogno, ha a disposizione un poggiapiedi.
+
+La valutazione stress da lavoro correlato è obbligatoria (TU e circolare Min. Lavoro e politiche sociali 2010). Si articola in due fasi (preliminare e, ove necessario, approfondita), mediante tabelle con indicatori oggettivi e verificabili differenziati per tipologia di attività (docenti e ATA). Si effettua con cadenza annuale. Il DUVRI si stila solo quando la scuola è committente diretto di lavori che possono comportare interferenza (acquisizione di servizi come pulizie esternalizzate, lavori con durata media annua di 5 giorni-uomo, bar o ristoro). Non si stila DUVRI per mere forniture o prestazioni intellettuali.
+
+D. Lgs. 81/08). In pratica resta l’obbligo di redazione del DUVRI solo per gli appalti e le commissioni che comportano una attività lavorativa all’interno dell’Istituzione Scolastica superiore a due giorni come:
+
+\- mense autogestite - pulizie in appalto - attività di pre e post scuola - bar - installazioni di laboratori
+
+24
+
+Cosa sono gli infortuni?
+
+Infortunio: evento dannoso che si verifica in occasione di lavoro per una causa violenta e che pregiudica, temporaneamente o permanentemente, la capacità lavorativa.
+
+Rischi per la sicurezza:
+
+Rischi per la sicurezza legati a danni acuti e
+
+→Strutture (scale, pareti, fatti esterni che
+
+aperture ecc.) agiscono rapidamente
+
+→Macchine, sulla persona e
+
+apparecchiature, costituiscono un nesso
+
+attrezzature di causa/effetto con la
+
+→Mezzi di trasporto lesione.
+
+→Sostanze pericolose →Impianti elettrici →Incendi, esplosioni
+
+25
+
+Assicurazione obbligatoria contro gli infortuni e le malattie professionali
+
+E' obbligatoria l'assicurazione contro gli infortuni sul lavoro (INAIL è l’Ente assicuratore)
+
+L'assicurazione comprende tutti i casi di infortunio avvenuti per causa violenta in occasione di lavoro, da cui sia derivata la morte o un'inabilità permanente al lavoro, assoluta o parziale, ovvero un'inabilità temporanea assoluta che importi l'astensione dal lavoro per più di tre giorni
+
+26
+
+D.P.R. 1124/65 T.U. delle disposizioni per l’assicurazione contro gli infortuni e le malattie professionali 1. È obbligatoria l'assicurazione contro gli infortuni sul lavoro delle persone le quali, nelle condizioni previste dal presente titolo, siano addette a macchine mosse non direttamente dalla persona che ne usa, ad apparecchi a pressione, ad apparecchi e impianti elettrici o termici, nonché delle persone comunque occupate in opifici, laboratori o in ambienti organizzati per lavori, opere o servizi, i quali comportino l'impiego di tali macchine, apparecchi o impianti. 2. L'assicurazione comprende tutti i casi di infortunio avvenuti per causa violenta in occasione di lavoro, da cui sia derivata la morte o un'inabilità permanente al lavoro, assoluta o parziale, ovvero un'inabilità temporanea assoluta che importi l'astensione dal lavoro per più di tre giorni.
+
+La sorveglianza sanitaria dei lavoratori (D.Lgs. 81/2008, art. 41)
+
+• La sorveglianza sanitaria è finalizzata alla tutela dello stato di salute del lavoratore in relazione ai rischi che comporta la mansione specifica che egli svolge, ai rischi determinati dalle caratteristiche dell’ambiente di lavoro e ai rischi correlati a fattori individuali.
+
+• In base alle risultanze della sorveglianza sanitaria il MC rilascia un giudizio di idoneità o inidoneità alla mansione specifica che il lavoratore svolge o si accinge a svolgere. Il giudizio di idoneità è condizione inderogabile per svolgere la mansione lavorativa attribuita al lavoratore.
+
+DS Danilo Vicca
+
+27
+
+Le visite e gli accertamenti
+
+• Visita medica preventiva: intesa a constatare l’assenza di controindicazioni al lavoro cui il neoassunto è destinato al fine di valutare la sua idoneità alla mansione specifica. Si deve effettuare dopo l’assunzione ma prima di adibire il lavoratore alla mansione; per tale ragione può essere effettuata anche in fase pre-assuntiva.
+
+• Visita medica periodica: per controllare lo stato di salute del lavoratore e confermare il giudizio di idoneità alla mansione specifica. La periodicità, qualora non specificata dalla normativa, viene solitamente stabilita in una volta l’anno ma può assumere cadenza diversa a seconda del protocollo sanitario predisposto dal Medico Competente o di un provvedimento dell’Organo di vigilanza.
+
+• Visita medica in occasione del cambio della mansione: è diretta a verificare l’idoneità alla nuova mansione in considerazione della differente esposizione ai rischi.
+
+• Visita medica su richiesta del lavoratore: qualora sia ritenuta dal Medico Competente correlata ai rischi professionali o alle sue condizioni di salute, suscettibili di peggioramento a causa dell’attività lavorativa, al fine di rivalutare il giudizio di idoneità alla mansione specifica.
+
+• Visita medica precedente alla ripresa del lavoro: a seguito di assenza per motivi di salute di durata superiore ai 60 giorni continuativi, allo scopo di valutare il mantenimento dell’idoneità alla mansione specifica.
+
+• Visita medica alla cessazione del rapporto di lavoro: prevista solo nei casi in cui il lavoratore sia stato esposto ad agenti chimici pericolosi (in misura non irrilevante per la salute), ad agenti cancerogeni o mutageni, ad amianto, ad agenti biologici, a radiazioni ottiche, a radiazioni ionizzanti.
+
+DS Danilo Vicca
+
+28
+
+Tipologie di giudizio di idoneità:
+
+• Idoneità alla mansione specifica: non sussistono condizioni di salute compromesse che potrebbero trarre danno dall’espletamento della mansione lavorativa.
+
+• Idoneità parziale, temporanea o permanente, con prescrizioni o limitazioni: lo stato di salute del lavoratore gli permette di svolgere la sua mansione ad alcune condizioni che il Medico Competente definisce
+
+• Inidoneità temporanea. Significa che per le sue condizioni di salute, il lavoratore non può svolgere la mansione alla quale è adibito, ma solo per un certo periodo di tempo che il Medico Competente ha l’obbligo di indicare nel giudizio stesso.
+
+• Inidoneità permanente. Significa che a giudizio del Medico Competente, il lavoratore non è nelle condizioni di salute adatte a poter svolgere la mansione alla quale è adibito. In questo caso il datore di lavoro deve “ove possibile” destinare il dipendente ad altra mansione.
+
+DS Danilo Vicca
+
+29
+
+Inoltre…
+
+• Predisposizione della circolare sulla sicurezza e sorveglianza alunni
+
+• Controllo della cassetta di pronto soccorso, e affissione del relativo pittogramma;
+
+• Stesura del Protocollo somministrazione farmaci
+
+• Stesura del Regolamento interno sul divieto di fumo con relativi pittogrammi, verbali di accertamento e informativa;
+
+• Sollecitazione di progetti di educazione alla sicurezza nel PTOF
+
+• Predisposizione di un’area “sicurezza” sul sito istituzionale
+
+DS Danilo Vicca
+
+È opportuno diramare subito la circolare, una volta constatato lo stato dei luoghi e lei potenziali fonti di pericolo. Responsabilità (culpa) in organizzando del DS
+
+La cassetta deve rispettare i contenuti prescritti nel DM 388 del 2003. La verifica periodica può essere delegata all’Addetto al primo soccorso che deve richiedere eventuali integrazioni e sostituzioni. In ciascun plesso è utile prevedere più cassette. Almeno una in palestra e nei laboratori. Si deve prevedere un kit di primo soccorso per gli insegnanti accompagnatori degli studenti in attività esterne all’istituto. Ricordiamo che il defibrillatore non è obbligatorio nelle scuole. Il decreto Balduzzi del 2013 non ne prevede l’obbligo. Il MIUR nel DM 1028 del 2017 ha stanziato un finanziamento delle attrezzature sportive ammettendo il defibrillatore tra le attrezzature finanziabili.
+
+Stesura del Protocollo somministrazione farmaci Riferimento principale è il documento MIUR Ministero Salute del 25 novembre 2005 che rinvia a protocolli regionali. La richiesta deve essere inoltrata dalla famiglia con documentazione sanitaria e indicazioni complete relative alla somministrazione, alla posologia, alle modalità di conservazione. Il DS ha onere organizzatorio. Se non reperisce risorse interne o esterne disponibili, in ultima istanza informa il sindaco che si rivolge alla ASL tenuta a garantire assistenza sanitaria (sentenza
+
+30
+
+Cassazione).
+
+Il datore direttamente o avvalendosi di delegati vigila sull’osservanza del divieto e eleva contravvenzioni. Occorre disporre di verbali di accertamento e informative sulle modalità di pagamento. Le istituzioni scolastiche applicano la sanzione utilizzando il modulo di processo verbale e, per il pagamento, il modello F23 – codice tributo 131T (come previsto dall’accordo Stato Regioni del 16/12/2004, segnatamente punto 10 e punto 11) – causale del versamento “Infrazione al divieto di fumo” La sanzione amministrativa va da Euro 27,5 a Euro 275. La sanzione è raddoppiata in caso di violazione commessa in presenza di una donna in evidente stato di gravidanza o di lattanti o bambini fino a dodici anni (dunque da 55 a 550). È ammesso, entro il 60° giorno dalla contestazione immediata o, se questa non vi è stata, dalla notificazione degli estremi della violazione, il pagamento di una somma in misura ridotta pari alla terza parte del massimo della sanzione prevista o al doppio della sanzione minima, se più conveniente, per la violazione commessa, oltre al pagamento delle spese del procedimento (tipo raccomandate RR). Pertanto, il pagamento in forma ridotta consiste in 55 Euro (doppio di 27,5, più conveniente di un terzo di 275) o, se si incorre nella citata aggravante, in 110 Euro (doppio di 55, più conveniente di un terzo di 550). L’autorità amministrativa competente a ricevere scritti difensivi, entro il termine perentorio di 30 giorni dalla notifica, è il Prefetto. Come si effettua il pagamento delle sanzioni Il pagamento delle sanzioni può essere effettuato:
+
+• in banca o presso gli uffici postali, utilizzando il modello F23, codice tributo 131T, causale del versamento “Infrazione al divieto di fumo” ed il codice ufficio.
+
+• presso la Tesoreria provinciale competente per territorio
+
+• presso gli uffici postale tramite bollettino di c/c postale intestato alla Tesoreria provinciale competente per territorio, riportando come causale del versamento “Infrazione al divieto di fumo”.
+
+30
+
+DS Danilo Vicca
+
+31
+
+<https://www.aziendamedica.it/i-nostri-servizi/visita-medica/>   
+<https://www.aziendamedica.it/i-nostri-servizi/giudizio-di-idoneita-alla-mansione/>   
+<https://www.aziendamedica.it/i-nostri-servizi/sorveglianza-sanitaria-dei-lavoratori/>   

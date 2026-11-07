@@ -41,6 +41,14 @@ I contenuti NON sono pubblici: `content/content.json` viene servito solo da `/ap
 4. **Aggiornamenti automatici**: in GitHub apri *Settings → Secrets and variables → Actions → New repository secret* e crea `ANTHROPIC_API_KEY`. Per provarli subito: tab *Actions*, poi "Aggiornamenti normativi", poi *Run workflow*.
 5. **Costi**: nella Console Anthropic imposta un limite di spesa mensile. Ogni richiesta al coach costa pochi centesimi. Le ricerche web (verifica e novità) costano un po' di più.
 
+## Lezioni estese (la teoria completa da studiare)
+
+Ogni lezione di teoria dei moduli 1-7 (84 in tutto) ha, oltre alla sintesi del fascicolo, una **lezione completa** di 2.500-3.500 parole. È scritta dall'IA a partire dal fascicolo, aggiornato a luglio 2026, e dalle slide del corso che si trovano in `sources/slides`, scelte automaticamente in base all'argomento. Le lezioni sono salvate in `content/estese/` e sono le stesse su tutti i dispositivi.
+
+Per generarle: GitHub → Actions → **Genera lezioni estese** → *Run workflow*. Serve il secret `ANTHROPIC_API_KEY`. La generazione è progressiva: se si interrompe, quelle già fatte restano salvate e la volta dopo riparte dalle mancanti. Con i campi del modulo puoi generare un solo modulo (`M3`) o una sola lezione (`M5-03`), oppure rigenerarle con `force = si`.
+
+Come esempio di formato, `M6-02` (il D.I. 129/2018) è già presente.
+
 ## Aggiungere materiali (PDF, slide)
 
 Non serve caricare i PDF nell'app. Il flusso è questo:

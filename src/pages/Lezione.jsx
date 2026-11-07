@@ -1,11 +1,20 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
+import { fetchEstesa } from '../lib/api.js';
 import { useContent, go } from '../App.jsx';
 import { useStore, update, logDay } from '../lib/store.js';
 import { scheduleLesson, schedule } from '../lib/srs.js';
 import { today, shuffle, itDate } from '../lib/util.js';
 import { Md, useCoach, Spinner, QuizCard } from '../components.jsx';
 
-function keyPointsMd(l) {
+function schemaFrom(ext) {
+  if (!ext) return '';
+  const m = ext.match(/### Schema di ripasso\s*\n([\s\S]*?)(?=\n### |$)/);
+  return m ? m[1].trim() : '';
+}
+
+function keyPointsMd(l, ext) {
+  const sch = schemaFrom(ext);
+  if (sch) return sch;
   if (l.kp?.length) return l.kp.map(k => `- ${k.t}`).join('\n');
   const heads = (l.md.match(/^### .+$/gm) || []).map(h => '- ' + h.slice(4));
   return heads.length ? heads.join('\n') : '- Rileggi i titoletti e le tabelle della lezione.';
@@ -27,6 +36,11 @@ export default function Lezione({ id, flag }) {
   const [answer, setAnswer] = useState('');
   const { busy, err, run } = useCoach();
   const [busyWhat, setBusyWhat] = useState('');
+  const hasExt = !!content.ext?.[id];
+  const [tab, setTab] = useState(hasExt ? 'estesa' : 'sintesi');
+  const [ext, setExt] = useState('');
+  const [extErr, setExtErr] = useState('');
+  useEffect(() => { if (hasExt) fetchEstesa(id).then(setExt).catch(e => setExtErr(e.message)); }, [id]);
 
   const idx = content.lessons.findIndex(x => x.id === id);
   const next = content.lessons[idx + 1];
@@ -107,7 +121,7 @@ export default function Lezione({ id, flag }) {
           <textarea rows={6} value={recall} onChange={e => setRecall(e.target.value)} placeholder="Es.: PTOF → elabora il Collegio, approva il CdI, indirizzi del DS (c. 14 L. 107/2015)…" />
           <details className="kp" onToggle={e => e.target.open && setShowLesson(false)}>
             <summary>Confronta con i punti chiave</summary>
-            <Md src={keyPointsMd(l)} />
+            <Md src={keyPointsMd(l, ext)} />
             <p className="small">Quanto ricordavi?</p>
             <div className="grades">
               <button className="btn g1" onClick={() => rate('poco')}>Poco</button>
@@ -140,7 +154,17 @@ export default function Lezione({ id, flag }) {
 
       {showLesson && phase !== 'quiz' && (
         <>
-          <Md src={l.md} />
+          {hasExt && (
+            <div className="seg">
+              <button className={tab === 'estesa' ? 'on' : ''} onClick={() => setTab('estesa')}>Lezione completa · {Math.round(content.ext[id] / 180)} min</button>
+              <button className={tab === 'sintesi' ? 'on' : ''} onClick={() => setTab('sintesi')}>Sintesi del fascicolo · {Math.max(3, Math.round(l.words / 180))} min</button>
+            </div>
+          )}
+          {tab === 'estesa' && hasExt
+            ? (ext ? <Md src={ext} /> : extErr ? <p className="err">{extErr}</p> : <Spinner label="Carico la lezione completa…" />)
+            : <Md src={l.md} />}
+          {tab === 'estesa' && ext && <p className="small muted">Lezione estesa generata dall'IA a partire dal tuo fascicolo e dalle slide del corso. I punti segnati ⚠️ vanno verificati; le altre cifre si possono controllare con "Verifica vigenza (web)".</p>}
+          {!hasExt && /^M[1-7]/.test(l.mod) && !['checklist', 'mappa'].includes(l.kind) && <p className="small muted">La versione estesa di questa lezione non è ancora stata generata (GitHub → Actions → "Genera lezioni estese"). Intanto puoi usare "Approfondisci".</p>}
           {l.checks?.length > 0 && (
             <div className="card">
               <h3>Autoverifica: spunta solo dopo averlo detto ad alta voce</h3>

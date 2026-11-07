@@ -35,8 +35,8 @@ export default function Percorso({ mod }) {
                   <span className="kind">{KIND[l.kind] || l.kind}</span>
                   <span className="lt">{l.title}</span>
                   <span className="ls small">
-                    {st?.readAt ? (due ? <b className="due">da richiamare</b> : <>✓ ripasso {itDate(st.next)}</>) : `${Math.max(3, Math.round(l.words / 180))} min`}
-                    {s.deep[l.id] ? ' · ✦' : ''}
+                    {st?.readAt ? (due ? <b className="due">da richiamare</b> : <>✓ ripasso {itDate(st.next)}</>) : `${Math.max(3, Math.round((content.ext?.[l.id] || l.words) / 180))} min`}
+                    {content.ext?.[l.id] ? ' · completa' : ''}{s.deep[l.id] ? ' · ✦' : ''}
                   </span>
                 </a>
               </li>

@@ -1,0 +1,269 @@
+CORSO PRIVACY DS 
+
+La riforma della Privacy Il nuovo Regolamento europeo
+
+Avv. Fabrizia De Cuia – Ufficio Legale CISL Scuola
+
+A seguito della pubblicazione sulla Gazzetta Ufficiale dell’Unione Europea del 4 giugno 2016, è entrato formalmente in vigore il 24 maggio 2016 il Regolamento Europeo per la Protezione dei Dati Personali 2016/679 o nella sua accezione inglese General Data Protection Regulation (GDPR)
+
+Quadro legislativo comune ed omogeneo in materia di protezione dei dati personali e di libera circolazione dei dati
+
+Trattandosi di Regolamento e non di Direttiva, non è soggetto a recepimento, quindi gli stati membri non possono “adattare” (modificare”) il quadro normativo, che è omogeneo per tutti
+
+Cosa non cambia?
+
+• L’impianto complessivo del Codice Privacy rimane invariato – non abrogato ma novellato dal Dlgs 101/2018
+
+Opportunità e limiti del GDPR
+
+Che significa? RESPONSABILIZZARE. Il Regolamento ha uno stampo «europeo» molto diverso dal Codice Privacy italiano. Ogni soggetto dovrà autonomamente scegliere come ed in che misura mettere in sicurezza i trattamenti (antivirus, sistemi di salvataggio e cancellazione dei dati).
+
+N.B. AMPLIATA LA LIBERTA’ E LA DISCREZIONALITÀ
+
+Principio di accountability
+
+Il titolare del trattamento deve mettere in atto adeguate misure tecniche ed organizzative, per garantire ed essere in grado di dimostrare che le operazioni di trattamento vengono effettuate in conformità alla nuova disciplina.
+
+Il potere decisionale riguarda le finalità ed i mezzi. Significa determinare il «perché» e il «come» del trattamento.
+
+Approccio basato sul rischio e responsabilizzazione
+
+Cosa cambia
+
+La valutazione del rischio deve avvenire prima di procedere al trattamento dei dati vero e proprio (“sia al momento di determinare i mezzi del trattamento sia all'atto del trattamento stesso” - art. 25), e richiede un'analisi preventiva sugli impatti relativi alla protezione dei dati e un impegno applicativo da parte dei titolari che devono sostanziarsi in una serie di attività specifiche e dimostrabili.
+
+Termini e Definizioni
+
+Un dato personale è:
+
+Qualsiasi informazione riguardante una persona fisica identificata o identificabile («Interessato») tramite ulteriori dati.
+
+Possibili identificativi
+
+• il nome
+
+• i dati relativi all'ubicazione
+
+• un identificativo online
+
+• uno o più elementi caratteristici della sua identità fisica, fisiologica, genetica, psichica (dati biometrici)
+
+• uno o più elementi caratteristici della sua identità economica, culturale o sociale
+
+Art. 9 Reg UE
+
+Dato «sensibile»: nel Regolamento «categorie particolari» di dati personali.
+
+Qualunque dato che può rivelare l’origine razziale, etnica, le convinzioni religiose, le opinioni politiche, l’appartenenza a partiti, sindacati o associazioni, lo stato di salute e la vita sessuale.
+
+I dati genetici: dati personali relativi alle caratteristiche genetiche ereditarie o acquisite di una persona che forniscono informazioni univoche sulla fisiologia o salute della persona
+
+I dati biometrici: dati personali ottenuti da un trattamento tecnico specifico relativi alle caratteristiche fisiche, fisiologiche o comportamentali che consentono o confermano l’identificazione univoca
+
+I dati relativi alla salute: dati personali attinenti alla salute fisica o mentale
+
+Trattamento dei dati personali Qualsiasi operazione che può essere effettuata utilizzando dati personali delle persone:
+
+• la raccolta
+
+• la registrazione
+
+• l'organizzazione
+
+• la strutturazione
+
+• la conservazione
+
+• la modifica
+
+• l'estrazione
+
+• la consultazione
+
+• l'uso
+
+• la limitazione
+
+• la cancellazione
+
+• la distruzione
+
+Art. 5 Reg UE
+
+I dati personali devono essere:
+
+• Trattati in modo lecito, corretto e trasparente
+
+• Raccolti per finalità determinate, esplicite e legittime
+
+• Adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità – principio di «minimizzazione dei dati»
+
+• Conservati in una forma che consenta l’identificazione degli interessati per un arco di tempo non superiore al conseguimento delle finalità per cui sono trattati.
+
+• Deve essere garantita un’adeguata sicurezza dei dati personali
+
+Il trattamento lecito
+
+È necessario che ricorra almeno una delle condizioni indicate: a) l’interessato abbia espresso il consenso al trattamento dei propri dati b) il trattamento sia necessario all’esecuzione di un contratto in cui si è parte o all’adozione
+
+di misure adottate su richiesta dello stesso c) il trattamento sia necessario per adempiere un obbligo legale del titolare del trattamento d) il trattamento sia necessario per la salvaguardia degli interessi vitali dell’interessato
+
+o altra persona fisica e) il trattamento sia necessario per l’esecuzione di un compito di interesse pubblico
+
+o connesso all’esercizio di pubblici poteri
+
+Trattamento di categorie particolari di dati personali
+
+LA REGOLA: divieto di trattare dati personali che rivelino l’origine razziale o etnica, le opinioni politiche, le convinzioni religiose o filosofiche, o l’appartenenza sindacale, nonché trattare dati genetici, dati biometrici, dati relativi alla salute o alla vita sessuale o all’orientamento sessuale
+
+L’ECCEZIONE: il trattamento è consentito quando: a) l’interessato ha prestato il consenso esplicito b) il trattamento è necessario per assolvere obblighi o esercitare diritti del titolare o dell’interessato
+
+(materia di diritto del lavoro e della sicurezza sociale e protezione sociale) c) il trattamento è necessario per tutelare un interesse vitale dell’interessato d) il trattamento è effettuato da una fondazione, associazione o altro organismo senza scopo di lucro
+
+con finalità politiche, filosofiche, religiose o sindacali a condizioni che il trattamento riguardi i membri o ex membri e) il trattamento riguarda dati personali resi manifestamente pubblici dell’interessato
+
+Trattamento di categorie particolari di dati personali
+
+f) il trattamento è necessario per accertare, esercitare o difendere un diritto in sede giudiziaria g) il trattamento è necessario per motivi di interesse pubblico rilevante h) il trattamento è necessario per finalità di medicina preventiva o di medicina del lavoro,
+
+valutazione della capacità lavorativa del dipendente, diagnosi, assistenza o terapia sanitaria o sociale i) il trattamento è necessario per motivi di interesse pubblico nel settore della sanità pubblica j) il trattamento è necessario a fini di archiviazione nel pubblico interesse, di ricerca scientifica
+
+o storica o a fini statistici
+
+Il nuovo art. 2 sexies del Codice Privacy: previsti dal diritto dell’Unione, o da leggi o regolamenti.
+
+L’interesse pubblico rilevante
+
+Il legislatore individua le ipotesi in cui l’interesse è considerato, ex lege, rilevante.
+
+ES. Trattamento effettuato da soggetti che svolgono compiti di interesse pubblico o connessi all’esercizio di pubblici poteri in materia di: - Accesso a documenti amministrativi - Accesso civico - Istruzione e formazione in ambito scolastico, professionale, superiore
+
+o universitario
+
+Diritti conoscitivi
+
+• Ricevere info sul trattamento: diritto all’informativa
+
+• Ottenere info sul trattamento: diritto di accesso
+
+• Ricevere info sulle violazioni: diritto alla comunicazione di violazioni dati
+
+Diritti di controllo
+
+• Modificare il trattamento: diritto alla limitazione
+
+• Modificare i dati: diritto di rettifica
+
+• Eliminare i dati: diritto di cancellazione/oblio
+
+I soggetti coinvolti
+
+Il Titolare del Trattamento: la persona fisica o giuridica che, singolarmente o insieme ad altri, determina le finalità del Trattamento di dati personali e le misure tecniche ed organizzative di adeguamento al Regolamento Il Responsabile del Trattamento: la persona fisica o giuridica, l’autorità pubblica, o altro organismo che tratta i dati personali per conto del titolare, previo contratto specifico La persona autorizzata al Trattamento: il dipendente o il collaboratore che per conto del titolare o del responsabile del trattamento elabora o utilizza materialmente i dati sulla base delle istruzioni ricevute
+
+Contitolarità al trattamento
+
+Il Regolamento (art. 26) disciplina la contitolarità del trattamento e impone di definire (con un atto giuridicamente valido) il rispettivo ambito di responsabilità e i compiti con riguardo ai diritti degli interessati, che hanno la possibilità di rivolgersi indifferentemente a qualsiasi dei titolari
+
+Il responsabile del trattamento
+
+La nuova figura di responsabile interno in contrasto con la vecchia (colui che coadiuva il DS) NO il DSGA Ora una sorta di alter ego del Titolare Il Garante: Soprassedere. Evitare utilizzi impropri di questa definizione E il responsabile esterno? Es. Amministratore di sistema, gestore degli applicativi, chi fornisce il registro elettronico
+
+Al titolare spetta:
+
+1\) Fornire l’informativa 2) La valutazione dell’impatto del trattamento (DPIA): valutazione preventiva
+
+delle conseguenze del trattamento dati 3) Adottare misure tecniche e organizzative adeguare a garantire le sicurezza
+
+dei dati 4) Registro dei trattamenti 5) Registro delle violazioni 6) Nomina DPO
+
+Adempimenti
+
+\- Adempiere agli obblighi di pubblicazione dei dati
+
+sulla sezione Amministrazione trasparente (Dlgs 33/2013) e sull’Albo online (Linee guida AGID maggio 2016) - Autorizzare i soggetti (ex. incaricati) al trattamento
+
+(docenti, assistenti amministrativi, collaboratori scolastici) - Nominare il/i responsabili esterni del trattamento
+
+L’Informativa
+
+L’Informativa deve essere concisa, intelligibile e facilmente accessibile. Informativa per i minori: Linguaggio chiaro e semplice-Considerando 58
+
+NOVITÀ: è necessario specificare la base giuridica del trattamento, il periodo di conservazione dei dati o i criteri per stabilire tale periodo, come conservo i dati e i diritti degli interessati
+
+Il registro dei trattamenti
+
+NB: Nota MIUR n. 877 del 3 agosto 2018 modello standard + Guida alla compilazione Non riguarda il singolo trattamento, ma le categorie di dati, finalità, rischi e misure di sicurezza Il Registro deve essere aggiornato ed integrato
+
+Dimostro al Garante come sto gestendo la privacy a scuola
+
+La nota metodologica
+
+Illustra alcune modalità di compilazione relative ai seguenti processi:
+
+• Gestione iscrizioni: se la scuola usa le funzioni del portale SIDI il responsabile del trattamento sarà il MIUR, se la scuola usa pacchetti locali, il responsabile del trattamento è il fornitore informatico. Se la scuola utilizza il cartaceo, è Titolare del trattamento senza responsabile
+
+• Gestione carriera alunni: se la scuola utilizza le funzioni del portale SIDI il responsabile sarà il MIUR, se la scuola usa pacchetti locali, il responsabile è il fornitore informatico
+
+La nota metodologica
+
+Gestione del personale docente per l’assunzione:
+
+\- Contratto a tempo indeterminato e determinato:
+
+contitolarità con il MIUR e responsabile esterno MIUR
+
+\- Contratto per supplenze brevi e saltuarie: titolarità esclusiva della scuola e MIUR responsabile esterno
+
+La violazione dei dati personali
+
+La violazione di sicurezza in modo accidentale o illecito
+
+Può provocare danni fisici, materiali o immateriali.
+
+Esempio: perdita del controllo dei dati personali, limitazione dei loro diritti, discriminazione, furto o usurpazione ’identità, pregiudizio alla reputazione, perdita alla riservatezza dei dati, divulgazione non autorizzata o l’accesso ai dati personali trasmessi, conservati o comunque trattati.
+
+Violazione dei dati (data Breach)
+
+Cosa cambia
+
+• A partire dal 25 maggio 2018, tutti i titolari dovranno notificare all'autorità di controllo le violazioni di dati personali di cui vengano a conoscenza, "senza ingiustificato ritardo", e ove possibile, entro 72 ore dal momento in cui ne è venuto a conoscenza.
+
+• La notifica all'autorità non è obbligatoria, essendo subordinata alla valutazione del rischio per i diritti e le libertà degli interessati che spetta al titolare.
+
+Il DPO per il Garante
+
+Il Responsabile della protezione dei dati Il DPO nella scuola – Nota MIUR 22 maggio 2018 n. 563
+
+«a questa figura, saranno affidati compiti sostanziali, per assicurare il rispetto della normativa in materia di privacy da parte della società o ente nell’ambito del quale viene designato. Sarà affidato a questo nuovo soggetto, dotato di una specifica professionalità nel settore della protezione dei dati personali, il ruolo di “presidio avanzato” del rispetto dei princìpi e degli adempimenti in materia nonché di interlocutore ed elemento di connessione tra il titolare del trattamento e l’Autorità».
+
+I compiti del DPO
+
+Il DPO è obbligatorio
+
+Il titolare del trattamento e il Responsabile del trattamento sono obbligati a designare un “Responsabile della protezione dei dati” in tre casi, elencati nel paragrafo 1 dell’art. 37, e cioè:
+
+a) se il trattamento è effettuato da un’“autorità pubblica” o da un “organismo pubblico”
+
+b) se le “attività principali” del Titolare o del Responsabile del trattamento consistono in trattamenti che, per loro natura/ambito di applicazione/finalità, richiedono un “monitoraggio regolare e sistematico” degli interessati su “larga scala”
+
+c) se le “attività principali” consistono nel trattamento su “larga scala” di “categorie particolari” di dati (c.d. dati sensibili) o di dati personali relativi a condanne penali e reati (c.d. dati giudiziari).
+
+Più soggetti possono nominare lo stesso DPO?
+
+Sì. L’articolo 37, 3 prevede che:
+
+«Qualora il titolare del trattamento o il responsabile del trattamento sia un’autorità pubblica o un organismo pubblico, un unico responsabile della protezione dei dati può essere designato per più autorità pubbliche o organismi pubblici, tenuto conto della loro struttura organizzativa e dimensione».
+
+Questione di equilibrio
+
+Trasparenza Diritto di accesso
+
+Privacy
+
+Reg. UE 679/2016 e Dlgs 101/2018 – Codice della Privacy
+
+«Se il diritto svolge oggi, sempre più, una funzione di umanizzazione
+
+della tecnica, il diritto alla protezione dei dati rappresenta una straordinaria risorsa per mantenere la persona, nella sua libertà e nella sua responsabilità, al centro della società digitale.»
+
+Antonello Soro, presidente Autorità Garante per la Protezione dei Dati Personali

@@ -20,3 +20,13 @@ export async function fetchContent(key) {
 }
 export const coach = (mode, payload) => post('/api/coach', { mode, ...payload });
 export const novita = payload => post('/api/novita', payload);
+
+const extCache = {};
+export async function fetchEstesa(id) {
+  if (extCache[id]) return extCache[id];
+  const r = await fetch('/api/estesa?id=' + encodeURIComponent(id), { headers: { 'x-app-key': getKey() } });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(data.error || `Errore ${r.status}`);
+  extCache[id] = data.md;
+  return data.md;
+}

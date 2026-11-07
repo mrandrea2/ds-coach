@@ -1,0 +1,44 @@
+name: Genera lezioni estese
+on:
+  workflow_dispatch:
+    inputs:
+      max:
+        description: 'Quante lezioni generare in questa esecuzione (max 84)'
+        default: '84'
+      only:
+        description: 'Solo un modulo (es. M3) — vuoto = tutti'
+        default: ''
+      id:
+        description: 'Solo una lezione (es. M5-03) — vuoto = tutte'
+        default: ''
+      force:
+        description: 'Rigenera anche quelle già fatte (si/no)'
+        default: 'no'
+permissions:
+  contents: write
+jobs:
+  genera:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Genera
+        run: |
+          ARGS="--max ${{ inputs.max }} --conc 3"
+          [ -n "${{ inputs.only }}" ] && ARGS="$ARGS --only ${{ inputs.only }}"
+          [ -n "${{ inputs.id }}" ] && ARGS="$ARGS --id ${{ inputs.id }}"
+          [ "${{ inputs.force }}" = "si" ] && ARGS="$ARGS --force"
+          node scripts/genera-estese.mjs $ARGS
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+      - name: Commit (anche se la generazione si è interrotta)
+        if: always()
+        run: |
+          git config user.name "ds-coach-bot"
+          git config user.email "ds-coach-bot@users.noreply.github.com"
+          git add content/estese
+          git diff --cached --quiet || git commit -m "Lezioni estese $(date +%F)"
+          git pull --rebase && git push
