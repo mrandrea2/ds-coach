@@ -84,7 +84,8 @@ cosa è cambiato rispetto ai materiali datati
 (4 domande a risposta multipla con la soluzione tra parentesi, 2 quesiti aperti per lo scritto, 1 spunto di caso per l'orale)
 - Non scrivere introduzioni sul compito, non salutare: inizia direttamente con il primo titoletto.`;
 
-const lessons = content.lessons.filter(l =>
+const ALIAS = (() => { try { return JSON.parse(fs.readFileSync(path.join(OUT, '_alias.json'), 'utf8')); } catch { return {}; } })();
+const lessons = content.lessons.filter(l => !ALIAS[l.id] && l.id !== 'M6-90' &&
   /^M[1-7]$/.test(l.mod) && !['checklist', 'mappa'].includes(l.kind) &&
   (!ONLY || l.mod === ONLY) && (!ID || l.id === ID) &&
   (FORCE || !fs.existsSync(path.join(OUT, l.id + '.md'))));
