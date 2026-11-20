@@ -9,7 +9,10 @@ export default function handler(req, res) {
   if (!/^M\d-\d{2,3}$/.test(id)) return res.status(400).json({ error: 'id non valido' });
   const dir = path.join(process.cwd(), 'content', 'estese');
   let target = id;
-  try { target = JSON.parse(fs.readFileSync(path.join(dir, '_alias.json'), 'utf8'))[id] || id; } catch {}
+  // la lezione dedicata, se esiste, ha la precedenza sull'alias
+  if (!fs.existsSync(path.join(dir, id + '.md'))) {
+    try { target = JSON.parse(fs.readFileSync(path.join(dir, '_alias.json'), 'utf8'))[id] || id; } catch {}
+  }
   const f = path.join(dir, target + '.md');
   if (!fs.existsSync(f)) return res.status(404).json({ error: 'non ancora generata' });
   res.setHeader('Cache-Control', 'private, max-age=3600');

@@ -18,7 +18,7 @@ function load() {
       ext[f.slice(0, -3)] = (t.match(/\S+/g) || []).length;
     }
     const alias = JSON.parse(fs.readFileSync(path.join(dir, 'estese', '_alias.json'), 'utf8'));
-    for (const [a, t] of Object.entries(alias)) if (ext[t]) ext[a] = ext[t];
+    for (const [a, t] of Object.entries(alias)) if (ext[t] && !ext[a]) ext[a] = ext[t];
   } catch {}
   cache = { ...content, aggiornamenti: agg, ext };
   return cache;
